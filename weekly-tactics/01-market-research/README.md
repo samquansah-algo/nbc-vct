@@ -1,6 +1,6 @@
 # Tactic 1: Market research (primary and secondary)
 
-**Startup Tactics, Fall 2026 · Team NBC · Week of 28 Sep 2026**
+**Startup Tactics, Fall 2026 · Team NBC · Tactic week Wed 23 – Tue 29 Sep 2026**
 
 | File | |
 |---|---|
@@ -30,6 +30,6 @@
 
 ## Status (28 Sep 2026)
 - **Done:** secondary research, 10 watering holes (of 20 mapped), the script, 20 messages, the tracker and the insights grid.
-- **Scheduled:** v1 messages go out Mon 28 Sep – Fri 2 Oct, with Cape Coast canvassing Tue 29 Sep – Sat 3 Oct. v2 goes out Mon 5 – Fri 9 Oct. The 10 interviews run Wed 30 Sep – Fri 9 Oct. Consolidated findings are due Sun 11 Oct.
+- **Scheduled:** v1 messages go out Mon 28 – Tue 29 Sep, with Cape Coast canvassing on the same days. v2 goes out Wed 30 Sep – Mon 5 Oct, with one follow-up on Tue 6 Oct. The 10 interviews run Wed 30 Sep – Tue 6 Oct. Consolidated findings are due Wed 7 Oct.
 - **Before resubmitting with results:** send the messages from your own accounts and screenshot each one. Log interviews in the tracker, rate the grid, then rebuild the slides with real counts.
 - Screenshots of the live watering-hole pages are not included: the build environment could not reach those sites. Each card links to the live page instead.

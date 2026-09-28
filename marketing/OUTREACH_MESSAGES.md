@@ -6,18 +6,16 @@
 
 `[Brackets]` are personalised per recipient.
 
-## Send schedule
+## Send schedule (tactic week Wed 23 – Tue 29 Sep)
 
 | Batch | Dates | Messages |
 |---|---|---|
-| v1 | Mon 28 Sep | P1 (email, GRAF), P2 (email, Ghana Code Club) |
-| v1 | Tue 29 Sep | P3 (letter, Ghana Library Authority); admin request for P4 |
-| v1 | Wed 30 Sep | P4 (Facebook group post), P5 (email, researcher) |
-| v1 | Thu 1 Oct | R1 (micro:bit Champions), R2 (LinkedIn), R3 (Scratch meetups) |
-| v1 | Fri 2 Oct | R4 (r/homeschool, after mod approval), R5 (email, researcher) |
-| In person | Tue 29 Sep – Sat 3 Oct | Cape Coast programme owner canvassing |
-| v2 | Mon 5 – Thu 8 Oct | Revised P1–P5, R1–R4 to new contacts and v1 non-responders |
-| v2 | Fri 9 Oct | R6: one follow-up to everyone who has not replied |
+| Preparation | Wed 23 – Sun 27 Sep | Watering holes mapped, script written, all 20 messages drafted |
+| v1 | Mon 28 Sep | P1 (GRAF), P2 (Ghana Code Club), P3 (Ghana Library Authority), P5 and R5 (researchers) by email; admin and moderator requests for P4, R1 and R4 |
+| v1 | Tue 29 Sep | P4 (Facebook group), R1 (micro:bit Champions), R2 (LinkedIn), R3 (Scratch meetups), R4 (r/homeschool) |
+| In person | Mon 28 – Tue 29 Sep | Cape Coast canvassing |
+| v2 | Wed 30 Sep – Mon 5 Oct | Revised P1–P5, R1–R4, to new contacts in the same communities |
+| v2 | Tue 6 Oct | R6: one follow-up to everyone who has not replied to v1 |
 
 ## v1: first messages
 

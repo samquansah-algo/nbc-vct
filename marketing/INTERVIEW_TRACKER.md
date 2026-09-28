@@ -1,6 +1,6 @@
 # Interview tracker and insights grid
 
-**Status on 28 Sep 2026: outreach and 10 interviews scheduled (30 Sep – 9 Oct); 0 completed.** This page is updated the same day as each conversation. No names of individuals are published here; participants are logged by role.
+**Status on 28 Sep 2026: v1 outreach scheduled for Mon 28 – Tue 29 Sep and 10 interviews (30 Sep – 6 Oct); 0 completed.** This page is updated the same day as each conversation. No names of individuals are published here; participants are logged by role.
 
 ## Outreach log
 
@@ -19,16 +19,16 @@
 |---|---|---|---|---|---|
 | 1 | Owner 1 | GRAF club owner | P1 email intro | Thu 1 Oct | Scheduled |
 | 2 | Owner 2 | Cape Coast after-school owner | In-person canvass | Wed 30 Sep | Scheduled |
-| 3 | Owner 3 | Cape Coast after-school owner | In-person canvass | Fri 2 Oct | Scheduled |
-| 4 | Parent 1 | Algo Peers family (connected) | Direct | Sat 3 Oct | Scheduled |
-| 5 | Facilitator 1 | Ghana Code Club centre | P2 email | Mon 5 Oct | Scheduled |
-| 6 | Facilitator 2 | Ghana Code Club centre | P2 email | Tue 6 Oct | Scheduled |
-| 7 | Librarian | Ghana Library Authority | P3 letter | Wed 7 Oct | Scheduled |
-| 8 | Library maker lead | Participatory Library group | P4 post | Thu 8 Oct | Scheduled |
-| 9 | Parent 2 | r/homeschool | R4 post | Fri 9 Oct | Scheduled |
-| 10 | Researcher | ISLS member | P5 email | Fri 9 Oct | Scheduled |
+| 3 | Owner 3 | Cape Coast after-school owner | In-person canvass | Thu 1 Oct | Scheduled |
+| 4 | Parent 1 | Algo Peers family (connected) | Direct | Wed 30 Sep | Scheduled |
+| 5 | Facilitator 1 | Ghana Code Club centre | P2 email | Fri 2 Oct | Scheduled |
+| 6 | Facilitator 2 | Ghana Code Club centre | P2 email | Sat 3 Oct | Scheduled |
+| 7 | Librarian | Ghana Library Authority | P3 letter | Mon 5 Oct | Scheduled |
+| 8 | Library maker lead | Participatory Library group | P4 post | Mon 5 Oct | Scheduled |
+| 9 | Parent 2 | r/homeschool | R4 post | Tue 6 Oct | Scheduled |
+| 10 | Researcher | ISLS member | P5 email | Tue 6 Oct | Scheduled |
 
-**Consolidated key findings due Sun 11 Oct.**
+**Consolidated key findings due Wed 7 Oct.**
 
 ## Insights grid
 

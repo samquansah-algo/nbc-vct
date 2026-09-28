@@ -15,17 +15,18 @@ Algo Peers is building NBC: **programmable physical learning environments where 
 > - **Planned:** scripts, drafts, projections and pass lines. These are not results.
 > - **Simulated:** rehearsals with fictional personas. These are **never evidence**.
 >
-> As of 28 Sep 2026, NBC has **no pilots and no revenue**. Outreach is **scheduled** for 28 Sep – 9 Oct and 10 interviews for 30 Sep – 9 Oct; none is done yet.
+> As of 28 Sep 2026, NBC has **no pilots and no revenue**. v1 outreach is **scheduled** for Mon 28 – Tue 29 Sep, and v2 and 10 interviews for Wed 30 Sep – Tue 6 Oct; none is done yet.
 
 ## Deadlines now
 
 | Date | Deadline |
 |---|---|
-| **Week of 28 Sep** | Market research tactic: [completed tactic](weekly-tactics/01-market-research/) · first 6 conversations by **4 Oct** |
-| **11 Oct** | One offer and one bounded learning claim |
-| **18 Oct** | Offers to 10 qualified buyers |
-| **8 Nov** | **Pass line: 3 of 10 buyers pay** |
-| **20 Nov** | Closeout: review every gate |
+| **Tue 29 Sep** | Market research tactic ([deck](weekly-tactics/01-market-research/)) · all 10 v1 messages sent |
+| **Wed 7 Oct** | 10 interviews done; which problem and buyer |
+| **Tue 13 Oct** | One offer and one bounded learning claim |
+| **Tue 20 Oct** | Offers to 10 qualified buyers |
+| **Tue 10 Nov** | **Pass line: 3 of 10 buyers pay** |
+| **Fri 20 Nov** | Closeout: review every gate |
 
 Full dated plan: [tactics-milestones/DEADLINES.md](tactics-milestones/DEADLINES.md).
 
