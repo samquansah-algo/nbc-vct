@@ -4,26 +4,32 @@
 
 | File | |
 |---|---|
-| [NBC_Market_Research_Playbook.pdf](NBC_Market_Research_Playbook.pdf) | The completed playbook, 18 slides |
-| [NBC_Market_Research_Playbook.pptx](NBC_Market_Research_Playbook.pptx) | The same slides as PowerPoint (one image per slide) |
+| [NBC_Market_Research_Tactic.pdf](NBC_Market_Research_Tactic.pdf) | **Upload this.** The completed tactic, 21 slides; every link is clickable |
+| [NBC_Market_Research_Tactic.pptx](NBC_Market_Research_Tactic.pptx) | The same slides as PowerPoint, with clickable link hotspots |
 | [slides/](slides/) | Each slide as a PNG |
 
 ## What the slides cover
 
 | Template section | Slides | Source documents |
 |---|---|---|
-| Title and venture intro | 1–2 | [thesis](../../thesis/NBC_Thesis_and_Strategy_v5.md) |
-| Experiment outline (what we want to learn, hypotheses, experiment) | 3 | [interview script](../../marketing/INTERVIEW_SCRIPT.md) |
-| Script | 4 | [interview script](../../marketing/INTERVIEW_SCRIPT.md) |
-| Watering holes (10 communities) | 5–6 | [watering holes](../../marketing/watering_holes_v5.md) |
-| Outreach experiments v1 and v2 (10 + 10 messages) | 7–10 | [outreach messages](../../marketing/OUTREACH_MESSAGES.md) |
-| Interview notes | 11 | [tracker](../../marketing/INTERVIEW_TRACKER.md) |
-| Key findings | 12 | [simulated rehearsal](../../research/simulated/) (labelled, not evidence) |
-| Insights grid | 13 | [tracker](../../marketing/INTERVIEW_TRACKER.md#insights-grid) |
-| Tactical playbook questions | 14 | [v5 playbook](../../strategy/NBC_Tactical_Playbook_v5.md) |
-| Venture updates: product, market, brand and team, deadlines | 15–18 | [economics](../../forecasting/ECONOMICS.md) · [brand](../../brand/) · [deadlines](../../tactics-milestones/DEADLINES.md) |
+| Template prompt | Slides |
+|---|---|
+| Title: team name, names, date | 1 |
+| Venture intro and elevator pitch | 2 |
+| Experiment outline (Parts 1–3) | 3 |
+| Script | 4 |
+| Watering holes: 10, with sizes and fit | 5–6 |
+| Outreach experiments v1: 10 messages, shown in their channel with send dates | 7–9 |
+| Outreach experiments v2: 10 refined messages and what changed | 10–12 |
+| Interview notes: 10 scheduled interviews and the notes tool | 13 |
+| Key findings | 14 |
+| Insights grid: 10 rows, 5 problems, rating rules and callouts | 15 |
+| Tactical playbook questions | 16 |
+| Venture updates: product, market, brand and team, deadlines | 17–20 |
+| Links to every source document | 21 |
 
-## Honest status
-- **Done:** secondary research, the choice of watering holes, the script, 20 draft messages, the tracker and the grid.
-- **Not yet done:** no messages have been sent and **0 of 10 interviews** have taken place. Slides 7–13 are marked "Draft · not sent", "Not yet conducted" or "Ratings pending".
-- **To finish:** the founder sends the messages from their own accounts, runs the interviews, and adds screenshots and ratings. The slides are then rebuilt with real counts.
+## Status (28 Sep 2026)
+- **Done:** secondary research, 10 watering holes (of 20 mapped), the script, 20 messages, the tracker and the insights grid.
+- **Scheduled:** v1 messages go out Mon 28 Sep – Fri 2 Oct, with Cape Coast canvassing Tue 29 Sep – Sat 3 Oct. v2 goes out Mon 5 – Fri 9 Oct. The 10 interviews run Wed 30 Sep – Fri 9 Oct. Consolidated findings are due Sun 11 Oct.
+- **Before resubmitting with results:** send the messages from your own accounts and screenshot each one. Log interviews in the tracker, rate the grid, then rebuild the slides with real counts.
+- Screenshots of the live watering-hole pages are not included: the build environment could not reach those sites. Each card links to the live page instead.

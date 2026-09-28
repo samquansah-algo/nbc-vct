@@ -13,13 +13,13 @@ Algo Peers is building NBC: **programmable physical learning environments where 
 > - **Planned:** scripts, drafts, projections and pass lines. These are not results.
 > - **Simulated:** rehearsals with fictional personas. These are **never evidence**.
 >
-> As of 28 Sep 2026, NBC has **no pilots, no revenue and 0 of 10 market-research interviews done**. Outreach starts this week.
+> As of 28 Sep 2026, NBC has **no pilots and no revenue**. Outreach is **scheduled** for 28 Sep – 9 Oct and 10 interviews for 30 Sep – 9 Oct; none is done yet.
 
 ## Deadlines now
 
 | Date | Deadline |
 |---|---|
-| **Week of 28 Sep** | Market research tactic: [completed playbook](assignments/01-market-research/) · first 6 conversations by **4 Oct** |
+| **Week of 28 Sep** | Market research tactic: [completed tactic](assignments/01-market-research/) · first 6 conversations by **4 Oct** |
 | **11 Oct** | One offer and one bounded learning claim |
 | **18 Oct** | Offers to 10 qualified buyers |
 | **8 Nov** | **Pass line: 3 of 10 buyers pay** |
@@ -31,7 +31,7 @@ Full dated plan: [tactics-milestones/DEADLINES.md](tactics-milestones/DEADLINES.
 
 | Area | Start with | Also |
 |---|---|---|
-| **Assignments** | [01 Market research playbook (PDF)](assignments/01-market-research/NBC_Market_Research_Playbook.pdf) | [PPTX](assignments/01-market-research/NBC_Market_Research_Playbook.pptx) · [what's done and not](assignments/01-market-research/README.md) |
+| **Assignments** | [01 Market research tactic (PDF)](assignments/01-market-research/NBC_Market_Research_Tactic.pdf) | [PPTX](assignments/01-market-research/NBC_Market_Research_Tactic.pptx) · [what's done and not](assignments/01-market-research/README.md) |
 | **Thesis** | [v5 thesis and strategy](thesis/NBC_Thesis_and_Strategy_v5.md) | [lineage v1–v6](thesis/LINEAGE.md) |
 | **Strategy** | [v5 tactical playbook](strategy/NBC_Tactical_Playbook_v5.md) | [reconciliation of v5 with earlier work](strategy/RECONCILIATION.md) |
 | **Brand** | [Brand guide (PDF, 14 pages)](brand/NBC_Brand_Guide.pdf) | [brand strategy](brand/BRAND.md) · [logos](brand/logo/) · [tokens](brand/tokens/) |

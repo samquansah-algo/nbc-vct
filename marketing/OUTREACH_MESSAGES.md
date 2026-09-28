@@ -1,10 +1,23 @@
 # Outreach messages: v1 and v2
 
-*Drafted 25–28 Sep 2026 from the [watering holes](watering_holes_v5.md). **Status: drafts, not sent.** Nobody has been contacted. The founder sends each message personally, only where the community allows it, and adds a screenshot to the tracker when it goes out. Children are never contacted; parents and operators only.*
+*Drafted 25–28 Sep 2026 from the [watering holes](watering_holes_v5.md). **Status: scheduled, not yet sent.** Nobody has been contacted yet. The founder sends each message personally, only where the community allows it, and adds a screenshot to the tracker when it goes out. Children are never contacted; parents and operators only.*
 
 **Rules for v2** (drawn from the simulated rehearsal, to be re-tested with real replies): open with "Can you describe the last time…"; say "nothing to buy" early; offer a voice note; cut length by about a third; follow up once only (R6).
 
 `[Brackets]` are personalised per recipient.
+
+## Send schedule
+
+| Batch | Dates | Messages |
+|---|---|---|
+| v1 | Mon 28 Sep | P1 (email, GRAF), P2 (email, Ghana Code Club) |
+| v1 | Tue 29 Sep | P3 (letter, Ghana Library Authority); admin request for P4 |
+| v1 | Wed 30 Sep | P4 (Facebook group post), P5 (email, researcher) |
+| v1 | Thu 1 Oct | R1 (micro:bit Champions), R2 (LinkedIn), R3 (Scratch meetups) |
+| v1 | Fri 2 Oct | R4 (r/homeschool, after mod approval), R5 (email, researcher) |
+| In person | Tue 29 Sep – Sat 3 Oct | Cape Coast operator canvassing |
+| v2 | Mon 5 – Thu 8 Oct | Revised P1–P5, R1–R4 to new contacts and v1 non-responders |
+| v2 | Fri 9 Oct | R6: one follow-up to everyone who has not replied |
 
 ## v1: first messages
 
