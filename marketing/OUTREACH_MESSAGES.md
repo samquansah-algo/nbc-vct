@@ -1,5 +1,7 @@
 # Outreach messages: v1 and v2
 
+**Tracking:** each send, reply and follow-up is logged in the [NBC PMR CRM on Google Sheets](https://docs.google.com/spreadsheets/d/11LfHholpkKC0vhpQ7z_DvRme57lPln2jZR7Nm4EMrjg/edit).
+
 *Drafted 25–28 Sep 2026 from the [watering holes](watering_holes_v5.md). **Status: scheduled, not yet sent.** Nobody has been contacted yet. The founder sends each message personally, only where the community allows it, and adds a screenshot to the tracker when it goes out. Children are never contacted; parents and programme owners only.*
 
 **Rules for v2** (drawn from the simulated rehearsal, to be re-tested with real replies): open with "Can you describe the last time…"; say "nothing to buy" early; offer a voice note; cut length by about a third; follow up once only (R6).

@@ -1,5 +1,7 @@
 # Interview tracker and insights grid
 
+**Live CRM:** outreach, replies, follow-ups and interviews are logged day to day in the [NBC PMR CRM on Google Sheets](https://docs.google.com/spreadsheets/d/11LfHholpkKC0vhpQ7z_DvRme57lPln2jZR7Nm4EMrjg/edit) ([guide](crm/README.md)). This page is the weekly summary.
+
 **Status on 28 Sep 2026: v1 outreach scheduled for Mon 28 – Tue 29 Sep and 10 interviews (30 Sep – 6 Oct); 0 completed.** This page is updated the same day as each conversation. No names of individuals are published here; participants are logged by role.
 
 ## Outreach log

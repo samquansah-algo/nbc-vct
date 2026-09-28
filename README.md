@@ -38,6 +38,7 @@ Full dated plan: [tactics-milestones/DEADLINES.md](tactics-milestones/DEADLINES.
 | **Thesis** | [v5 thesis and strategy](thesis/NBC_Thesis_and_Strategy_v5.md) | [lineage v1–v6](thesis/LINEAGE.md) |
 | **Strategy** | [v5 tactical playbook](strategy/NBC_Tactical_Playbook_v5.md) | [reconciliation of v5 with earlier work](strategy/RECONCILIATION.md) |
 | **Brand** | [Brand guide (PDF, 14 pages)](brand/NBC_Brand_Guide.pdf) | [brand strategy](brand/BRAND.md) · [logos](brand/logo/) · [tokens](brand/tokens/) |
+| **CRM** | [Live PMR CRM (Google Sheets)](https://docs.google.com/spreadsheets/d/11LfHholpkKC0vhpQ7z_DvRme57lPln2jZR7Nm4EMrjg/edit) | [CRM guide and files](marketing/crm/README.md) |
 | **Marketing** | [Marketing strategy](marketing/MARKETING_STRATEGY.md) | [watering holes](marketing/watering_holes_v5.md) · [interview script](marketing/INTERVIEW_SCRIPT.md) · [outreach v1/v2](marketing/OUTREACH_MESSAGES.md) · [tracker and insights grid](marketing/INTERVIEW_TRACKER.md) · [funnel model](marketing/funnel_results.md) |
 | **Research** | [Simulated rehearsal (not evidence)](research/simulated/README.md) | |
 | **Forecasting** | [Economics, scenarios and forecasts F1–F5](forecasting/ECONOMICS.md) | [benchmarks](forecasting/BENCHMARKS.md) · [projections CSV](forecasting/projections_scenarios.csv) · [partnerships](forecasting/PARTNERSHIPS.md) · [foresight studies](forecasting/README.md) |

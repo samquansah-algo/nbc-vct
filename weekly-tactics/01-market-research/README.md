@@ -4,9 +4,10 @@
 
 | File | |
 |---|---|
-| [NBC_Market_Research_Tactic.pdf](NBC_Market_Research_Tactic.pdf) | **Upload this.** The completed tactic, 39 slides; every slide links to its source file on GitHub |
+| [NBC_Market_Research_Tactic.pdf](NBC_Market_Research_Tactic.pdf) | **Upload this.** The completed tactic, 40 slides; every slide links to its source file on GitHub |
 | [NBC_Market_Research_Tactic.pptx](NBC_Market_Research_Tactic.pptx) | The same slides as PowerPoint, with clickable link hotspots |
 | [slides/](slides/) | Each slide as a PNG |
+| [Live PMR CRM](https://docs.google.com/spreadsheets/d/11LfHholpkKC0vhpQ7z_DvRme57lPln2jZR7Nm4EMrjg/edit) | Google Sheets CRM for outreach and interviews ([guide](../../marketing/crm/README.md)) |
 
 ## What the slides cover
 
@@ -21,12 +22,12 @@
 | Watering holes: 10, plus in-person canvassing | 7–10 |
 | Outreach experiments v1: 10 messages in their channels, send schedule and measures | 11–16 |
 | Outreach experiments v2: 10 refined messages and what changed | 17–22 |
-| Interview notes: 10 scheduled interviews and how notes are kept | 23–25 |
-| Key findings | 26–27 |
-| Insights grid: 10 rows, 5 problems, how the grid is read | 28–31 |
-| Tactical playbook questions | 32–33 |
-| Venture updates: product, market, brand and team, deadlines | 34–38 |
-| Links to every source document | 39 |
+| Interview notes: 10 scheduled interviews, how notes are kept, and the live CRM | 23–26 |
+| Key findings | 27–28 |
+| Insights grid: 10 rows, 5 problems, how the grid is read | 29–32 |
+| Tactical playbook questions | 33–34 |
+| Venture updates: product, market, brand and team, deadlines | 35–39 |
+| Links to every source document and the CRM | 40 |
 
 ## Status (28 Sep 2026)
 - **Done:** secondary research, 10 watering holes (of 20 mapped), the script, 20 messages, the tracker and the insights grid.
