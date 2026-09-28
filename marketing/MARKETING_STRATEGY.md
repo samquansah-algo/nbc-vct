@@ -15,7 +15,7 @@
 
 | Track | Audience | Goal in the next 8 weeks | What we offer | What we never do | KPI | Status |
 |---|---|---|---|---|---|---|
-| **A · Programme buyers** (revenue) | After-school and out-of-school operators, fee-charging schools, programme funders. Ghana first, then ≥1 more country (Kenya, Nigeria or India; DEV-015 directory) | Test willingness to pay for a programme **plus an evidence report** (experiment D1) | Programme + termly evidence report (L1–L2 for all learners, L3 on a sample) | Promise learning gains or transfer before V1 reports | ≥3 of 10 pay a deposit; ≥2 name the report as a reason | v3 plan below; the evidence-report variant is *proposed* |
+| **A · Programme buyers** (revenue) | After-school and out-of-school programme owners, fee-charging schools, programme funders. Ghana first, then ≥1 more country (Kenya, Nigeria or India; DEV-015 directory) | Test willingness to pay for a programme **plus an evidence report** (experiment D1) | Programme + termly evidence report (L1–L2 for all learners, L3 on a sample) | Promise learning gains or transfer before V1 reports | ≥3 of 10 pay a deposit; ≥2 name the report as a reason | v3 plan below; the evidence-report variant is *proposed* |
 | **B · Recognisers and industry clusters** (acceptance, not sales) | Sector skills bodies and RPL bodies (Ghana CTVET SSBs, Kenya CDACC SSACs); practitioners in **electrical/electronics/off-grid energy** and **ICT/digital** first; construction and agriculture second | Learn what evidence they'd accept and which work tasks are fair tests (D2, I2) | Our protocol and results; 30–45 minutes of their judgement; an honorarium or acknowledgement for practitioners | Ask for data; pitch screening of children; claim endorsement | ≥1 recogniser per cluster names a decision the evidence would change; ≥2 of 3 practitioners rate the tasks "like the work" | *Proposed*; drafts in HCG strategy §11.5 (not sent) |
 | **C · Funders and knowledge networks** | Programme funders and philanthropy; global skills networks (WEF Global Future Council on Human Capital Development, Reskilling Revolution) **as benchmarks**; Harvard/HGSE network | Keep informed; no asks before results | After M2: a 2-page note, "Transfer evidence for human-centric skills" | Claim WEF affiliation; pay for event access; pitch before evidence | One funder asks for an evidence report on its own programme | *Proposed*; T5 only after M2 |
 | **D · Research and standards** | Universities (e.g. University of Cape Coast; a second-country partner); psychometric advisers; 1EdTech / credential-standard communities | Co-own the validity protocol (I1) | Pre-registered protocol; co-authorship; open instruments | Publish only positive results | A written agreement to co-review the protocol or results | In the v3 partner table; extended |
@@ -28,7 +28,7 @@
 
 | | |
 |---|---|
-| **Track A · who we market to first (Ghana sales test)** | After-school and learning-centre operators, and proprietors of fee-charging private basic schools, in Cape Coast and the Central Region |
+| **Track A · who we market to first (Ghana sales test)** | After-school and learning-centre programme owners, and proprietors of fee-charging private basic schools, in Cape Coast and the Central Region |
 | **What we promise** | *Your children will show real computing and AI capability, on the equipment you have, and parents will see it every term. No lab to buy, no box to fix.* |
 | **How people come to believe it** | **Show-Me Day.** Children demonstrate capability live to parents and proprietors, at a paying site. It is the product's evidence protocol and the main marketing event |
 | **How we reach them** | Year 1: direct visits and centres → then proprietors' associations → then referrals from paying sites |
@@ -47,11 +47,11 @@ Three names are live: **NBC**, **Algo Peers**, and **Papa Algo**. Using all thre
 |---|---|---|---|
 | **NBC** | The **infrastructure and institutional brand**: the Node, the standard, the licence, the network | Funders, governments, partners, investors, licensees | Proposals, licences, evidence reports, the node itself ("NBC Node") |
 | **Papa Algo** | The **child-facing character** who guides children through the worlds | Children, parents | Worlds, passport, Show-Me Day, storybooks |
-| **Algo Peers** | The **Ghana operating and delivery partner**, with its existing trust, network and after-school channel | Proprietors, operators, parents in Ghana | Sales, delivery, afterschool.algopeers.com, local contracts |
+| **Algo Peers** | The **Ghana operating and delivery partner**, with its existing trust, network and after-school channel | Proprietors, programme owners, parents in Ghana | Sales, delivery, afterschool.algopeers.com, local contracts |
 
 **Customer-facing line in Ghana:** *"Papa Algo learning worlds, powered by the NBC Node, delivered by Algo Peers."*
 
-**Why:** local buyers trust a known local operator, children connect to a character, and funders fund infrastructure. **Decide before printing any materials.** The entity question (whether NBC becomes a separate company) is separate and waits for the pilot results.
+**Why:** local buyers trust a known local provider, children connect to a character, and funders fund infrastructure. **Decide before printing any materials.** The entity question (whether NBC becomes a separate company) is separate and waits for the pilot results.
 
 ---
 
@@ -59,7 +59,7 @@ Three names are live: **NBC**, **Algo Peers**, and **Papa Algo**. Using all thre
 
 | Audience | Their job to be done | Positioning statement | Proof they need | Objection to handle first |
 |---|---|---|---|---|
-| **After-school operator** | Keep parents paying; run sessions that work every time | *Repeatable, hands-on computing and AI worlds your facilitators can run from day one, with a Show-Me Day every term that gives parents a reason to stay.* | A Show-Me Day at a working centre; the facilitator runs it unaided | "My facilitators aren't specialists" |
+| **After-school programme owner** | Keep parents paying; run sessions that work every time | *Repeatable, hands-on computing and AI worlds your facilitators can run from day one, with a Show-Me Day every term that gives parents a reason to stay.* | A Show-Me Day at a working centre; the facilitator runs it unaided | "My facilitators aren't specialists" |
 | **Private-school proprietor** | Win and keep enrolment; meet the computing curriculum without a lab | *Computing and AI your pupils can show, on no new devices, for an all-in termly fee. We own and fix the equipment.* | A neighbouring school's Show-Me Day; the class evidence report; no hardware liability | "Who pays when it breaks?" (answer: we do) |
 | **Teacher** | Teach computing without extra work or embarrassment | *Worlds that run themselves; you guide. A short tip each week, not another workshop.* | A setup under 5 minutes; no false signals | "Another thing to learn" |
 | **Parent** | See their child become capable and future-ready | *Watch what your child can do: build, test, fix and explain, not just use a screen.* | Their own child at a Show-Me Day; the passport | "Is it worth the fee?" |
@@ -100,7 +100,7 @@ Show-Me Day does three jobs at once: **it is the product's evidence protocol, th
 |---|---|
 | When | Once per term at each paying site; prospects invited to the nearest one |
 | Format | 45 minutes. Children in small groups demonstrate a capability in a world, then try a **changed demonstration task** (a public transfer moment). Parents watch; a witness stamps passports. **v5 correction:** Show-Me Day uses **demonstration tasks only**. The held-out tasks used to assess delayed transfer never appear at Show-Me Days or in marketing, because rehearsed or circulated tasks contaminate the evidence ([reconciliation](../strategy/RECONCILIATION.md) §2 row 5) |
-| Who attends | Parents; the proprietor or operator; 3–6 invited prospect proprietors; occasionally a district officer or sponsor |
+| Who attends | Parents; the proprietor or programme owner; 3–6 invited prospect proprietors; occasionally a district officer or sponsor |
 | What prospects take away | A one-page "What our children showed this term" (aggregate, no names); a pilot offer sheet with the all-in price |
 | Follow-up | Field lead visits within 7 days; pilot agreement signed on the second visit |
 | Guardrails | Written parental consent for any photo or name; no ranking of children; every child shows something; no data about children in marketing |
@@ -129,7 +129,7 @@ Show-Me Day does three jobs at once: **it is the product's evidence protocol, th
 | **Year 1** | **20** | | **~200** | **~$17.3k** | **~$866** |
 
 **Supporting channels** (low cost; measured separately):
-- **WhatsApp:** operator and parent groups.
+- **WhatsApp:** programme owner and parent groups.
 - **Local radio:** a Papa Algo segment in Fante and Twi, driving interest in Show-Me Days.
 - **Church, mosque and community announcements** for parent events.
 - **afterschool.algopeers.com:** interest capture and booking.
@@ -181,7 +181,7 @@ Trust is the moat and the biggest marketing risk. Before any public marketing:
 | Weeks | Actions | Output |
 |---|---|---|
 | 1–2 | Decide brand architecture; write the pilot offer sheet; build the safeguarding dossier v0; list the next 10 prospects | Offer, dossier, prospect list |
-| 3–5 | **Priced offer to 10 proprietors and operators** (deposits); field visits | ≥ 3 deposits (B1) or a price change |
+| 3–5 | **Priced offer to 10 proprietors and programme owners** (deposits); field visits | ≥ 3 deposits (B1) or a price change |
 | 4–8 | Wizard-of-Oz node at 1 centre; first Show-Me Day | Facilitator runs it unaided (B8); parent turnout |
 | 6–12 | 3 paid pilot sites live; second Show-Me Day with invited prospects; first association talk | Pilot running; prospect pipeline for Q2 |
 | 12 | Review: conversion, costs, children per node, renewal intent | Go / adjust / stop decision for Q2 |

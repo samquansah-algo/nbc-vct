@@ -40,7 +40,7 @@
 | **T2** | v2 · NBC: Infrastructure for the Next Billion Children (**the text re-shared**) | **Institutional portability:** make the intelligence of a great school portable; the NBC Node as the deployment unit | [`thesis/v2-…`](../thesis/v2-nbc-infrastructure/THESIS.md) |
 | **T3** | v3 · Unified thesis | v1 frame + v2 architecture, with economics staged behind gates | [`thesis/v3-unified/THESIS.md`](../thesis/v3-unified/THESIS.md) |
 | **T4** | HCG strategy (DEV-019/020) | The Human Capability Graph as open evidence infrastructure; transfer evidence as the first application | [`foresight/NBC_HCG_STRATEGY_2026.md`](NBC_HCG_STRATEGY_2026.md) |
-| **T5** | v5 (ChatGPT-drafted, founder-provided) | Learning infrastructure for children; learning before measurement; one testable offer (Learning Worlds for operators) | [`strategy/`](../strategy/) |
+| **T5** | v5 (ChatGPT-drafted, founder-provided) | Learning infrastructure for children; learning before measurement; one testable offer (Learning Worlds for programme owners) | [`strategy/`](../strategy/) |
 
 ---
 
@@ -112,8 +112,8 @@ Each seat reads v2 as written and gives one verdict: **Pass**, **Pass with condi
   - "NBC School" certification of public schools is politically unworkable.
 - **Verdict: Pass with conditions.** Offer the Experience Protocol and capability map as **open standards** with public governance. Sell services and support, not a licence over public institutions.
 
-### 2.8 Programme operator (the v5 first buyer)
-- **For:** "reusable activities and a facilitator plan" is something the operator wants.
+### 2.8 Programme owner (the v5 first buyer)
+- **For:** "reusable activities and a facilitator plan" is something the programme owner wants.
 - **Against:** nothing in v2 tells them what to buy on Monday, what it costs or what changes for their staff.
 - **Verdict: Reject as a sales document.** Use v5's offer language.
 
@@ -147,7 +147,7 @@ v2 guards against #5 in principle, but invites #1, #2, #4 and #6 by design.
 | Hardware / operations | Reject for 24 months |
 | Child-rights counsel | Pass with conditions |
 | Public-system buyer | Pass with conditions |
-| Programme operator | Reject as sales document |
+| Programme owner | Reject as sales document |
 | Teacher / facilitator | Pass with conditions |
 | Red team | Four of six top failure modes invited by design |
 
@@ -225,7 +225,7 @@ The substitution scenario (ordinary materials plus a good facilitator do as well
 
 ### 3.5 Three Horizons and backcasting
 
-- **H1 (now to 2027): prove the routine.** Learning Worlds for operators; external facilitators; delayed unfamiliar tasks; paid continuation (v5).
+- **H1 (now to 2027): prove the routine.** Learning Worlds for programme owners; external facilitators; delayed unfamiliar tasks; paid continuation (v5).
 - **H2 (2027–2030): make it interoperable.** Publish the Experience Protocol and the capability-evidence method as open specifications with a guardian. Add a second capability family and a contrasting site. Let others build worlds.
 - **H3 (2030+): earn the infrastructure.** Build the Node, shared intelligence services, a certification standard for NBC Centers and the contribution economy, *only where the evidence shows shared infrastructure beats the alternatives*.
 
@@ -283,7 +283,7 @@ Weights reflect what decides survival for an early venture with a public-good mi
 | §13 Proof of Human Capability | **Keep, rename** | "Capability evidence under stated conditions". No selection use for under-18s |
 | §14 Village AI | **Recast** | "Intelligence where it helps": device-agnostic, human-reviewed |
 | §15 teachers more important | **Keep; measure time saved** | Lead with facilitator leverage (structured-pedagogy evidence) |
-| §16–17 NBC OS and governance | **Drop from the thesis** | Generic school-software territory; revisit only if operators pull for it |
+| §16–17 NBC OS and governance | **Drop from the thesis** | Generic school-software territory; revisit only if programme owners pull for it |
 | §18 public education | **Keep; open standards** | No private licence over public schools |
 | §19 cheaper institution formation | **Move to H3** | Microschool economics are real but regulatory and capital-heavy |
 | §21–22 NBC Schools, Centers, licence | **Move to H3 as an IB-style standard** | Certify only after the evidence method is trusted |
@@ -301,7 +301,7 @@ Weights reflect what decides survival for an early venture with a public-good mi
 >
 > **Programmable experiences** run on ordinary materials and on whatever devices a setting already has. **Facilitator routines** make them deliverable by people beyond the founding team. **Capability evidence** records what a child did, under what conditions, with what help and with what uncertainty, from the minimum personal data, owned and correctable by families.
 >
-> NBC starts as a supported programme for operators of recurring hands-on programmes (ages ~9–12, one capability family, Cape Coast plus a contrasting site). It grows by publishing its Experience Protocol and evidence method as open standards others can build on. It earns shared intelligence infrastructure (the Node), certification of NBC Centers and a contributor economy only where evidence shows they beat simpler alternatives.
+> NBC starts as a supported programme for people who run after-school and holiday learning programmes (ages ~9–12, one capability family, Cape Coast plus a contrasting site). It grows by publishing its Experience Protocol and evidence method as open standards others can build on. It earns shared intelligence infrastructure (the Node), certification of NBC Centers and a contributor economy only where evidence shows they beat simpler alternatives.
 >
 > **North-star metric:** the total cost of reliably producing, and credibly evidencing, a unit of human capability.
 >
@@ -319,7 +319,7 @@ Weights reflect what decides survival for an early venture with a public-good mi
 - Children don't engage with the experiences, or engage without developing the target capability (engagement and learning are tested separately).
 - External facilitators can't deliver within an affordable support allowance.
 - Delayed unfamiliar-task results can't be interpreted at a cost buyers or funders will bear.
-- Three of ten qualified operators don't pay after an honest offer.
+- Three of ten qualified programme owners don't pay after an honest offer.
 - In a contrasting high-AI-access site, the evidence adds nothing beyond what AI tutors and ordinary portfolios already provide.
 
 ---

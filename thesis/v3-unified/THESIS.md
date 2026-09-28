@@ -240,7 +240,7 @@ As AI advances, researchers need harder ways to test whether models generalize b
 
 ## XVI. The Contribution and Settlement layer
 
-A **Contribution Protocol** distinguishes participation from economically valuable contribution. A teacher creates an experience adopted by thousands of schools; a community validates a language resource; a school builds an AI evaluation environment; a university validates an assessment; a local operator provides compute to neighbours; a developer improves the protocol. Each contribution carries provenance, consent, ownership, permitted uses, quality evidence, attribution, licensing and compensation rules.
+A **Contribution Protocol** distinguishes participation from economically valuable contribution. A teacher creates an experience adopted by thousands of schools; a community validates a language resource; a school builds an AI evaluation environment; a university validates an assessment; a local provider provides compute to neighbours; a developer improves the protocol. Each contribution carries provenance, consent, ownership, permitted uses, quality evidence, attribution, licensing and compensation rules.
 
 > **The economic primitive is not *human activity = monetizable data*. It is *governed contribution = attributable value*.**
 

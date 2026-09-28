@@ -1,11 +1,11 @@
 # Problem interview script (PMR v1, NBC v5)
 
-*For real conversations with adults only: programme operators, facilitators, librarians, parents and researchers. Children are never interviewed or contacted directly. Ready to use from 28 Sep 2026; revise after the first 6 conversations.*
+*For real conversations with adults only: programme owners, facilitators, librarians, parents and researchers. Children are never interviewed or contacted directly. Ready to use from 28 Sep 2026; revise after the first 6 conversations.*
 
 ## Before you start
 - **Consent:** say it is voluntary, adults only, and that you take notes. Ask before recording; notes are the default.
 - **Role check:** ask who uses the programme, who recommends things, who approves and who pays. Record these separately.
-- **Balance:** at least half of operator interviews are with people not connected to Algo Peers, and both constrained and tech-rich settings are covered.
+- **Balance:** at least half of programme owner interviews are with people not connected to Algo Peers, and both constrained and tech-rich settings are covered.
 
 ## Rules
 - Ask about **real, recent examples**, not opinions about the future.
@@ -35,9 +35,9 @@ Role · setting (constrained or tech-rich) · connected or new · recent problem
 Then rate problems P1–P5 from 0 to 3 in the [insights grid](INTERVIEW_TRACKER.md#insights-grid): 0 means not raised, 3 means raised unprompted with a recent example.
 
 ## Hypotheses
-- **H1:** Operators can't easily tell whether a child can use an idea in a new task.
+- **H1:** Programme owners can't easily tell whether a child can use an idea in a new task.
 - **H2:** Hands-on sessions stop when the one skilled facilitator is absent.
-- **H3:** Operators would pay for reusable experiences and support that cut preparation.
+- **H3:** Programme owners would pay for reusable experiences and support that cut preparation.
 - **H4:** Parents value seeing how their child tackles a challenge, not scores.
 
 The older study-02 script (v3 framing: schools and the node), used only in a simulated rehearsal, is kept in [research/simulated](../research/simulated/).

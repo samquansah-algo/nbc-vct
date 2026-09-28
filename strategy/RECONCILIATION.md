@@ -36,7 +36,7 @@ The two documents mostly agree. The real disagreements are in §4.
 | 6 | **Separate accounts** (learning / intelligence service / creator services); the downside case has zero utility revenue (v5 §5) | Staged economics in thesis §XVIII | Cleaner, and it stops utility revenue from rescuing a weak learning case |
 | 7 | **Old prices and model outputs are historical;** price from a full cost sheet and pilot logs (v5 §5) | Same principle; models labelled as assumptions | Consistent. v5 states it more firmly for the pricing sheet |
 | 8 | **Forecast register F1–F5** with resolution rules | Forecasts F1–F8 in the four-methods analysis | v5's forecasts are narrower, resolvable and tied to decisions |
-| 9 | **The family LMS subscription is a separate experiment,** not run alongside operator sales | Not covered | New channel information; kept separate as v5 advises |
+| 9 | **The family LMS subscription is a separate experiment,** not run alongside sales to programme owners | Not covered | New channel information; kept separate as v5 advises |
 | 10 | **Assistive technology is part of valid participation.** An "unassisted" condition must not remove it | "Assistance state" field; AI removed for a CDTC | An important correction to the repo's CDTC definition. **Applied (§3 A5)** |
 
 ## 3. Where the repository adds what v5 lacks (amend v5 with these)

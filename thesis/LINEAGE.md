@@ -10,7 +10,7 @@
 | Communities as producers, now through paid human baselines and capability agents (compute resale dropped) | v1 |
 | Economics staged behind gates | v3 |
 | Evidence semantics (observed, inferred, predicted); edge meanings | HCG strategy |
-| Learning before measurement; the operator wedge; the eight-week plan | v5 |
+| Learning before measurement; starting with programme owners; the eight-week plan | v5 |
 | The pass as an evidence type | Baton (invention) |
 | New: open protocol and standard under a foundation; independent assessors; the evaluation-worlds exchange with adult data only; VCU and HBU units; the data covenant; the five platform-proof moats | v6 |
 

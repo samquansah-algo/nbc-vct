@@ -578,7 +578,7 @@ Translators might be rewarded for expanding resources into additional languages.
 Researchers might contribute validated measurement methods.
 Developers might create compatible tools.
 Local manufacturers might produce computational matter.
-Node operators might provide legitimate community intelligence services.
+Node programme owners might provide legitimate community intelligence services.
 Schools and communities might contribute carefully governed knowledge or evaluation environments.
 
 Children can benefit through: learning opportunities; project resources; scholarships; compute access; credentials; portfolio evidence; and pathways into further education and work.

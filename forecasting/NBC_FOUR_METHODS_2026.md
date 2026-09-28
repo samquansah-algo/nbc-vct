@@ -268,7 +268,7 @@ The earlier report used two axes: (1) the **premium on unassisted capability** a
 - **Refuses:** some master craftsmen, who fear losing control of apprentices.
 - **Harmed:** candidates whose assessors are poorly trained, if quality slips.
 
-**NBC's role:** accredited evidence-protocol operator plus node service. **Revenue:** site subscriptions, per-validation fees, licences.
+**NBC's role:** accredited evidence-protocol provider plus node service. **Revenue:** site subscriptions, per-validation fees, licences.
 
 **Indicators and triggers:** a KNQA or CTVET acceptance of supervised records → expand the TVET line. An employer association adopts VC records → build a recogniser portal.
 
@@ -361,7 +361,7 @@ The earlier report used two axes: (1) the **premium on unassisted capability** a
 - **Facilitator (Kwame):** keeps a useful skill.
 - **Buyer (Mrs Mensah):** buys only if parents value the activity itself.
 
-**NBC's role:** publish the negative results; license anchor tasks; become a lean practical-learning operator (S3) or stop.
+**NBC's role:** publish the negative results; license anchor tasks; become a lean practical-learning programme owner (S3) or stop.
 
 **Trigger:** partial r < 0.2 in two samples, or an equity gap > 0.15 → stop evidence claims.
 

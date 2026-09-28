@@ -11,7 +11,7 @@ Status: **draft for checkpoint 1**. Source IDs (S01–S13) refer to `source_mani
 | **Venture (broader thesis, not under test here)** | NBC: The Human Capability Utility (S01). This covers the full architecture (Village AI, Computational Matter, Experience Protocol, Capability Graph, NBC OS, contribution layer) and the staged economics (stages 1–5). This study **does not test** and **does not replace** the long-term thesis. |
 | **Product scenario under test** | **Stage 1, Node-as-a-Service**: product P1 bundled with P2–P6 (S08), delivered as the Step 22 MVBP (S04). The bundle is a paid termly subscription per site: one shared device with solar, printed tokens, 2–3 learning worlds, teacher guides, a termly Show-Me Day, a one-page class evidence report and teacher-facing Village AI. NBC owns and replaces the hardware. |
 | **Out of scope** | Stages 2–5, the evening and community cohorts (P7, P10), licences, verification, the contribution economy (P8, P9, P11, P12), and public schools. S01 says public education stays public, and the sponsored sheet is a separate sponsor conversation (S04 Step 15, S06 §7). |
-| **Decision this study informs** | How to design the **Step 21 test 1: a priced offer to 10 proprietors and operators, with deposits** (S04, S06 90-day plan). That covers the interview script, the offer wording, the evidence to collect and what to observe in the Wizard-of-Oz node. |
+| **Decision this study informs** | How to design the **Step 21 test 1: a priced offer to 10 proprietors and programme owners, with deposits** (S04, S06 90-day plan). That covers the interview script, the offer wording, the evidence to collect and what to observe in the Wizard-of-Oz node. |
 
 ## 2. Segment boundaries
 
@@ -40,7 +40,7 @@ Country-specific details in personas are fictional scenario assumptions. The stu
 | **Beneficiary** | Children | Pupils aged 9–12 | No (children are not interviewed; ethics) |
 | **End user** | Facilitators | Class teachers | Yes |
 | **Champion** | Lead facilitator | ICT or computing teacher | Yes |
-| **Economic buyer** (can sign and pay) | Operator | Proprietor | Yes |
+| **Economic buyer** (can sign and pay) | Programme owner | Proprietor | Yes |
 | **Influencer** | Parents | Parents, PTA, head teacher | Yes (parent, head teacher) |
 | **Veto / gatekeeper** | (not specified) | Respected senior teacher; association norms | Yes (head teacher as gatekeeper) |
 
@@ -52,7 +52,7 @@ Stable IDs follow the business model (S04 Step 20, S09). The founder's earlier s
 
 | ID | Assumption (S04 wording) | Source threshold / pass signal | Required evidence | Can interviews investigate it? | Earlier ID |
 |---|---|---|---|---|---|
-| **B1** | Proprietors and operators pay about $4–6 per child per term, all-in | ≥ 3 of 10 prospects pay a deposit (S04 Step 21 test 1; kill criterion: fewer than 3 of 10 pay at any tested price) | **Transaction:** deposits and paid invoices | **Partly.** Past spending, budget process and objections, yes. Payment, no: that needs a **transaction** | — |
+| **B1** | Proprietors and programme owners pay about $4–6 per child per term, all-in | ≥ 3 of 10 prospects pay a deposit (S04 Step 21 test 1; kill criterion: fewer than 3 of 10 pay at any tested price) | **Transaction:** deposits and paid invoices | **Partly.** Past spending, budget process and objections, yes. Payment, no: that needs a **transaction** | — |
 | **B2** | A node serves ≥ 160 children a year, or an evening cohort is added | ≥ 160 children per node, or an evening cohort (S04, S06 KPI) | **Records / observation:** enrolment, timetable, attendance logs | **Partly.** Class sizes and timetable slots can be discussed; real utilization needs **records** | — |
 | **B3** | Annual churn ≤ 20% | Paid term 2 at ≥ 2 of 3 pilot sites; year-2 renewal ≥ 75% (S04, S06) | **Transaction over time:** renewals | **No.** Past renewal of other services is only context | — |
 | **B4** | Teacher development ≤ $350 per site per year | ≤ $350 per site per year (S04, S08 P6) | **Financial records:** pilot cost logs | **Partly.** Past training and support experiences; cost needs **records** | — |

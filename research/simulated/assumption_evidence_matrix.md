@@ -4,11 +4,11 @@
 
 ## 1. Priority order (by consequence for the next venture decision)
 
-The next decision is **whether and how to run Step 21 test 1**: a priced offer, with deposits, to 10 proprietors and operators. Kill criterion (S04): fewer than 3 of 10 pay at any tested price. Assumptions are ranked by how much a wrong answer would change that decision, not by how easy they are to discuss.
+The next decision is **whether and how to run Step 21 test 1**: a priced offer, with deposits, to 10 proprietors and programme owners. Kill criterion (S04): fewer than 3 of 10 pay at any tested price. Assumptions are ranked by how much a wrong answer would change that decision, not by how easy they are to discuss.
 
 | Rank | ID | Assumption (S04 Step 20 wording) | Why it ranks here |
 |---|---|---|---|
-| 1 | **B1** | Proprietors and operators pay about $4–6 per child per term, all-in | Decides the test directly; price has the largest sensitivity swing in the model (S05) |
+| 1 | **B1** | Proprietors and programme owners pay about $4–6 per child per term, all-in | Decides the test directly; price has the largest sensitivity swing in the model (S05) |
 | 2 | **B8** | Teachers run worlds without an NBC facilitator | If false, cost to serve and churn break; it also decides what the offer must include |
 | 3 | **B9** | Parents value witnessed capability enough to keep paying fees to the school or centre | The buyer's reason to pay (S04 beachhead test 3) |
 | 4 | **B2** | A node serves ≥ 160 children a year, or an evening cohort is added | Second-largest sensitivity swing; decides which sites qualify |

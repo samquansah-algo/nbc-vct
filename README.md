@@ -6,6 +6,8 @@
 
 Algo Peers is building NBC: **programmable physical learning environments where children build, experiment and develop capabilities with shared AI.** Founder: Sam Quansah. Base: Cape Coast, Ghana. Term: Fall 2026.
 
+**Our first customers are programme owners:** the people who run after-school clubs, holiday camps and learning centres for children aged about 9–12, starting in Cape Coast.
+
 ![NBC deck cover](deck/cover.png)
 
 > **Read this first.** This repository mixes three kinds of material, and each file says which it is:
@@ -19,7 +21,7 @@ Algo Peers is building NBC: **programmable physical learning environments where 
 
 | Date | Deadline |
 |---|---|
-| **Week of 28 Sep** | Market research tactic: [completed tactic](assignments/01-market-research/) · first 6 conversations by **4 Oct** |
+| **Week of 28 Sep** | Market research tactic: [completed tactic](weekly-tactics/01-market-research/) · first 6 conversations by **4 Oct** |
 | **11 Oct** | One offer and one bounded learning claim |
 | **18 Oct** | Offers to 10 qualified buyers |
 | **8 Nov** | **Pass line: 3 of 10 buyers pay** |
@@ -31,7 +33,7 @@ Full dated plan: [tactics-milestones/DEADLINES.md](tactics-milestones/DEADLINES.
 
 | Area | Start with | Also |
 |---|---|---|
-| **Assignments** | [01 Market research tactic (PDF)](assignments/01-market-research/NBC_Market_Research_Tactic.pdf) | [PPTX](assignments/01-market-research/NBC_Market_Research_Tactic.pptx) · [what's done and not](assignments/01-market-research/README.md) |
+| **Weekly tactics** | [01 Market research tactic (PDF)](weekly-tactics/01-market-research/NBC_Market_Research_Tactic.pdf) | [PPTX](weekly-tactics/01-market-research/NBC_Market_Research_Tactic.pptx) · [what's done and not](weekly-tactics/01-market-research/README.md) |
 | **Thesis** | [v5 thesis and strategy](thesis/NBC_Thesis_and_Strategy_v5.md) | [lineage v1–v6](thesis/LINEAGE.md) |
 | **Strategy** | [v5 tactical playbook](strategy/NBC_Tactical_Playbook_v5.md) | [reconciliation of v5 with earlier work](strategy/RECONCILIATION.md) |
 | **Brand** | [Brand guide (PDF, 14 pages)](brand/NBC_Brand_Guide.pdf) | [brand strategy](brand/BRAND.md) · [logos](brand/logo/) · [tokens](brand/tokens/) |

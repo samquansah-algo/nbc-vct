@@ -13,7 +13,7 @@ Current stage: an operating Algo Peers practice supports a new NBC research and 
 |---|---|
 | Current Evidence | Algo Peers has delivered hands-on learning, built an LMS and documented learner interactions. These provide practitioner knowledge and access. NBC’s proposed combination of reusable worlds, evidence and independent delivery is ready for feasibility testing. |
 | Next Choices | Develop a reusable learning kit; provide a supported programme; add evidence tools where they improve instruction; or redesign the experience before expansion. |
-| Gating Uncertainty | Can children learn something they can use in an unfamiliar task when an external facilitator delivers the experience, and can an operator sustain its total delivery cost? |
+| Gating Uncertainty | Can children learn something they can use in an unfamiliar task when an external facilitator delivers the experience, and can an programme owner sustain its total delivery cost? |
 | Next Milestone | Complete a bounded paid pilot with baseline and delayed unfamiliar tasks, independent scoring, repeated delivery by two external facilitators, complete cost logs and documented buyer continuation decisions. |
 | If Met / If Missed | If the evidence is promising, replicate in a contrasting setting and design a stronger comparative learning study. If it fails, identify whether learning design, measurement, delivery or purchasing caused the failure, then revise that component before expansion. |
 
@@ -31,9 +31,9 @@ Use additional evidence slides when they carry information. Do not fill them wit
 
 ## Workstream 1: the decision and buyer
 
-**Question:** What recurring learning problem is important enough for an operator to change a programme or pay for support?
+**Question:** What recurring learning problem is important enough for an programme owner to change a programme or pay for support?
 
-Proposed recruitment: 12–16 exploratory conversations across operators, facilitators and parents, including people outside existing friendly relationships. Recruit comparable-age learning settings in Ghana and, if accessible, one context with extensive AI access.
+Proposed recruitment: 12–16 exploratory conversations across programme owners, facilitators and parents, including people outside existing friendly relationships. Recruit comparable-age learning settings in Ghana and, if accessible, one context with extensive AI access.
 
 ### Interview guide
 

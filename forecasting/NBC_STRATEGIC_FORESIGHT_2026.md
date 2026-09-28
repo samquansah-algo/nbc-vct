@@ -298,7 +298,7 @@ Horizons: **N** = 0–2 years, **M** = 3–5 years, **L** = 6–10 years. "Influ
 ### Axes (horizon 2029–2033)
 
 - **Axis 1, the unassisted-capability premium.** Do recognisers (employers, certifiers, schools, funders) demand and pay for evidence that a person can perform *without AI assistance, in a new context*? Or do AI-assisted outputs and platform AI certificates count as good enough? *Why this axis:* it is genuinely uncertain (§6A), it decides whether NBC's core value exists, and the evidence runs both ways (OECD DEO vs OpenAI's competency certificates).
-- **Axis 2, control of intelligence and recognition infrastructure.** Is it **open and locally operable** (open models on the edge, standards-based learner-held records, public or community recognition)? Or **centralised and platform-mediated** (metered cloud AI, proprietary credential platforms, closed records)? *Why this axis:* it is largely independent of Axis 1 (open models can coexist with closed recognition), and it decides NBC's role: operator or supplier.
+- **Axis 2, control of intelligence and recognition infrastructure.** Is it **open and locally operable** (open models on the edge, standards-based learner-held records, public or community recognition)? Or **centralised and platform-mediated** (metered cloud AI, proprietary credential platforms, closed records)? *Why this axis:* it is largely independent of Axis 1 (open models can coexist with closed recognition), and it decides NBC's role: programme owner or supplier.
 
 Other variables (grid reliability, funder priorities, child-data rules, Ghana curriculum rollout) shape conditions *inside* each scenario.
 
@@ -336,7 +336,7 @@ Grounded in the source segment and the study 02 persona patterns. Their statemen
 
 **What becomes scarce:** accredited assessors and facilitators; valid anchor tasks.
 
-**NBC's role:** an accredited **evidence-protocol and node operator**. Revenue: per-site node service, plus per-demonstration fees paid by recognisers (employers, CTVET, outcome funds), plus licences for NBC Centers.
+**NBC's role:** an accredited **evidence-protocol and node host**. Revenue: per-site node service, plus per-demonstration fees paid by recognisers (employers, CTVET, outcome funds), plus licences for NBC Centers.
 
 **Barriers:** accreditation, assessor supply, equity validation.
 
@@ -369,7 +369,7 @@ Grounded in the source segment and the study 02 persona patterns. Their statemen
 
 **What becomes scarce:** local, physical, supervised test sites.
 
-**NBC's role:** a **local assessment-centre operator and physical-task supplier** inside others' credential systems. Revenue: per-sitting fees from platforms; node service to schools.
+**NBC's role:** a **local assessment-centre provider and physical-task supplier** inside others' credential systems. Revenue: per-sitting fees from platforms; node service to schools.
 
 **Barriers:** platform terms, and dependence on a single platform.
 
@@ -404,7 +404,7 @@ Grounded in the source segment and the study 02 persona patterns. Their statemen
 
 **Actions:** compete on the practical experience and facilitation playbook; shrink the evidence layer.
 
-**Pivot:** to a lean practical-STEM operator, or to licensing the playbook.
+**Pivot:** to a lean practical-STEM programme, or to licensing the playbook.
 
 | Persona | Day | Decision | Capability | Interaction | Who pays | Refusal | Benefits and risks |
 |---|---|---|---|---|---|---|---|
@@ -442,7 +442,7 @@ Grounded in the source segment and the study 02 persona patterns. Their statemen
 
 **Pathway:** NBC's validity study finds node evidence **does not predict blind-scored transfer beyond a pretest**, or does so only for wealthier or English-medium schools. Meanwhile phone AI tutors plus printed worksheets achieve similar near-term gains at about a tenth of the cost.
 
-**NBC's role:** stop claiming evidence. Either (a) pivot to a practical-STEM programme operator (Scenario C), or (b) narrow to *measurement research*: publish negative results and license anchor tasks.
+**NBC's role:** stop claiming evidence. Either (a) pivot to a practical-STEM programme (Scenario C), or (b) narrow to *measurement research*: publish negative results and license anchor tasks.
 
 **Indicators:** validity study correlations below the threshold (§11).
 

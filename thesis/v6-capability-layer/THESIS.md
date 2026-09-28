@@ -59,10 +59,10 @@ v6 is designed so NBC holds all five. It treats frontier labs as **suppliers** (
 |---|---|---|---|---|
 | **L5 · Exchange** | **Evaluation worlds and human baselines** for AI developers; **outcome contracts** priced per verified capability; a **creator marketplace** for world designers | AI labs, AI safety institutes, robotics teams, funders, governments, creators | Data labs can't scrape; neutrality | NBC Inc. |
 | **L4 · Trust** | **The NBC Standard**: certification of worlds, learning environments and capability claims, by independent assessors | Schools, microschools, programmes, ministries, employers | Legitimacy | Standard: NBC Foundation · services: NBC Inc. |
-| **L3 · Facilitator intelligence** | **The phone is the Node**: routines, preparation, observation, misconception maps, model-agnostic AI help, offline-first | Facilitators, teachers, programme operators | Presence; operational know-how | NBC Inc. |
+| **L3 · Facilitator intelligence** | **The phone is the Node**: routines, preparation, observation, misconception maps, model-agnostic AI help, offline-first | Facilitators, teachers, programme owners | Presence; operational know-how | NBC Inc. |
 | **L2 · Evidence** | **Capability Evidence Standard and records** (the HCG made practical): observed / inferred / predicted, conditions, assistance, uncertainty; the **pass** (Baton) as one evidence type | Everyone above; families own records | Adoption; trust | Standard: Foundation · records: family-controlled data trust |
 | **L1 · Protocol** | **The Experience Protocol**: an open, machine-readable description of physical tasks (objects, states, actions, consequences, assistance, evidence), executable on paper, sensors, simulators, by humans and by AI agents | Any learning-tech builder, researchers, simulator and robotics teams | Ecosystem adoption | NBC Foundation (open licence) |
-| **L0 · Places** | **Learning Worlds kits, microschool-in-a-box, community spaces**, licensed to operators, never owned by NBC | Operators, microschools, programmes, community hubs | Atoms and presence | Operators; NBC certifies and equips |
+| **L0 · Places** | **Learning Worlds kits, microschool-in-a-box, community spaces**, licensed to programme owners, never owned by NBC | Programme owners, microschools, programmes, community hubs | Atoms and presence | Programme owners; NBC certifies and equips |
 
 **The layering rule:** open where adoption matters (L1, L2), trusted where legitimacy matters (L4), commercial where the service is delivered (L3, L5), and operated by others where places are involved (L0).
 
@@ -105,7 +105,7 @@ Like the kilowatt-hour for utilities or the token for language models, the Capab
 | **"The IB of the AI era"** | **L4 Trust:** the NBC Standard | Worlds certification from year 2; environments from year 3–4 | Split into a **foundation that owns the standard** and **independent assessors**, to avoid NBC certifying itself. It starts with *worlds*, the easiest thing to certify |
 | **1 · Facilitator intelligence network** | **L3:** the engine of H1 and the source of presence | Now | It is the wedge. The phone is the Node; the AI inside is swappable; the moat is routines, training and a network in thousands of places |
 | **2 · Evaluation worlds** | **L5 Exchange:** the frontier-revenue line | Pilot in the first 90 days | A **separate business unit with a data firewall**. Earliest non-education revenue; highest margin; the main mission-drift risk, so it is capped as a share of revenue until year 5 |
-| **3 · Microschool-in-a-box** | **L0 via licensing** | Year 2–3 pilot (US education-savings-account states and African low-fee private operators) | NBC **never owns schools**. It sells certification, kits, the facilitator stack and the standard to operators |
+| **3 · Microschool-in-a-box** | **L0 via licensing** | Year 2–3 pilot (US education-savings-account states and African low-fee private programme owners) | NBC **never owns schools**. It sells certification, kits, the facilitator stack and the standard to programme owners |
 | **4 · v1 community intelligence utility** | **L0/L5, narrowed** | Year 4+ option | **Compute resale is dropped**: small community nodes can't compete with hyperscale prices. Kept: **facilitators as local capability agents** (like mobile-money agents) earning from several services, and local inference for offline use |
 | **Baton (the pass)** | **L2 evidence primitive + L3 routine** | Now | No longer a company. It is one open evidence type any builder can implement |
 
@@ -116,7 +116,7 @@ Like the kilowatt-hour for utilities or the token for language models, the Capab
 1. Facilitators run worlds in more places, which produces **VCUs**.
 2. VCUs and misconception maps improve worlds and routines, so the cost per VCU falls.
 3. Cheaper, credible evidence makes the **NBC Standard** worth adopting.
-4. More operators and builders adopt the **protocol**.
+4. More programme owners and builders adopt the **protocol**.
 5. More creators publish worlds.
 6. More certified worlds enlarge the **evaluation corpus**, with adult HBUs.
 7. AI-exchange revenue subsidises the free and public tiers.
@@ -147,5 +147,5 @@ Neither can be generated by a model alone, because both need people doing physic
 - **v2:** the inversion; "observe the environment, not the child"; minimum personal data; cost per unit of capability; institutional portability.
 - **v3:** economics staged behind evidence gates.
 - **HCG strategy:** evidence semantics and edge meanings.
-- **v5:** learning before measurement; the operator wedge; the eight-week plan.
+- **v5:** learning before measurement; starting with programme owners; the eight-week plan.
 - **Baton:** the pass as second-hand evidence.

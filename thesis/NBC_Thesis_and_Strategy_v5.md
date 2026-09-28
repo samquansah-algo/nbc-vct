@@ -46,7 +46,7 @@ Capability includes reasoning, making, collaboration, care, inquiry, adaptation 
 
 The mission concerns children across technology-scarce and technology-rich environments. Relevant settings include homes, schools, libraries, museums, community programmes, after-school centres and makerspaces.
 
-The recommended initial commercial segment is **independent operators of recurring hands-on learning programmes for children aged approximately 9–12**, beginning with reachable operators in Cape Coast. This age band is a proposed design choice for the first task family, not NBC’s permanent age boundary. Recruitment and task review should determine its suitability.
+The recommended initial commercial segment is **independent programme owners of recurring hands-on learning programmes for children aged approximately 9–12**, beginning with reachable programme owners in Cape Coast. This age band is a proposed design choice for the first task family, not NBC’s permanent age boundary. Recruitment and task review should determine its suitability.
 
 A contrasting research site should serve a comparable age group with substantially different access to AI or learning resources. It may be in Ghana or another country. International access is a recruitment objective, not an existing partnership.
 
@@ -86,13 +86,13 @@ Families and learners need age-appropriate explanation and ways to correct recor
 
 **Working offer: NBC Learning Worlds.** A supported sequence of reusable physical learning experiences, facilitator guidance and a concise evidence summary that helps choose the next learning step.
 
-Initial user: children in recurring programmes. Daily operator: a facilitator. Buyer: the programme owner or budget holder. Parents may fund the operator through fees. Sponsored access requires an identified sponsor and explicit delivery budget.
+Initial user: children in recurring programmes. Daily programme owner: a facilitator. Buyer: the programme owner or budget holder. Parents may fund the programme owner through fees. Sponsored access requires an identified sponsor and explicit delivery budget.
 
 Algo Peers’ existing family-paid programmes are an access and pricing research channel. Historical Algo Peers customers must remain distinct from NBC purchasers.
 
 | Route | Role now | Next evidence |
 |---|---|---|
-| External after-school/community learning operators | Recommended initial commercial test | Specific recurring problem, authority, deposit, successful use and renewal |
+| External after-school/community learning programme owners | Recommended initial commercial test | Specific recurring problem, authority, deposit, successful use and renewal |
 | Families reached through Algo Peers | Existing relationship and discovery channel | Whether families value the new experience and which format they can use |
 | Family subscription through the existing LMS | Separate product hypothesis | Repeated independent use, manageable support, a paid renewal and a clear job for the physical component |
 | Schools | Eligible setting when the buyer and timetable fit the same offer | Procurement, facilitator availability, curriculum fit and total cost |
@@ -100,7 +100,7 @@ Algo Peers’ existing family-paid programmes are an access and pricing research
 | Government systems and publishers | Later scaling channels | Validated delivery, implementation capacity, purchasing route and evidence expectations |
 | Adult/workplace markets | Longer-term option | Separate mission review and domain-specific evidence |
 
-Do not launch operator sales and a mass-market family subscription simultaneously. Compare the family route cheaply through existing relationships, then choose according to paid repeat use, acquisition cost, support and learning opportunity. The presence of an LMS does not establish subscription demand.
+Do not launch sales to programme owners and a mass-market family subscription simultaneously. Compare the family route cheaply through existing relationships, then choose according to paid repeat use, acquisition cost, support and learning opportunity. The presence of an LMS does not establish subscription demand.
 
 ## 4. Global research design and personas
 
@@ -109,11 +109,11 @@ These are constructed recruitment lenses, not interview findings. Locations illu
 | Learner context | Core question | Adult participant or buyer |
 |---|---|---|
 | Cape Coast child, limited individual device access | Does the experience enable meaningful practice and later use of the concept? | Community facilitator; programme owner; parent |
-| US child with extensive AI access, similar age | What understanding survives changed or withdrawn optional AI help? | Parent; after-school operator; educator |
-| Indian child in a crowded urban programme | Can group participation preserve individual opportunities and interpretable evidence? | Facilitator; operator |
+| US child with extensive AI access, similar age | What understanding survives changed or withdrawn optional AI help? | Parent; after-school programme owner; educator |
+| Indian child in a crowded urban programme | Can group participation preserve individual opportunities and interpretable evidence? | Facilitator; programme owner |
 | Brazilian child using assistive technology | Does the task capture the intended construct without penalizing access needs? | Child, caregiver and accessibility-informed educator |
 | Multilingual child in a European community programme | Which apparent difficulties reflect language and which reflect the intended capability? | Community educator; family |
-| Rural child in an otherwise wealthy country | How do distance, transport and staffing affect access and delivery economics? | Library or community operator; family |
+| Rural child in an otherwise wealthy country | How do distance, transport and staffing affect access and delivery economics? | Library or community programme owner; family |
 
 Use the same bounded capability and reasonably comparable ages before interpreting context differences. Record prior knowledge and experience. Necessary assistive technology is part of valid participation; an “unassisted” condition must not remove it.
 
@@ -131,8 +131,8 @@ Machine intelligence is one input. Its availability does not remove physical mat
 
 | Account | Possible payer/revenue | Required gate |
 |---|---|---|
-| Core learning service | Operator fee, family subscription, separately funded sponsored delivery | Paid delivery, credible learning proposition and repeat use |
-| Shared intelligence service | Contracted useful workloads for operators or communities | Repeat paid demand and positive contribution after all incremental costs |
+| Core learning service | Programme owner fee, family subscription, separately funded sponsored delivery | Paid delivery, credible learning proposition and repeat use |
+| Shared intelligence service | Contracted useful workloads for programme owners or communities | Repeat paid demand and positive contribution after all incremental costs |
 | Creator and infrastructure services | Licensed experience packages, implementation or later verification services | Useful rights-cleared content, buyer demand and sound evidence where verification is sold |
 
 A fourth possibility, AI evaluation environments, remains a research option. Its demand, technical requirements and governance are untested. Exclude child-data sales, assumed royalties, tokens and speculative marketplace proceeds from the core business case.
@@ -185,7 +185,7 @@ The first cycle is feasibility and decision research. It prepares a stronger cau
 
 | Week | Work and evidence | Decision |
 |---|---|---|
-| 1 | 6 initial operator/facilitator conversations and recent workflow examples; specify one learning problem and candidate age band | Which repeated learning decision and buyer to serve |
+| 1 | 6 initial programme owner/facilitator conversations and recent workflow examples; specify one learning problem and candidate age band | Which repeated learning decision and buyer to serve |
 | 2 | Complete 12–16 discovery conversations; independent review of one capability specification and three task designs; construct costed pilot offer | Select one offer and a bounded learning claim |
 | 3 | Small task-usability sessions; baseline probe; observation and scoring trial; begin offers to 10 qualified buyers | Repair task/accessibility problems; choose minimum useful capture |
 | 4 | External facilitator delivery; record preparation, assistance, failures and child explanations | Self-service toolkit, supported programme or redesign |
@@ -200,7 +200,7 @@ Recruitment targets are proposed, not sample-size justification. A learning scie
 
 Separate experience development from assessment validation and intervention efficacy. Use different or appropriately counterbalanced task forms to reduce practice effects. Predetermine what counts as useful improvement before outcomes are seen.
 
-For later efficacy work, compare against a credible alternative, assess relevant baseline knowledge, use delayed unfamiliar tasks, blind scoring where feasible, and account for assignment unit, clustering, missingness and facilitator differences. A changed surface alone may not establish meaningful transfer.
+For later efficacy work, compare against a credible alternative, assess relevant baseline knowledge, use delayed unfamiliar tasks, blind scoring where feasible, and account for how groups are formed, clustering, missingness and facilitator differences. A changed surface alone may not establish meaningful transfer.
 
 Maintain separate demonstration materials and held-out assessment tasks. Public Show-Me Days illustrate learning; they cannot simultaneously serve as uncontaminated research tests once tasks are rehearsed or circulated.
 
@@ -247,7 +247,7 @@ Do not claim a new company, trademark or licensing agreement from this brand rec
 
 | Audience | Message to test | Proof needed |
 |---|---|---|
-| Learning operator | Run meaningful practical learning with reusable experiences and clear facilitator guidance | Preparation, delivery quality, support, cost and repeat use |
+| Learning programme owner | Run meaningful practical learning with reusable experiences and clear facilitator guidance | Preparation, delivery quality, support, cost and repeat use |
 | Parent | See how your child approaches a challenge, explains choices and tries something unfamiliar | Concrete examples, useful feedback and appropriate outcome evidence |
 | Facilitator | Understand the activity and choose a useful next step | Usable guidance, accurate interpretation and manageable burden |
 | School leader | Fit worthwhile learning into actual staffing, timetable and purchasing conditions | Local feasibility and a costed implementation |
@@ -256,7 +256,7 @@ Do not claim a new company, trademark or licensing agreement from this brand rec
 
 ### Channels and funnel
 
-Begin with reachable external learning operators, referrals, practitioner networks and existing Algo Peers relationships. Label warm leads separately from new prospects. Use parent feedback through existing programmes to test a family offer without assuming conversion.
+Begin with reachable external learning programme owners, referrals, practitioner networks and existing Algo Peers relationships. Label warm leads separately from new prospects. Use parent feedback through existing programmes to test a family offer without assuming conversion.
 
 A monthly LMS subscription must provide repeated value: coherent experiences, preparation, reflection, feedback or family support. Test a bounded cohort and actual renewal before investing in broad acquisition. Physical materials and adult support must be included in its economics.
 
@@ -281,7 +281,7 @@ These are provisional judgments to register and update. Confidence is qualitativ
 
 | ID / horizon | Forecast or conditional expectation | Resolution rule | Strategic consequence |
 |---|---|---|---|
-| F1 / next 12 months after first paid pilot | At least one of the first three paying operators will value facilitator support or the experience itself more than the graph in its renewal decision | Record reasons and signed renewal decisions; fewer than three eligible decisions = unresolved | Sell current learning value; fund graph development according to incremental usefulness |
+| F1 / next 12 months after first paid pilot | At least one of the first three paying programme owners will value facilitator support or the experience itself more than the graph in its renewal decision | Record reasons and signed renewal decisions; fewer than three eligible decisions = unresolved | Sell current learning value; fund graph development according to incremental usefulness |
 | F2 / 30 Sep 2027 | A comparable-quality model configuration can reduce NBC’s measured intelligence-workload cost from its initial baseline | Establish a locked workload, quality floor and full-cost baseline within 30 days; repeat evaluation; no baseline = unresolved | Keep model providers replaceable; do not precommit projected savings |
 | F3 / first two contrasting-site pilots | At least one task instruction, facilitation element or contextual representation will require adaptation | Log proposed and accepted changes before comparing outcomes | Invest in explicit task semantics and adaptation records |
 | F4 / first three eligible renewals | Buyers will ask for evidence of programme benefit or delivery reliability before paying for portable capability recognition as a separate service | Document actual offers, decisions and contracts; distinguish a feature request from payment | Defer standalone credential pricing until recognition demand exists |
@@ -301,7 +301,7 @@ Axes: availability of reliable affordable intelligence, and institutional accept
 
 | Scenario | Child/family experience | Buyer and NBC response |
 |---|---|---|
-| Abundant intelligence, open recognition | A US child and Cape Coast child access different experiences but can share meaningful evidence; a multilingual learner retains context | Operators buy useful experiences; interoperable records gain value if recipient decisions improve |
+| Abundant intelligence, open recognition | A US child and Cape Coast child access different experiences but can share meaningful evidence; a multilingual learner retains context | Programme owners buy useful experiences; interoperable records gain value if recipient decisions improve |
 | Abundant intelligence, fragmented recognition | Families can generate impressive outputs; schools and programmes still demand their own demonstrations | Provide learning experiences and local decision support; treat external recognition as optional |
 | Constrained intelligence, open recognition | Shared access at a library or community centre matters; records travel more readily than equipment | Test shared service economics, resilient delivery and accessible evidence |
 | Constrained intelligence, fragmented recognition | A rural family and community facilitator rely on trusted local demonstrations | Prioritize simple reusable materials, facilitator development and locally useful records |
@@ -317,14 +317,14 @@ Review quarterly: actual buyer behavior, learning evidence, staffing cost, avail
 | Step | Current direction / next evidence |
 |---|---|
 | 1 Market segmentation | Child learning settings worldwide; assess buyer jobs and access separately |
-| 2 Beachhead selection | Proposed recurring hands-on programme operators, initially reachable in Cape Coast |
+| 2 Beachhead selection | Proposed recurring hands-on programme owners, initially reachable in Cape Coast |
 | 3 End user profile | Children in a narrow comparable age band; facilitator is a distinct operational user |
-| 4 Beachhead TAM | Bottom-up reachable operators × viable annual contract; no “billion children” market-size shortcut |
+| 4 Beachhead TAM | Bottom-up reachable programme owners × viable annual contract; no “billion children” market-size shortcut |
 | 5 Persona | Real first-user and payer personas after interviews; global scenario personas remain constructed |
 | 6 Full life cycle use case | Discover → buy → prepare → experience → feedback → next challenge → renew or leave |
 | 7 High-level product specification | Learning Worlds, facilitator guidance and a bounded evidence summary |
 | 8 Quantified value proposition | Learning decision, programme quality and delivery burden relative to current practice |
-| 9 Next 10 customers | Ten named qualified operators; record access and budget, do not fabricate names |
+| 9 Next 10 customers | Ten named qualified programme owners; record access and budget, do not fabricate names |
 | 10 Core | Candidate: reusable experience design plus valid, useful contextual evidence; defensibility unproven |
 | 11 Competitive position | Compare actual alternatives on learning, preparation, total cost and evidence usefulness |
 | 12 Decision-making unit | Programme owner, facilitator, family and sponsor where relevant |
@@ -333,7 +333,7 @@ Review quarterly: actual buyer behavior, learning evidence, staffing cost, avail
 | 15 Business model | Test scoped programme/site fee; family subscription is a separate test |
 | 16 Pricing framework | Cost floor, buyer value and paid offers; preserve historical prices as assumptions |
 | 17 Lifetime value | Estimate after renewal evidence; scenario analysis meanwhile |
-| 18 Sales process | Direct operator sales first; referrals and distribution tested subsequently |
+| 18 Sales process | Direct sales to programme owners first; referrals and distribution tested subsequently |
 | 19 Customer acquisition cost | Fully loaded effort, travel, failed prospects and collected contracts |
 | 20 Key assumptions | Learning, interpretation, external delivery, payment, economics and context portability |
 | 21 Test assumptions | Eight-week evidence plan; prospectively defined rules |

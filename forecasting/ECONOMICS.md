@@ -16,8 +16,8 @@ Site price: 240 participant-years × $15, the thesis's own illustration. At that
 
 | Account | Who pays | What has to be true first |
 |---|---|---|
-| **Core: learning service** | Programme operators pay a programme or site fee. Parents may fund it through fees. A family subscription through our learning platform is a separate test | Paid delivery, a credible learning result, repeat use |
-| **Option: shared AI service** | Operators or communities pay for useful AI work, run on shared infrastructure | Repeat paid demand, and a positive contribution after all extra costs |
+| **Core: learning service** | Programme owners pay a programme or site fee. Parents may fund it through fees. A family subscription through our learning platform is a separate test | Paid delivery, a credible learning result, repeat use |
+| **Option: shared AI service** | Programme owners or communities pay for useful AI work, run on shared infrastructure | Repeat paid demand, and a positive contribution after all extra costs |
 | **Option: creators and licensing** | Buyers of licensed experience packages, set-up services, and later verification | Useful, rights-cleared content, real demand, and sound evidence wherever verification is sold |
 
 - **The learning business must stand alone.** Our downside case assumes zero revenue from both options.
@@ -43,7 +43,7 @@ Each forecast is narrow, has a date or condition, and a rule for deciding whethe
 
 | # | Forecast | How we'll know | What it changes |
 |---|---|---|---|
-| F1 | At least one of our first three paying operators will value facilitator support or the experience itself more than the evidence record when deciding to renew | Written renewal reasons; unresolved if fewer than three renewals | We sell today's learning value first, and fund the evidence record by how useful it proves |
+| F1 | At least one of our first three paying programme owners will value facilitator support or the experience itself more than the evidence record when deciding to renew | Written renewal reasons; unresolved if fewer than three renewals | We sell today's learning value first, and fund the evidence record by how useful it proves |
 | F2 | By 30 September 2027, an AI model of comparable quality will cut our measured AI cost from its starting baseline | A fixed workload and quality bar set in the first 30 days, then re-tested | We keep AI providers replaceable and never count on savings in advance |
 | F3 | At least one task instruction or facilitation step will need adapting at our first contrasting site | Changes logged before comparing outcomes | We invest in clear task definitions and adaptation records |
 | F4 | Buyers will ask for evidence of programme benefit before paying separately for portable recognition of skills | Actual offers, decisions and contracts | We hold off pricing credentials until there is demand |
@@ -67,7 +67,7 @@ Each forecast is narrow, has a date or condition, and a rule for deciding whethe
 - **Data:** full numbers are in [projections_scenarios.csv](projections_scenarios.csv).
 
 **What moves the numbers most:**
-- how many operators pay after the pilot;
+- how many programme owners pay after the pilot;
 - the price actually collected;
 - how many renew;
 - facilitator time per site;

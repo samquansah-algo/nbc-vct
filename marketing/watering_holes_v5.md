@@ -22,18 +22,18 @@
 - the mission is children's learning and capability, with global scope;
 - schools are one setting among several;
 - Ghana is the development base;
-- the first commercial segment is **operators of recurring hands-on learning programmes for children aged ~9–12**, starting with operators reachable in Cape Coast;
+- the first commercial segment is **programme owners of recurring hands-on learning programmes for children aged ~9–12**, starting with programme owners reachable in Cape Coast;
 - a **contrasting research site** should serve comparable ages with substantially different access to AI or resources.
 
 Adult and workplace markets are out of scope. Reconciliation decisions D1–D4 are still open, but none of them changes this recruitment target.
 
 | | Operational users | Economic buyers | Research participants and partners | Children |
 |---|---|---|---|---|
-| **Who** | Facilitators, club coaches, librarians and museum educators running sessions, teachers in clubs | Programme owners and operators; school leaders where a school hosts the programme; parents (who pay operators' fees); sponsors | Learning scientists, assessment and measurement researchers, informal-learning researchers; practitioner-researchers | Ages ~9–12 in recurring programmes |
+| **Who** | Facilitators, club coaches, librarians and museum educators running sessions, teachers in clubs | Programme owners and programme owners; school leaders where a school hosts the programme; parents (who pay programme owners' fees); sponsors | Learning scientists, assessment and measurement researchers, informal-learning researchers; practitioner-researchers | Ages ~9–12 in recurring programmes |
 | **What the sources say** | Weekly cohorts of 15–30 mixed-age children; often young graduates; need repeatable sessions, low preparation, parent-visible results; fear sessions that flop (Step 3) [SYNTHETIC/ASSUMPTION] | "Mr K." runs a 60-child weekend and after-school centre, is paid by parents directly and decides alone (Step 5) [SYNTHETIC] | v5: "A learning scientist should set the participant sample and analysis… before recruitment" | v5: record prior knowledge; necessary assistive technology stays in place |
 | **Existing tools and workarounds** | Unplugged activities, micro:bit, Scratch, Arduino and LEGO kits; teachers' own devices (v3 Step 3/11) [ASSUMPTION] | Showcase days, informal feedback to parents | Performance tasks, rubrics, observation | — |
-| **Buying authority** | None; they use it or quietly don't | Full for operators (hypothesis); schools slower | None | None |
-| **Information channels** (hypothesis) | WhatsApp, Facebook, practitioner networks (micro:bit, Scratch, Raspberry Pi) | Peer operators, associations, referrals | Societies, SIGs, conferences, mailing lists | Only through adult gatekeepers |
+| **Buying authority** | None; they use it or quietly don't | Full for programme owners (hypothesis); schools slower | None | None |
+| **Information channels** (hypothesis) | WhatsApp, Facebook, practitioner networks (micro:bit, Scratch, Raspberry Pi) | Peer programme owners, associations, referrals | Societies, SIGs, conferences, mailing lists | Only through adult gatekeepers |
 
 **Hypothesis segmentation added here** (to be tested, not assumed):
 - **(a) Constrained settings:** will interviews show problems of *opportunity to practise, materials, facilitation and continuity*?
@@ -41,7 +41,7 @@ Adult and workplace markets are out of scope. Reconciliation decisions D1–D4 a
 
 Neither group is presumed to have either problem.
 
-**Children** are never contacted, identified or recruited directly. Any child's involvement goes through an adult gatekeeper (operator, parent or guardian), with consent and assent handled under the ethics gate (reconciliation A2).
+**Children** are never contacted, identified or recruited directly. Any child's involvement goes through an adult gatekeeper (programme owner, parent or guardian), with consent and assent handled under the ethics gate (reconciliation A2).
 
 ---
 
@@ -75,11 +75,11 @@ No relevant LinkedIn *Group* was found. The routes below are **people searches**
 
 | # | Community | Platform | Direct URL | Membership | Audience | Segment | Relevance | Activity | Access | Research rules | Best entry route | Evidence | Confidence |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| G1 | **Ghana Code Club** teacher and mentor network | Organisation (centres + trained teachers) | https://ghanacodeclub.org/ | Not a group count. Self-reported programme reach: 7,000 teachers trained, 22 digital learning centres | Ghanaian teachers and volunteer mentors running children's coding clubs | User (operators and facilitators) | Runs recurring children's coding clubs, the v5 first segment. **Also a potential competitor** | **"Coding & AI Without Computers" unplugged kits launched 4 Mar 2026** ([Adom Online](https://www.adomonline.com/ghana-code-club-targets-underserved-communities-with-coding-and-ai-training/)) | By request to the organisation | Not found | Organisation-to-organisation request; be open about the overlap | Site and news (search index) | **Medium**: dated 2026 activity; the network isn't directly browsable |
-| G2 | **Ghana Robotics Academy Foundation (GRAF)** and its school and club coaches | Organisation + Facebook Page | https://foundation.ghanarobotics.org/ | Not publicly available (programme reach only) | Robotics coaches and teachers; private STEM clubs such as **Mikrobot Academy** | Buyer + user (club operators and coaches) | GRAF supported Mikrobot Academy, "a private robotics and STEM club", which won the **2026 Robofest Junior World Championship** | Robofest 2026, reported May 2026 ([GNA](https://gna.org.gh/2026/05/ghana-crowned-2026-robofest-junior-world-champions-as-mikrobot-academy-shines-on-global-stage/); [B&FT, 25 May 2026](https://thebftonline.com/2026/05/25/mikrobot-academy-crowned-2026-robofest-junior-world-champions/)) | By request | Not found | Ask GRAF to introduce 2–3 club operators or coaches; approach Mikrobot Academy directly as an operator | News (search index) | **Medium**: dated 2026 activity; coach network size unknown |
+| G1 | **Ghana Code Club** teacher and mentor network | Organisation (centres + trained teachers) | https://ghanacodeclub.org/ | Not a group count. Self-reported programme reach: 7,000 teachers trained, 22 digital learning centres | Ghanaian teachers and volunteer mentors running children's coding clubs | User (programme owners and facilitators) | Runs recurring children's coding clubs, the v5 first segment. **Also a potential competitor** | **"Coding & AI Without Computers" unplugged kits launched 4 Mar 2026** ([Adom Online](https://www.adomonline.com/ghana-code-club-targets-underserved-communities-with-coding-and-ai-training/)) | By request to the organisation | Not found | Organisation-to-organisation request; be open about the overlap | Site and news (search index) | **Medium**: dated 2026 activity; the network isn't directly browsable |
+| G2 | **Ghana Robotics Academy Foundation (GRAF)** and its school and club coaches | Organisation + Facebook Page | https://foundation.ghanarobotics.org/ | Not publicly available (programme reach only) | Robotics coaches and teachers; private STEM clubs such as **Mikrobot Academy** | Buyer + user (club programme owners and coaches) | GRAF supported Mikrobot Academy, "a private robotics and STEM club", which won the **2026 Robofest Junior World Championship** | Robofest 2026, reported May 2026 ([GNA](https://gna.org.gh/2026/05/ghana-crowned-2026-robofest-junior-world-champions-as-mikrobot-academy-shines-on-global-stage/); [B&FT, 25 May 2026](https://thebftonline.com/2026/05/25/mikrobot-academy-crowned-2026-robofest-junior-world-champions/)) | By request | Not found | Ask GRAF to introduce 2–3 club programme owners or coaches; approach Mikrobot Academy directly as an programme owner | News (search index) | **Medium**: dated 2026 activity; coach network size unknown |
 | G3 | **Ghana Library Authority** digital-learning librarian trainers | Public institution (librarians and ICT coordinators) | https://www.library.gov.gh/ · [EIFL project](https://www.eifl.net/eifl-in-action/digital-learning-ghana-public-libraries) | Not a membership. 15 libraries' head librarians and ICT coordinators trained as trainers (2024); "over 120 outreach visits, almost 7,000 students" by end-2024 (programme reach) | Librarians delivering hands-on digital and coding sessions; children 5–12 and teens | User + institutional host | Library setting, recurring children's sessions, limited devices | 12-week coding bootcamp for ages 5–12 and 13–18 starting 16 Aug 2025 ([GhLA on X](https://x.com/ghanalibraries/status/1956018440851881987)) | By request to the programme office | Not found | Formal request to the Authority's programme office; ask to speak with a librarian trainer | X post; EIFL pages (search index) | **Medium**: dated activity to Aug 2025; a 2026 partnership was reported but the URL wasn't captured |
 | G4 | **Ghana Society for Education and Technology (GSET)** | Association (Teacher Meet-Ups, EdCamps, CPD) | https://gset.education/ | Self-reported "nearly 20,000" members **by 2022** (historical, [history page](https://gset.education/our-history/)) | Ghanaian teachers interested in technology, mostly schools | User (teachers, some club leaders) | Technology-interested educators; a route to teachers who run clubs | Meet-ups and CPD described as ongoing; no dated 2026 item seen | Free and paid membership | Not found | Ask the executive for a member call-out | Site (search index) | **Medium–Low**: large but school-oriented; recency unverified |
-| G5 | **The MakersPlace** (Accra) | Organisation (micro:bit and STEAM training, parent meetings) | https://makersplacegh.com/ | Programme reach: "10,000+ learners since 2019; 100+ teachers trained" (self-reported) | Operator, facilitators and parents; the founder is a micro:bit Champion | Buyer + user (peer operator) | A Ghanaian hands-on programme operator, i.e. a first-segment interviewee | Featured in micro:bit's Champions 2024 article ([20 Mar 2025](https://microbit.org/news/2025-03-20/local-mentors-global-impact-microbit-champions-2024/)); 2026 activity unverified | By request | Not found | Direct peer-operator request | Site; micro:bit news (search index) | **Low–Medium**: relevant organisation, not a community |
+| G5 | **The MakersPlace** (Accra) | Organisation (micro:bit and STEAM training, parent meetings) | https://makersplacegh.com/ | Programme reach: "10,000+ learners since 2019; 100+ teachers trained" (self-reported) | Programme owner, facilitators and parents; the founder is a micro:bit Champion | Buyer + user (peer programme owner) | A Ghanaian hands-on programme owner, i.e. a first-segment interviewee | Featured in micro:bit's Champions 2024 article ([20 Mar 2025](https://microbit.org/news/2025-03-20/local-mentors-global-impact-microbit-champions-2024/)); 2026 activity unverified | By request | Not found | Direct peer-programme owner request | Site; micro:bit news (search index) | **Low–Medium**: relevant organisation, not a community |
 
 ### 2D. Tech-rich contrast networks (associations, a subreddit, events; 4 qualifying beyond F1)
 
@@ -88,7 +88,7 @@ No relevant LinkedIn *Group* was found. The routes below are **people searches**
 | T1 | **ASTC Communities of Practice** | Member community platform (ASTC) | https://www.astc.org/membership/communities-of-practice/ · https://community.astc.org/ | "30+ Communities of Practice" (ASTC's description); no headcount | Science-centre and museum educators, US and international | User / host (contrast) | Museum educators run hands-on programmes for children | Described as ongoing; no dated 2026 post seen | ASTC members and partners only | Not found | Ask ASTC staff to post in a relevant community of practice | ASTC pages (search index) | **Medium–Low**: gated; recency unverified |
 | T2 | **Association of Children's Museums** member hub | Groupsite (member platform) | https://childrensmuseums.groupsite.com/ · [membership](https://childrensmuseums.org/membership/) | Organisation: "500+ member museums" (institutions, not people); hub users not visible | Children's museum staff; skews younger than 9–12 (check) | User / host (contrast) | Hands-on children's learning institutions | Not dated | Member-gated | Not found | Ask ACM for permission to post | ACM page (search index) | **Low–Medium** |
 | T3 | **r/homeschool** | Reddit | https://www.reddit.com/r/homeschool/ | ~238,000 subscribers per a **cached third-party figure** ([GummySearch](https://gummysearch.com/r/homeschool/); the tool closed in 2025). Not verified with Reddit | Homeschooling parents, mostly US | Buyer (parents) and research (family contrast) | Parents who design their children's learning, including with AI tools | Not dated | Public; posting needs an account | Subreddit rules not retrieved; general Reddit norms: message the moderators before any survey | **Moderator message first**; post only if approved | Third-party cache (search index) | **Medium–Low**: size is cached; rules unseen |
-| T4 | **National AfterSchool Association (NAA)**: NAA26 convention and news | Association + convention | https://naaweb.org/ · [NAA26](https://naaweb.org/news/705366/) | Not publicly available; no standing online forum found | US afterschool programme staff and directors | Buyer + user (contrast) | Directly represents afterschool operators | **NAA26 Convention, 11–14 Mar 2026**, National Harbor, Maryland (NAA news, search index) | Membership; convention registration | Not found | Session proposal or exhibitor route for 2027; or NAA staff contact | NAA news pages (search index) | **Low–Medium**: event route, not a discussion community |
+| T4 | **National AfterSchool Association (NAA)**: NAA26 convention and news | Association + convention | https://naaweb.org/ · [NAA26](https://naaweb.org/news/705366/) | Not publicly available; no standing online forum found | US afterschool programme staff and directors | Buyer + user (contrast) | Directly represents afterschool programme owners | **NAA26 Convention, 11–14 Mar 2026**, National Harbor, Maryland (NAA news, search index) | Membership; convention registration | Not found | Session proposal or exhibitor route for 2027; or NAA staff contact | NAA news pages (search index) | **Low–Medium**: event route, not a discussion community |
 
 ### 2E. Physical-computing and maker practitioner networks (5 qualifying)
 
@@ -100,7 +100,7 @@ No relevant LinkedIn *Group* was found. The routes below are **people searches**
 | M2 | **Scratch Educator Meetups** network | Meetup network (Scratch Foundation) | https://www.scratchfoundation.org/scratch-meetups-learn · [events](https://scratchfoundation.org/get-involved/events) | "More than 4,000 members in 44 groups" (**historical** network figure) | Educators using Scratch worldwide | User | Educators running creative-computing sessions | The Foundation's events page lists June and July–August 2026 events (search index) | Free; join a local group | Not found | Attend a virtual meetup; ask the organisers before any research call. *Its page is also hosted by HGSE's [Creative Computing Lab](https://creativecomputing.gse.harvard.edu/scratch-educator-meetups/). Sam must not imply Harvard endorsement* | Foundation pages (search index) | **Medium** |
 | M3 | **Raspberry Pi Forums: Staffroom, Classroom and Projects** | Web forum | https://forums.raspberrypi.com/viewforum.php?f=48 *(an earlier pass indexed f=49; check which is current)* | 1,759 topics / 14,459 posts (topic and post counts, **not members**) | Teachers, club leaders, certified educators | User | Club leaders discuss running sessions | Thread "Calling all Raspberry Pi Club Leaders / Mentors / Teachers", 26 May 2026 ([thread](https://forums.raspberrypi.com/viewtopic.php?p=2377354)) | Public read; registration to post | Not retrieved | Ask a moderator before posting | Forum index (search) | **Medium** |
 | M4 | **Arduino Forum: Education and Teaching** | Discourse forum | https://forum.arduino.cc/c/projects/education-and-teaching/34 | Not publicly available | Adults teaching with Arduino | User | Includes a thread asking where educators discuss teaching under-19s | No dated 2025–26 thread confirmed (last confirmed Nov 2024 in the earlier pass) | Public; registration to post | Not found | Participate in discussion first; ask a moderator | Forum index (search) | **Low** |
-| M5 | **Nation of Makers** Slack | Slack (by request) | https://www.nationofmakers.us/ | Not publicly available | US makerspace organisers and maker educators | Buyer + user (space operators) | Reaches makerspace *operators* | Not dated; the join method comes from a secondary snippet | Request an invite | Not found | Confirm the join route on the official site first | Search index (secondary) | **Low** |
+| M5 | **Nation of Makers** Slack | Slack (by request) | https://www.nationofmakers.us/ | Not publicly available | US makerspace organisers and maker educators | Buyer + user (space programme owners) | Reaches makerspace *programme owners* | Not dated; the join method comes from a secondary snippet | Request an invite | Not found | Confirm the join route on the official site first | Search index (secondary) | **Low** |
 
 ### 2F. Research partner communities (5 qualifying)
 
@@ -117,7 +117,7 @@ No relevant LinkedIn *Group* was found. The routes below are **people searches**
 | Candidate | Why excluded |
 |---|---|
 | **Ghana Teachers Forum** (FB Group) | Exists and is active, but indexed content is teacher welfare and pay, not hands-on learning. **The earlier v3 directory rated it High; that rating is withdrawn under v5** |
-| GNAPS / GNACOPS (Ghana private-school associations) | Real buyer associations **for schools**. v5's first segment is programme operators, so they're kept as a secondary route when a school hosts a programme (see the v3 directory) |
+| GNAPS / GNACOPS (Ghana private-school associations) | Real buyer associations **for schools**. v5's first segment is programme owners, so they're kept as a secondary route when a school hosts a programme (see the v3 directory) |
 | Kumasi Hive; Mentor India (Atal Tinkering Labs); Robotics Society of Kenya; ASEN Nigeria; KPSA; NAPPS | Indirect fit, no public entry route, or no dated activity found. ATL is a useful comparator model but has no route for NBC |
 | CoderDojo "Zen" forum; Fab Lab forum | Evidence of staleness (2015–18 activity; a 2022 post noting "stale" topics) |
 | Maker Ed; MIT App Inventor "Teach" group; CSTA community | Activity unverified; CSTA communities need paid membership |
@@ -132,25 +132,25 @@ No relevant LinkedIn *Group* was found. The routes below are **people searches**
 **Count:** 20 entries are listed: 1 Facebook group, 5 Ghana networks, 4 tech-rich contrast networks, 5 maker networks and 5 research communities. There are also 5 LinkedIn search routes, which aren't communities. **Shortfall:**
 - no entry reaches High confidence;
 - no qualifying WhatsApp or Discord community;
-- **no online community of after-school operators in Ghana or Cape Coast**, so the beachhead still needs in-person canvassing.
+- **no online community of after-school programme owners in Ghana or Cape Coast**, so the beachhead still needs in-person canvassing.
 
 ---
 
 ## 3. Five best starting points
 
-*Ranked on first-segment fit, access to budget holders, relevant recent activity, permission route, likelihood of detailed interviews, effort, and contrast value. The **beachhead** (Ghana operators) is kept separate from **comparative research**.*
+*Ranked on first-segment fit, access to budget holders, relevant recent activity, permission route, likelihood of detailed interviews, effort, and contrast value. The **beachhead** (Ghana programme owners) is kept separate from **comparative research**.*
 
 | Rank | Starting point | Track | Whom to approach | How to enter | What it can teach NBC |
 |---|---|---|---|---|---|
-| 1 | **GRAF and Ghana STEM/robotics club operators** (G2), e.g. Mikrobot Academy | Beachhead: buyers | Club owners and lead coaches | Congratulate on Robofest 2026; ask GRAF for 2–3 introductions; contact Mikrobot Academy as a peer operator | How operators decide what to run and pay for; what "a child can apply it to a new challenge" means to them; the DMU and budgets |
-| 2 | **Ghana Code Club** network (G1) | Beachhead: users and operators | The facilitator coordinator, then centre facilitators | Organisation-to-organisation request, open about the overlap | Delivery by non-founders across 22 centres; how unplugged kits work in practice; continuity when facilitators change |
+| 1 | **GRAF and Ghana STEM/robotics club programme owners** (G2), e.g. Mikrobot Academy | Beachhead: buyers | Club owners and lead coaches | Congratulate on Robofest 2026; ask GRAF for 2–3 introductions; contact Mikrobot Academy as a peer programme owner | How programme owners decide what to run and pay for; what "a child can apply it to a new challenge" means to them; the DMU and budgets |
+| 2 | **Ghana Code Club** network (G1) | Beachhead: users and programme owners | The facilitator coordinator, then centre facilitators | Organisation-to-organisation request, open about the overlap | Delivery by non-founders across 22 centres; how unplugged kits work in practice; continuity when facilitators change |
 | 3 | **Ghana Library Authority** librarian trainers (G3) | Beachhead-adjacent: institutional host | Programme office, then a librarian trainer | Formal request letter | Library-hosted recurring sessions; device scarcity; what children retain weeks later |
 | 4 | **MakerSpaces and the Participatory Library** (F1) | Comparative research: tech-rich | Library staff running maker programmes for ages 9–12 | Admin permission, then one post | What children understand and can do when AI or tutorial help changes, in well-resourced settings |
 | 5 | **ISLS** (R1), backed by LinkedIn LS5 | Research partner | Learning scientists doing research-practice partnerships in informal settings | Membership; targeted notes to researchers whose published work fits | Who could set the sample and analysis (v5), task review, a delayed-transfer design |
 
 **Why not others first:**
 - **micro:bit Champions (M1):** strong, but applications are closed until December and it carries a connection bias. It's a close sixth.
-- **r/homeschool (T3):** useful for the family track, but the family subscription is a *separate* v5 experiment. Start it only after the operator track.
+- **r/homeschool (T3):** useful for the family track, but the family subscription is a *separate* v5 experiment. Start it only after the programme owner track.
 
 ---
 
@@ -165,7 +165,7 @@ No relevant LinkedIn *Group* was found. The routes below are **people searches**
 
 ### 4.1 Messages for the five starting points
 
-**P1 · GRAF / club operator (email or official contact form)**
+**P1 · GRAF / club programme owner (email or official contact form)**
 > Dear [Name], congratulations to the Ghana Robotics Academy Foundation and Mikrobot Academy on the 2026 Robofest Junior title. I'm Sam Quansah, founder of Algo Peers in Cape Coast, which runs hands-on learning for children. I'm speaking with people who run recurring robotics or STEM clubs about one thing: how you tell whether a child can use what they learned when a new challenge looks different. Could you introduce me to two or three club coaches or owners for a 20-minute conversation? Participation is voluntary, and I'm happy to share what I learn.
 
 *(92 words)*
@@ -233,16 +233,16 @@ No relevant LinkedIn *Group* was found. The routes below are **people searches**
 
 ### 5.1 Order of approach
 - **Week 1, beachhead:**
-  - P1 (GRAF and club operators) and P2 (Ghana Code Club);
+  - P1 (GRAF and club programme owners) and P2 (Ghana Code Club);
   - P3 (Library Authority, formal letter);
-  - **in-person canvassing of Cape Coast after-school and club operators**, because no online community exists for them.
+  - **in-person canvassing of Cape Coast after-school and club programme owners**, because no online community exists for them.
 - **Week 1, contrast and research:**
   - P4 (moderator request only);
   - P5 (3–5 individually chosen researchers from ISLS and LS5).
 - **Week 2:**
   - post in P4 if approved;
   - follow up once;
-  - add M1 (micro:bit Foundation enquiry) and M3 (Raspberry Pi forum moderator request) if the week-1 routes produce too few *non-connected* operators.
+  - add M1 (micro:bit Foundation enquiry) and M3 (Raspberry Pi forum moderator request) if the week-1 routes produce too few *non-connected* programme owners.
 
 ### 5.2 Day by day
 
@@ -259,14 +259,14 @@ No relevant LinkedIn *Group* was found. The routes below are **people searches**
 
 | Role | Qualifies if | Exclude or label |
 |---|---|---|
-| Operator (buyer) | Owns or manages a **recurring** hands-on programme for children aged about 9–12 (at least monthly, running at least one term) **and** decides on spending or can name who does | Vendors selling competing kits (log separately); anyone Sam knows well, labelled "connected" |
+| Programme owner (buyer) | Owns or manages a **recurring** hands-on programme for children aged about 9–12 (at least monthly, running at least one term) **and** decides on spending or can name who does | Vendors selling competing kits (log separately); anyone Sam knows well, labelled "connected" |
 | Facilitator (user) | Ran a hands-on session for children in the last 30 days | — |
 | Parent (buyer, family track) | Has a child aged 9–12 in a hands-on programme or home learning | Never interview the child; the parent speaks only about their own observations |
 | Researcher (partner) | Active work on transfer, inquiry learning, performance assessment or informal learning | — |
 | Anyone | Adult, gives informed verbal consent to the conversation and to note-taking | **Minors: never** |
 
 **Balance targets** (these are balance rules, not forecasts):
-- at least half of operator interviews *not connected* to Algo Peers;
+- at least half of programme owner interviews *not connected* to Algo Peers;
 - both constrained and tech-rich settings represented before comparing them;
 - a mix of people who have *and* haven't used physical-computing kits.
 
@@ -298,7 +298,7 @@ No relevant LinkedIn *Group* was found. The routes below are **people searches**
 1. **Access:** no page was opened directly (egress blocked). Every membership, activity and rule entry is from search indexes and must be checked live before use.
 2. **A contradiction was found:** F1 membership (1,257 indexed vs "~5,000" from a research pass). The indexed figure is used.
 3. **Community rules** for research and promotion were not retrievable for any entry. Always ask moderators first.
-4. **Beachhead gap:** no online community of Ghanaian after-school or club operators exists, so in-person canvassing remains necessary.
+4. **Beachhead gap:** no online community of Ghanaian after-school or club programme owners exists, so in-person canvassing remains necessary.
 5. **WhatsApp and Discord:** no qualifying community with a legitimate public joining route.
 6. **Source claims are self-reported:** reach figures (Ghana Code Club, MakersPlace, Library Authority) are programme reach, not community membership.
 7. **Connection bias:** micro:bit and Scratch networks, and Algo Peers' own channels, are warm routes. Label them.

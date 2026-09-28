@@ -6,7 +6,7 @@ NBC's brand sits inside the **Algo Peers family**. It uses the Algo Peers brand 
 
 ## Positioning
 
-- **For:** programme operators, schools and the families they serve. Later, for education systems and research partners.
+- **For:** programme owners, schools and the families they serve. Later, for education systems and research partners.
 - **Who:** want children to build real capability, not just get answers from AI.
 - **NBC is:** learning infrastructure. It provides programmable physical learning environments where children build, experiment and develop capabilities with shared AI.
 - **Unlike:** screen-first apps, costly kits or tests of recall, NBC shows what a child can do when the task changes, and keeps that record with the family.
@@ -36,7 +36,7 @@ Each level has one job:
 
 | Audience | Message | Proof they need |
 |---|---|---|
-| Programme operators | Run meaningful hands-on learning with reusable experiences and clear guidance | Preparation time, delivery quality, cost, repeat use |
+| Programme owners | Run meaningful hands-on learning with reusable experiences and clear guidance | Preparation time, delivery quality, cost, repeat use |
 | Parents | See how your child takes on a challenge and explains their choices | Concrete examples and useful feedback |
 | Facilitators | Understand the activity and choose a good next step | Usable guides; manageable workload |
 | School leaders | Fit worthwhile learning into real staffing, timetables and budgets | Local feasibility and a costed plan |

@@ -21,7 +21,7 @@ from synthetic evidence to real evidence, cheapest test first.
    HYPOTHESIS / VALIDATED. Strong prose is not validation.
 2. CRITICAL NOTICE: display verbatim at the start: "CRITICAL NOTICE: Business-model numbers, funnel
    rates, prices and market sizes in this repository are assumptions or model outputs, not measurements.
-   Validate with real proprietors, operators, parents, funders and costed prototypes before any
+   Validate with real proprietors, programme owners, parents, funders and costed prototypes before any
    hardware, capital or go-to-market commitment."
 3. NO FABRICATED METRICS OR CUSTOMERS. Never invent a deposit, a quote, a price accepted, a partner, a
    citation, or a result. Missing data is flagged, not filled.

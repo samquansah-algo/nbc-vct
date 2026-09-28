@@ -1,6 +1,6 @@
 # NBC · 24 Steps of Disciplined Entrepreneurship tracker (v3)
 
-> **Note (28 Sep 2026).** This tracker was last fully revised under the v3/v4 framing (schools, the node, the Human Capability Graph). The v5 thesis narrows the first customer to operators of recurring hands-on programmes for ages 9–12. Steps 2, 3, 9, 16, 21 and 23 are now driven by the [v5 Tactical Playbook](../strategy/NBC_Tactical_Playbook_v5.md) and [DEADLINES.md](DEADLINES.md). Business-model and product documents referenced below are not published.
+> **Note (28 Sep 2026).** This tracker was last fully revised under the v3/v4 framing (schools, the node, the Human Capability Graph). The v5 thesis narrows the first customer to people who run after-school and holiday learning programmes for ages 9–12. Steps 2, 3, 9, 16, 21 and 23 are now driven by the [v5 Tactical Playbook](../strategy/NBC_Tactical_Playbook_v5.md) and [DEADLINES.md](DEADLINES.md). Business-model and product documents referenced below are not published.
 
 > **v5 input (25 Sep 2026; DEV-021).** The founder shared a ChatGPT-drafted v5 thesis and tactical playbook ([`strategy-v5/`](../strategy/)). The recommendation is to adopt v5 as the eight-week operating plan with six amendments, while four points (headline thesis, age band, TVET alternative, industry-cluster timing) await the founder. See [`strategy-v5/RECONCILIATION.md`](../strategy/RECONCILIATION.md).
 
@@ -39,7 +39,7 @@
 
 | # | Assumption | Status |
 |---|---|---|
-| B1 | Willingness to pay ($4–6 per child per term, all-in) | 🟡 synthetic: operators pay fastest; public budgets can't pay [SYNTHETIC] |
+| B1 | Willingness to pay ($4–6 per child per term, all-in) | 🟡 synthetic: programme owners pay fastest; public budgets can't pay [SYNTHETIC] |
 | B2 | ≥160 children per node, or an evening cohort | ⬜ |
 | B3 | Churn ≤ 20% | ⬜ |
 | B4 | Teacher development ≤ $350 per site per year | ⬜ |

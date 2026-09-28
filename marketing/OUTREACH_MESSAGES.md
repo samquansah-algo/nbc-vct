@@ -1,6 +1,6 @@
 # Outreach messages: v1 and v2
 
-*Drafted 25–28 Sep 2026 from the [watering holes](watering_holes_v5.md). **Status: scheduled, not yet sent.** Nobody has been contacted yet. The founder sends each message personally, only where the community allows it, and adds a screenshot to the tracker when it goes out. Children are never contacted; parents and operators only.*
+*Drafted 25–28 Sep 2026 from the [watering holes](watering_holes_v5.md). **Status: scheduled, not yet sent.** Nobody has been contacted yet. The founder sends each message personally, only where the community allows it, and adds a screenshot to the tracker when it goes out. Children are never contacted; parents and programme owners only.*
 
 **Rules for v2** (drawn from the simulated rehearsal, to be re-tested with real replies): open with "Can you describe the last time…"; say "nothing to buy" early; offer a voice note; cut length by about a third; follow up once only (R6).
 
@@ -15,7 +15,7 @@
 | v1 | Wed 30 Sep | P4 (Facebook group post), P5 (email, researcher) |
 | v1 | Thu 1 Oct | R1 (micro:bit Champions), R2 (LinkedIn), R3 (Scratch meetups) |
 | v1 | Fri 2 Oct | R4 (r/homeschool, after mod approval), R5 (email, researcher) |
-| In person | Tue 29 Sep – Sat 3 Oct | Cape Coast operator canvassing |
+| In person | Tue 29 Sep – Sat 3 Oct | Cape Coast programme owner canvassing |
 | v2 | Mon 5 – Thu 8 Oct | Revised P1–P5, R1–R4 to new contacts and v1 non-responders |
 | v2 | Fri 9 Oct | R6: one follow-up to everyone who has not replied |
 
@@ -23,7 +23,7 @@
 
 | ID | Audience | Channel | Words | Message |
 |---|---|---|---|---|
-| P1 | GRAF / club operator | Email | 73 | Dear [Name], congratulations to the Ghana Robotics Academy Foundation and Mikrobot Academy on the 2026 Robofest Junior title. I'm Sam Quansah, founder of Algo Peers in Cape Coast. I'm speaking with people who run recurring robotics or STEM clubs about how you tell whether a child can use what they learned when a new challenge looks different. Could you introduce me to two or three club coaches or owners for a 20-minute conversation? |
+| P1 | GRAF / club programme owner | Email | 73 | Dear [Name], congratulations to the Ghana Robotics Academy Foundation and Mikrobot Academy on the 2026 Robofest Junior title. I'm Sam Quansah, founder of Algo Peers in Cape Coast. I'm speaking with people who run recurring robotics or STEM clubs about how you tell whether a child can use what they learned when a new challenge looks different. Could you introduce me to two or three club coaches or owners for a 20-minute conversation? |
 | P2 | Ghana Code Club | Org-to-org email | 65 | Dear Ghana Code Club team, I'm Sam Quansah, founder of Algo Peers in Cape Coast. I saw your launch of the “Coding & AI Without Computers” kits. Our programmes overlap, so to be open: this is research, not a sales pitch. I'm learning how facilitators keep hands-on sessions going when a trained facilitator moves on. Would someone who supports your facilitators talk for 20 minutes? |
 | P3 | Ghana Library Authority | Formal letter | 61 | Dear [Programme Office], I'm Sam Quansah, founder of Algo Peers in Cape Coast. I read about the Authority's children's coding bootcamp and librarian training. With your permission, I'd like a 20-minute conversation with a librarian who has run these sessions, about what helps them continue with limited devices and what children can still do weeks later. I'd share a short summary. |
 | P4 | Participatory Library group | Group post (after admin OK) | 63 | Hello everyone. With the admins' permission: I'm Sam Quansah, founder of Algo Peers and a Harvard GSE student (my own research, not a Harvard project). Can you recall a recent maker session where a child finished a project, perhaps with a tutorial or AI helping, and you weren't sure what they could do on their own next time? A 15–20-minute call would help. |
@@ -38,7 +38,7 @@
 
 | ID | Audience | Channel | Words | Message |
 |---|---|---|---|---|
-| P1 | GRAF / club operator | Email | 59 | Dear [Name], congratulations on the 2026 Robofest Junior title. Can you describe the last time a club member built something well but struggled when the challenge changed? I'm Sam Quansah, founder of Algo Peers in Cape Coast, researching exactly that. There's nothing to sell. Could you point me to two coaches for a 15-minute call or a voice note? |
+| P1 | GRAF / club programme owner | Email | 59 | Dear [Name], congratulations on the 2026 Robofest Junior title. Can you describe the last time a club member built something well but struggled when the challenge changed? I'm Sam Quansah, founder of Algo Peers in Cape Coast, researching exactly that. There's nothing to sell. Could you point me to two coaches for a 15-minute call or a voice note? |
 | P2 | Ghana Code Club | Org-to-org email | 50 | Dear Ghana Code Club team, a research question, not a pitch: when a trained facilitator moves on, what keeps a centre's hands-on sessions going? I'm Sam Quansah (Algo Peers, Cape Coast). A 15-minute call or a short voice note from someone who supports your facilitators would help us a lot. |
 | P3 | Ghana Library Authority | Formal letter | 50 | Dear [Programme Office], with your permission I'd like to learn from one librarian who ran the children's coding sessions: what helped the sessions continue with few devices, and what children could still do weeks later? 15 minutes, voluntary, with a summary shared back. Sam Quansah, founder, Algo Peers (Cape Coast). |
 | P4 | Participatory Library group | Group post (after admin OK) | 61 | With the admins' OK: can you describe the last time a child finished a maker project, maybe with a tutorial or AI helping, and you weren't sure they could do it alone next time? I'm collecting stories (no product, nothing to buy) for independent research. Comment or message me; a 10-minute chat or voice note is plenty. Sam Quansah, Algo Peers |

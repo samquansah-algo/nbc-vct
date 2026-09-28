@@ -419,7 +419,7 @@ Examples might include:
 - A school creates a physical-world AI evaluation environment.
 - A group develops a new solution to an engineering challenge.
 - A university validates a capability assessment.
-- A local operator provides compute to neighboring institutions.
+- A local provider provides compute to neighboring institutions.
 - A developer improves the Experience Protocol.
 - A community contributes a carefully governed dataset to a research commons.
 
