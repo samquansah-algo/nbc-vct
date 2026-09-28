@@ -2,7 +2,7 @@
 
 ### Infrastructure that makes physical learning and human capability legible, for people, institutions and the AI frontier
 
-> **Version 6 (27 Sep 2026), founder-directed.** It refines the v6 candidate in [`../../foresight/NBC_THESIS_TOURNAMENT_2026.md`](../../foresight/NBC_THESIS_TOURNAMENT_2026.md) §6 after the founder's challenge: "You are just building a wrapper that can be wiped out by an Anthropic feature release? I want real infrastructure for the future of learning." It integrates the five framings reviewed there, and the Baton invention (`../../invention/BATON.md`) as one evidence primitive. **Every central proposition is a hypothesis.** v5 remains the eight-week operating plan. The investor memo is [`../../investor/INVESTOR_MEMO.md`](../../investor/INVESTOR_MEMO.md).
+> **Version 6 (27 Sep 2026), founder-directed.** It refines the v6 candidate in [`../../foresight/NBC_THESIS_TOURNAMENT_2026.md`](../../foresight/NBC_THESIS_TOURNAMENT_2026.md) §6 after the founder's challenge: "You are just building a wrapper that can be wiped out by an Anthropic feature release? I want real infrastructure for the future of learning." It integrates the five framings reviewed there, and the Baton invention (`../../invention/BATON.md`) as one evidence primitive. **Every central proposition is a hypothesis.** v5 remains the eight-week operating plan. The investor memo is `../../investor/INVESTOR_MEMO.md`.
 
 *Labels: **[GK]** general knowledge, to verify before external use; **[JUDGEMENT]** my assessment; **[MODEL]** an illustrative calculation.*
 
