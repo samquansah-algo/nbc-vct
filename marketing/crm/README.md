@@ -141,6 +141,3 @@ Follow-up days, escalation days, reminder hours, qualification bar, deal value, 
 
 ## Privacy
 The CRM is linked from this public repository. **Log people by role and ID only** (Owner 1, C03, L02…). Keep names, emails and phone numbers in your own address book, and never record children. Share with named teammates through the Team & roles tab.
-
-## Build prompt
-[prompts/CRM_BUILD_PROMPT.md](../../prompts/CRM_BUILD_PROMPT.md) is the full specification. Use it to extend the CRM or rebuild it with any AI assistant.
