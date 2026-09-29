@@ -70,6 +70,29 @@
 - **Admin:** Apply roles and sharing, Send weekly summary now, Re-install automation, Repair setup.
 - **Role checks:** Admin actions check the caller's role; Admin-only tabs are protected for Admins, and Accounts for Admins and Managers.
 
+**Notifications, profiles, contacts and linked resources (v3).**
+- **Notifications:**
+  - Build notification rules, preferences, templates, queue and delivery-log tables, plus a per-person Notification center.
+  - Events: lead, opportunity and task assignments and reassignments; follow-ups due soon and overdue; upcoming interviews and missing interview notes; opportunities with no activity for N days; @mentions; significant stage changes; daily and weekly summaries.
+  - Every notification carries the record name, reason, owner, due date and a direct link to the row.
+  - Preferences per user and event: channel, frequency, timezone, quiet hours and digest hour. Keep immediate alerts separate from digests.
+  - Give every notification a dedupe key, re-check that it still applies before sending, retry with back-off up to a limit, respect a daily cap and Google's quota, and never let a failure interrupt the CRM.
+  - Provide a dry-run preview, and functions to install, inspect and remove triggers.
+- **Safety:**
+  - Email is off until an Admin enables it and confirms the exact recipients. Only internal users can be emailed; external contacts never automatically.
+  - Emails never contain interview notes or comment text.
+- **Profiles:** People (external) and Organizations, kept separate from internal users.
+  - Multiple affiliations with history, and multiple contact methods with primary flags.
+  - Duplicate search before creating. Contacts without an organization are allowed.
+  - Quick creation from record details and the interaction form.
+- **Resources:**
+  - Each has a stable ID, title, URL, type, description, linked record, creator and date.
+  - Only https:// and mailto: links, with readable titles.
+  - Linking never changes file sharing.
+  - Optional uploads go to a configured Drive folder, keeping the file ID.
+  - No scraping or automatic enrichment.
+- **Acceptance tests:** duplicate email warning; multiple affiliations and methods; a resource on the correct record with no sharing change; one notification per assignment despite retries; timezone and preferences respected; completing a task cancels overdue reminders; links open the right record and access still applies; dry run sends nothing; a disabled rule stops deliveries; external contacts get no automated messages.
+
 **Deliverables.**
 1. One `.gs` file.
 2. A README with install steps, a funnel table, a roles table, an automation table and a privacy note.
