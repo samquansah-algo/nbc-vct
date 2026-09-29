@@ -4,19 +4,19 @@
 
 | File | |
 |---|---|
-| [NBC_Market_Research_Tactic.pdf](NBC_Market_Research_Tactic.pdf) | **Upload this.** 34 slides on the course template, in the template's order; every slide links to its sources |
+| [NBC_Market_Research_Tactic.pdf](NBC_Market_Research_Tactic.pdf) | **Upload this.** 34 slides that follow the course template's sections, order and prompts, styled in the [NBC brand](../../brand/BRAND.md); every slide links to its sources |
 | [NBC_Market_Research_Tactic.pptx](NBC_Market_Research_Tactic.pptx) | The same slides as PowerPoint, with clickable link hotspots |
+| [NBC_Market_Research_Tactic_course_template.pdf](NBC_Market_Research_Tactic_course_template.pdf) ([.pptx](NBC_Market_Research_Tactic_course_template.pptx)) | Alternate: the same 34 slides on the course's own template pages |
 | [slides/](slides/) | Each slide as a PNG |
 | [Live PMR CRM](https://docs.google.com/spreadsheets/d/11LfHholpkKC0vhpQ7z_DvRme57lPln2jZR7Nm4EMrjg/edit) | Google Sheets CRM for outreach and interviews ([guide](../../marketing/crm/README.md)) |
 
 ## What the slides cover
 
-| Template section | Slides | Source documents |
 |---|---|---|
 | Template slide | Slides |
 |---|---|
 | Title: team, names, date | 1 |
-| Venture Intro (elevator pitch) | 2 |
+| Venture Intro (elevator pitch, verbatim from the thesis) | 2 |
 | Experiment Outline (Parts 1–3) | 3 |
 | Script | 4–5 |
 | Watering Holes (10, plus in-person) | 6–9 |
