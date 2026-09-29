@@ -4,7 +4,7 @@
 
 | File | |
 |---|---|
-| [NBC_Market_Research_Tactic.pdf](NBC_Market_Research_Tactic.pdf) | **Upload this.** The completed tactic, 41 slides; every slide links to its source file on GitHub |
+| [NBC_Market_Research_Tactic.pdf](NBC_Market_Research_Tactic.pdf) | **Upload this.** 34 slides on the course template, in the template's order; every slide links to its sources |
 | [NBC_Market_Research_Tactic.pptx](NBC_Market_Research_Tactic.pptx) | The same slides as PowerPoint, with clickable link hotspots |
 | [slides/](slides/) | Each slide as a PNG |
 | [Live PMR CRM](https://docs.google.com/spreadsheets/d/11LfHholpkKC0vhpQ7z_DvRme57lPln2jZR7Nm4EMrjg/edit) | Google Sheets CRM for outreach and interviews ([guide](../../marketing/crm/README.md)) |
@@ -13,21 +13,20 @@
 
 | Template section | Slides | Source documents |
 |---|---|---|
-| Template prompt | Slides |
+| Template slide | Slides |
 |---|---|
-| Title: team name, names, date | 1 |
-| Venture intro and elevator pitch | 2 |
-| Experiment outline (Parts 1–3) | 3 |
-| Script | 4–6 |
-| Watering holes: 10, plus in-person canvassing | 7–10 |
-| Outreach experiments v1: 10 messages in their channels, send schedule and measures | 11–16 |
-| Outreach experiments v2: 10 refined messages and what changed | 17–22 |
-| Interview notes: 10 scheduled interviews, how notes are kept, and the CRM (sales funnel, roles, automation) | 23–27 |
-| Key findings | 28–29 |
-| Insights grid: 10 rows, 5 problems, how the grid is read | 30–33 |
-| Tactical playbook questions | 34–35 |
-| Venture updates: product, market, brand and team, deadlines | 36–40 |
-| Links to every source document and the CRM | 41 |
+| Title: team, names, date | 1 |
+| Venture Intro (elevator pitch) | 2 |
+| Experiment Outline (Parts 1–3) | 3 |
+| Script | 4–5 |
+| Watering Holes (10, plus in-person) | 6–9 |
+| Outreach Experiments v1 (10 messages) | 10–14 |
+| Outreach Experiments v2 (10 messages) | 15–19 |
+| Interview Notes (10 scheduled, and the tracking system) | 20–22 |
+| Key Findings | 23 |
+| Insights Grid (10 rows, and how we read it) | 24–26 |
+| Tactical Playbook | 27 |
+| Venture Updates: what we built, TNT build night and accelerator application, Learning Worlds, market, team and brand, milestones | 28–34 |
 
 ## Status (28 Sep 2026)
 - **Done:** secondary research, 10 watering holes (of 20 mapped), the script, 20 messages, the tracker and the insights grid.
