@@ -34,18 +34,18 @@ def film():
     for b in [3.1, 9.0, 14.0, 19.0, 21.4, 23.4]: mx.add(whoosh(), b-.45, 1, 0, .3)
     # yellow · investigate, build: the ramp is built, the car rolls and stops short
     bed(mx, 3.1, 9.0, PENTA)
-    for i in range(3): mx.add(wood(.35), 3.5+i*.18, 1, .2, .3)
-    mx.add(kalimba(76, .28), 3.35, 1, -.3, .5); mx.add(kalimba(79, .28), 5.6, 1, .3, .5)
+    for i in range(3): mx.add(wood(.35), 3.2+i*.18, 1, .2, .3)
+    mx.add(kalimba(76, .28), 3.12, 1, -.3, .5); mx.add(kalimba(79, .28), 5.55, 1, .3, .5)
     mx.add(roll(1.3, .22), 7.0, 1, .2, .25); mx.add(wood(.28, 420), 8.3, 1, .25, .3)
     # orange · get it wrong, try again: a block raises the ramp, the car goes farther
-    mx.add(harplute(59, .3, bright=.3), 9.3, 1, 0, .45)
+    mx.add(harplute(59, .3, bright=.3), 9.02, 1, 0, .45)
     mx.add(wood(.4, 600), 10.9, 1, -.2, .3); mx.add(wood(.3, 640), 11.05, 1, -.2, .3)
     mx.add(roll(1.4, .24), 11.9, 1, .3, .25); mx.add(kalimba(81, .3), 11.8, 1, .3, .5); mx.add(glass(84, .06), 13.3, 1, .3, .7)
     bed(mx, 11.8, 14.0, PENTA, .11)
     # blue · shared AI: the phone rises, a tap, a confirmation
     mx.add(pad([45, 52, 57, 64], 5, .09, 900), 14, 1, 0, .5)
     mx.add(air(.8, 400, 2000, .07, .5), 14.4, 1, 0, .3); mx.add(drop(.16, 850), 16.4, 1, .2, .4); mx.add(glass(88, .06), 16.7, 1, .2, .7)
-    mx.add(kalimba(72, .26), 14.3, 1, -.2, .5); mx.add(kalimba(76, .24), 17.2, 1, .2, .5)
+    mx.add(kalimba(72, .26), 14.02, 1, -.2, .5); mx.add(kalimba(76, .24), 17.2, 1, .2, .5)
     # violet · changed one thing: three chips, three tines
     for i in range(3): mx.add(kalimba([72, 74, 76][i], .24, 2), 19.9+i*.22, 1, -.2+.2*i, .5)
     mx.add(pad([41, 48, 57, 64], 2.4, .09, 900), 19, 1, 0, .5)
@@ -54,8 +54,9 @@ def film():
     mx.add(pad([48, 55, 60, 67], 2.0, .09, 1000), 21.4, 1, 0, .5)
     # ink · the end card: converge, symbol, wordmark, line, ask, endorsement
     e0 = 23.4
-    mx.add(swell([60, 64, 67, 72], 1.0, .16), e0+.1, 1, 0, .6)
-    mx.add(claypot(.35, 66), e0+1.05, .55, 0, .4)
+    for i in range(5): mx.add(wood(.16, 520+i*60), e0+i*.06, 1, -.4+.2*i, .4)
+    mx.add(swell([60, 64, 67, 72], .9, .16), e0+.25, 1, 0, .6)
+    mx.add(claypot(.35, 66), e0+1.1, .55, 0, .4)
     mx.add(pad([36, 48, 55, 60, 64, 67, 72], 6.4, .13, 1200, .8), e0+1.05, 1, 0, .65)
     for i, m in enumerate([67, 72, 76]): mx.add(kalimba(m, .24, 3), e0+1.5+i*.16, 1, -.2+.2*i, .6)
     mx.add(harplute(72, .22), e0+2.4, 1, -.2, .6); mx.add(harplute(76, .24), e0+3.1, 1, .2, .6)
@@ -65,13 +66,14 @@ def film():
 def teaser():
     mx = Mix(12.0)
     mx.add(drone(36, 12, .12), 0, 1, 0, .3); mx.add(air(12, 250, 2000, .07), 0, 1, 0, .6)
-    for tt, m in [(.15, 64), (2.0, 67), (3.2, 72), (4.4, 76)]: mx.add(kalimba(m, .32, 2.6), tt, 1, 0, .5); mx.add(wood(.18), tt, 1, .2, .3)
+    for tt, m in [(.15, 64), (1.92, 67), (3.12, 72), (4.32, 76)]: mx.add(kalimba(m, .32, 2.6), tt, 1, 0, .5); mx.add(wood(.18), tt, 1, .2, .3)
     for b in [1.9, 3.1, 4.3, 5.5, 6.7]: mx.add(whoosh(), b-.45, 1, 0, .3)
     bed(mx, 1.9, 6.7, PENTA, .10)
     for i in range(5): mx.add(drop(.12, 800+i*100), 5.6+i*.1, 1, -.4+.2*i, .45)
     e0 = 6.7
-    mx.add(swell([60, 64, 67, 72], 1.0, .16), e0+.1, 1, 0, .6)
-    mx.add(claypot(.35, 66), e0+1.05, .55, 0, .4)
+    for i in range(5): mx.add(wood(.16, 520+i*60), e0+i*.06, 1, -.4+.2*i, .4)
+    mx.add(swell([60, 64, 67, 72], .9, .16), e0+.25, 1, 0, .6)
+    mx.add(claypot(.35, 66), e0+1.1, .55, 0, .4)
     mx.add(pad([36, 48, 55, 60, 64, 67, 72], 4.3, .13, 1200, .8), e0+1.05, 1, 0, .65)
     for i, m in enumerate([67, 72, 76]): mx.add(kalimba(m, .24, 3), e0+1.5+i*.16, 1, -.2+.2*i, .6)
     mx.add(harplute(76, .24), e0+3.1, 1, .2, .6); mx.add(wood(.18, 560), e0+3.8, 1, 0, .5)
