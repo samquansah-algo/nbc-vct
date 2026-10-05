@@ -1,0 +1,118 @@
+<!doctype html><html><head><meta charset="utf-8"><title>NBC brand film</title>
+<link rel="stylesheet" href="local.css"><link rel="stylesheet" href="noto_local.css">
+<style>*{box-sizing:border-box;margin:0;padding:0}html,body{overflow:hidden;background:#181818}
+#st{position:relative;overflow:hidden;font-family:'Noto Sans',Arial}
+.U{font-family:'Unbounded',Arial,sans-serif;font-weight:800;text-transform:uppercase;letter-spacing:-0.04em;line-height:.92}
+.abs{position:absolute}.pc{position:absolute;border-radius:0 0 50% 0}
+.w{display:inline-block;will-change:transform,opacity}
+</style></head><body><div id="st"><div id="bg" class="abs" style="inset:0"></div><div id="layer" class="abs" style="inset:0"></div><div id="wipe" class="pc"></div></div>
+<script>
+const Q=new URLSearchParams(location.search);const W=+Q.get('w')||1920,H=+Q.get('h')||1080,MODE=Q.get('mode')||'film';const V=H>W;
+document.documentElement.style.width=W+'px';document.documentElement.style.height=H+'px';const st=document.getElementById('st');st.style.width=W+'px';st.style.height=H+'px';
+const C={ink:'#181818',white:'#FFFFFF',y:'#FFBE00',o:'#F2643E',b:'#006EFB',v:'#6833D9',g:'#01C778'};
+const cl=(x,a=0,b=1)=>Math.max(a,Math.min(b,x)),P=(t,a,b)=>cl((t-a)/(b-a));
+const eo=x=>1-Math.pow(1-x,4),ei=x=>x*x*x,eio=x=>x<.5?8*x*x*x*x:1-Math.pow(-2*x+2,4)/2,back=x=>{const c=1.5;return 1+(c+1)*Math.pow(x-1,3)+c*Math.pow(x-1,2)};
+const u=Math.min(W,H)/1080, M=V?.08*W:.075*W;
+const L=document.getElementById('layer');
+function el(html){const d=document.createElement('div');d.innerHTML=html;const e=d.firstElementChild;L.appendChild(e);return e}
+// ---------- scenes ----------
+const SC = MODE==='film' ? [
+ {id:'s0',a:0,b:3.1,bg:C.ink},{id:'s1',a:3.1,b:9.0,bg:C.y},{id:'s2',a:9.0,b:14.0,bg:C.o},{id:'s3',a:14.0,b:19.0,bg:C.b},
+ {id:'s4',a:19.0,b:21.4,bg:C.v},{id:'s5',a:21.4,b:23.4,bg:C.g},{id:'s6',a:23.4,b:30.0,bg:C.ink}]
+ : [{id:'t0',a:0,b:1.9,bg:C.ink},{id:'t1',a:1.9,b:3.1,bg:C.y},{id:'t2',a:3.1,b:4.3,bg:C.o},{id:'t3',a:4.3,b:5.5,bg:C.b},{id:'t4',a:5.5,b:6.7,bg:C.v},{id:'s6',a:6.7,b:12.0,bg:C.ink}];
+const DUR=SC[SC.length-1].b, WIPE=.45;
+const grp={};SC.forEach(s=>{grp[s.id]=el(`<div class="abs" style="inset:0;display:none"></div>`)});
+function add(sid,html){const d=document.createElement('div');d.innerHTML=html;const e=d.firstElementChild;grp[sid].appendChild(e);return e}
+// type block helper: left-aligned headline, word by word
+const TS=V?118*u*1.0:150*u, TX=M, TY=V?.13*H:.18*H, TWID=V?W-2*M:.56*W;
+function head(sid,text,color,top=TY,size=TS,width=TWID){const e=add(sid,`<div class="U abs" style="left:${TX}px;top:${top}px;width:${width}px;font-size:${size}px;color:${color}"></div>`);e.innerHTML=text.split(' ').map(w=>`<span class="w">${w}</span>`).join(' ');return [...e.querySelectorAll('.w')]}
+function words(ws,t,t0,step=.12,dist=60){ws.forEach((w,i)=>{const q=eo(P(t,t0+i*step,t0+i*step+.45));w.style.opacity=q;w.style.transform=`translateY(${(1-q)*dist*u}px)`})}
+function gone(ws,t,t0){ws.forEach(w=>{const q=P(t,t0,t0+.25);if(q>0){w.style.opacity=(1-q)*parseFloat(w.style.opacity||1)}})}
+// art box
+const AX=V?M:.50*W, AY=V?.52*H:.22*H, AW=V?W-2*M:.44*W, AH=V?.34*H:.68*H;
+// ----- film scenes -----
+let W0,W1a,W1b,W2a,W2b,W3a,W3b,W4,W5,svg1,svg2,ph,sug,tap,done,chips,icons;
+if(MODE==='film'){
+ W0=head('s0','AI makes answers cheap.',C.white,V?.30*H:.30*H,V?TS:170*u,V?TWID:.85*W);
+ W1a=head('s1','Investigate.',C.ink); W1b=head('s1','Build.',C.ink);
+ W2a=head('s2','Get it wrong.',C.white); W2b=head('s2','Try again.',C.white);
+ W3a=head('s3','Shared AI.',C.white); W3b=head('s3','You decide.',C.white,TY+(V?2.1:1.1)*TS);
+ W4=head('s4','Changed one thing.',C.white,V?.22*H:.24*H,V?TS:150*u,V?TWID:.8*W);
+ W5=head('s5','It holds.',C.ink,V?.22*H:.24*H,V?TS*1.2:190*u);
+ svg1=add('s1',`<svg class="abs" style="left:0;top:0" width="${W}" height="${H}"></svg>`);svg2=add('s2',`<svg class="abs" style="left:0;top:0" width="${W}" height="${H}"></svg>`);
+ const pw=V?.5*AW:.56*AW, phh=pw*1.9, px=AX+(AW-pw)/2+(V?0:.1*AW), py=AY+(AH-phh)/2;
+ ph=add('s3',`<div class="abs" style="left:${px}px;top:${py}px;width:${pw}px;height:${phh}px;background:#fff;border-radius:${46*u}px;border:${10*u}px solid #181818;padding:${28*u}px ${24*u}px;overflow:hidden"></div>`);
+ ph.innerHTML=`<div style="font-size:${14*u}px;font-weight:800;letter-spacing:${3*u}px;color:#8A8A8F">RAMP WORLD · TABLE 3</div><div style="font-size:${24*u}px;font-weight:700;margin-top:${10*u}px;line-height:1.2;color:#181818">Two things changed at once.</div>
+ <div id="sug" style="margin-top:${22*u}px;background:#E6F0FF;border-radius:${20*u}px;padding:${18*u}px"><div style="font-size:${13*u}px;font-weight:800;letter-spacing:${2*u}px;color:#0060DE">SUGGESTION</div><div style="font-size:${20*u}px;line-height:1.3;margin-top:${8*u}px;color:#181818">Change only the ramp height. Predict first.</div><div id="ok" style="display:inline-block;margin-top:${16*u}px;background:#F2643E;color:#fff;font-weight:800;font-size:${18*u}px;padding:${10*u}px ${20*u}px;border-radius:999px">Use this</div></div>
+ <div id="done" style="margin-top:${18*u}px;font-size:${19*u}px;font-weight:800;color:#00804D;opacity:0">✓ Confirmed</div><div id="tap" style="position:absolute;width:${64*u}px;height:${64*u}px;border-radius:50%;background:rgba(24,24,24,.22);opacity:0"></div>`;
+ sug=ph.querySelector('#sug');tap=ph.querySelector('#tap');done=ph.querySelector('#done');
+ chips=['Predicted first','One change','Explained why'].map((c,i)=>add('s4',`<div class="abs" style="left:${TX}px;top:${(V?.56:.62)*H+i*(V?92:84)*u}px;display:flex;align-items:center;gap:${18*u}px;font-size:${(V?40:38)*u}px;font-weight:700;color:#fff"><span class="pc" style="position:relative;width:${34*u}px;height:${34*u}px;background:#fff;display:inline-block"></span>${c}</div>`));
+ icons=add('s5',`<svg class="abs" style="left:0;top:0" width="${W}" height="${H}"></svg>`);
+}
+// ----- teaser words -----
+let T0,T1,T2,T3,T4;
+if(MODE==='teaser'){
+ const big=V?122*u:180*u, top=V?.40*H:.36*H;
+ T0=head('t0','Something',C.white,top,big,W-2*M);T1=head('t1','is',C.ink,top,big,W-2*M);T2=head('t2','taking',C.white,top,big,W-2*M);T3=head('t3','shape.',C.white,top,big,W-2*M);
+ T4=[...Array(5)].map((_,i)=>add('t4',`<div class="pc" style="width:${120*u}px;height:${120*u}px;background:#fff;opacity:0"></div>`));
+}
+// ----- end card (shared) -----
+const LW=V?.78*W:.42*W, LH=LW*2580/9600, LX=(W-LW)/2, LY=V?.33*H:.26*H;
+const conv=[C.y,C.o,C.b,C.v,C.g].map(c=>add('s6',`<div class="pc" style="background:${c}"></div>`));
+const sym=add('s6',`<div class="pc" style="background:#fff;left:${LX}px;top:${LY}px;width:${LH}px;height:${LH}px;opacity:0"></div>`);
+const bands=[[0,750/2580],[915/2580,1665/2580],[1830/2580,1]];
+const lines=bands.map(([a,b])=>add('s6',`<div class="abs" style="left:${LX+LW*.305}px;top:${LY+a*LH-2}px;width:${LW*.7}px;height:${(b-a)*LH+4}px;overflow:hidden"><img src="nbc-v3-lockup-white.svg" style="position:absolute;left:${-LW*.305}px;top:${-a*LH+2}px;width:${LW}px;clip-path:inset(${a*LH-1}px 0 ${(1-b)*LH-1}px 0)"></div>`));
+const endY=LY+LH+(V?90:70)*u;
+const master=add('s6',`<div class="abs" style="left:${M}px;right:${M}px;top:${endY}px;text-align:center;font-size:${(V?44:40)*u}px;color:#fff;font-weight:600;line-height:1.3">Learning infrastructure for the next billion children.</div>`);
+const cta=add('s6',`<div class="U abs" style="left:0;right:0;top:${endY+(V?150:90)*u}px;text-align:center;font-size:${(V?64:58)*u}px;color:${C.y}">${MODE==='film'?'Partner with us.':'Coming soon.'}</div>`);
+const EW=V?.7*W:.36*W;const endw=add('s6',`<div class="abs" style="left:${(W-EW)/2}px;top:${V?endY+300*u:endY+190*u}px;width:${EW}px;height:${EW*(4545-2900)/9600}px;overflow:hidden;opacity:0"><img src="nbc-v3-endorsed-white.svg" style="position:absolute;left:0;top:${-EW*2900/9600}px;width:${EW}px"></div>`);
+const wipe=document.getElementById('wipe'),bg=document.getElementById('bg');
+// ramp drawing
+function ramp(svg,t,{h0,h1,hT,carC,roll1,roll2,stop1,stop2,lineC,blockT}){
+ const gy=AY+AH*.86, rx=AX+AW*.04, rw=AW*.42, hp=eio(P(t,hT,hT+.5)), h=AH*(h0+(h1-h0)*hp);
+ const start=rx+rw*.06,e1=AX+AW*stop1,e2=AX+AW*stop2; let x=start,op=1;
+ if(t<roll1[0])x=start;else if(t<roll1[1])x=start+eio(P(t,roll1[0],roll1[1]))*(e1-start);else if(!roll2||t<roll2[0]-.4)x=e1;else if(t<roll2[0]){x=start;op=P(t,roll2[0]-.3,roll2[0])}else x=start+eio(P(t,roll2[0],roll2[1]))*(e2-start);
+ let yo=0;const cw=AW*.13;if(x+cw/2<rx+rw)yo=-(1-(x+cw/2-rx)/rw)*h;
+ const build=eo(P(t,blockT,blockT+.6));
+ svg.innerHTML=`<rect x="${AX}" y="${gy}" width="${AW*build}" height="${8*u}" fill="${lineC}"/>
+ <polygon points="${rx},${gy} ${rx},${gy-h*build} ${rx+rw},${gy}" fill="${lineC}"/>
+ <g opacity="${op*build}" transform="translate(${x},${gy+yo})"><rect x="0" y="${-cw*.62}" width="${cw}" height="${cw*.42}" rx="${cw*.12}" fill="${carC}"/><circle cx="${cw*.22}" cy="${-cw*.16}" r="${cw*.12}" fill="${lineC}"/><circle cx="${cw*.78}" cy="${-cw*.16}" r="${cw*.12}" fill="${lineC}"/></g>`;
+}
+function render(t){
+ // scene + wipe
+ let cur=SC.findIndex(s=>t>=s.a&&t<s.b);if(cur<0)cur=SC.length-1;const s=SC[cur];
+ bg.style.background=s.bg;Object.keys(grp).forEach(k=>grp[k].style.display=k===s.id?'block':'none');
+ const nx=SC[cur+1];if(nx&&t>s.b-WIPE){const q=ei(P(t,s.b-WIPE,s.b));const D=2.6*Math.max(W,H)*q;wipe.style.display='block';wipe.style.background=nx.bg;wipe.style.width=wipe.style.height=D+'px';wipe.style.left=(-D*.08)+'px';wipe.style.top=(-D*.08)+'px'}else wipe.style.display='none';
+ if(MODE==='film'){
+  words(W0,t,.25,.32,80);
+  words(W1a,t,3.35,.1);gone(W1a,t,5.4);words(W1b,t,5.6,.1);
+  ramp(svg1,t,{h0:.30,h1:.30,hT:99,carC:C.o,roll1:[7.0,8.3],stop1:.66,stop2:.66,lineC:C.ink,blockT:3.5});
+  words(W2a,t,9.3,.1);gone(W2a,t,11.6);words(W2b,t,11.8,.1);
+  ramp(svg2,t,{h0:.30,h1:.52,hT:10.9,carC:C.white,roll1:[0,0.01],roll2:[11.9,13.3],stop1:.66,stop2:.98,lineC:C.ink,blockT:-1});
+  words(W3a,t,14.3,.1);words(W3b,t,17.2,.1);
+  {const q=eo(P(t,14.4,15.2));ph.style.opacity=q;ph.style.transform=`translateY(${(1-q)*120*u}px)`;const s2=eo(P(t,15.1,15.7));sug.style.opacity=s2;
+   const tp=P(t,16.2,16.7);const ok=ph.querySelector('#ok');const r=ok.getBoundingClientRect(),pr=ph.getBoundingClientRect();tap.style.left=(r.left-pr.left+r.width/2-32*u)+'px';tap.style.top=(r.top-pr.top+r.height/2-32*u)+'px';tap.style.opacity=Math.sin(tp*Math.PI)*.9;tap.style.transform=`scale(${.6+tp*.6})`;done.style.opacity=eo(P(t,16.7,17.1))}
+  words(W4,t,19.2,.1);chips.forEach((c,i)=>{const q=eo(P(t,19.9+i*.22,20.4+i*.22));c.style.opacity=q;c.style.transform=`translateX(${(1-q)*-40*u}px)`});
+  words(W5,t,21.6,.1);
+  {const q1=eo(P(t,22.0,22.5)),q2=eo(P(t,22.4,22.9));const y0=V?.62*H:.62*H,sz=V?220*u:200*u,x1=V?M:.08*W,x2=V?W-M-sz:.08*W+sz*1.5;
+   icons.innerHTML=`<g opacity="${q1}" transform="translate(${x1},${y0+(1-q1)*30})"><polygon points="0,${sz} 0,${sz*.35} ${sz},${sz}" fill="#181818"/></g>
+   <g opacity="${q2}" transform="translate(${x2},${y0+(1-q2)*30})"><rect x="${sz*.46}" y="${sz*.35}" width="${sz*.08}" height="${sz*.65}" fill="#181818"/><path d="M${sz*.5} ${sz*.5} C ${sz*.2} ${sz*.45}, ${sz*.1} ${sz*.2}, ${sz*.15} ${sz*.1} C ${sz*.4} ${sz*.12}, ${sz*.5} ${sz*.3}, ${sz*.5} ${sz*.5} Z" fill="#181818"/><path d="M${sz*.5} ${sz*.45} C ${sz*.8} ${sz*.4}, ${sz*.9} ${sz*.15}, ${sz*.85} ${sz*.05} C ${sz*.6} ${sz*.08}, ${sz*.5} ${sz*.25}, ${sz*.5} ${sz*.45} Z" fill="#181818"/></g>
+   <g opacity="${eo(P(t,22.7,23.0))}"><line x1="${x1+sz*1.08}" y1="${y0+sz*.6}" x2="${x2-sz*.08}" y2="${y0+sz*.6}" stroke="#181818" stroke-width="${8*u}" stroke-dasharray="${14*u} ${14*u}"/></g>`}
+ } else {
+  words(T0,t,.15,.1,90);words(T1,t,2.0,.1,90);words(T2,t,3.2,.1,90);words(T3,t,4.4,.1,90);
+  T4.forEach((d,i)=>{const cx=W/2-60*u+(i-2)*170*u,cy=H/2-60*u;const q=back(P(t,5.6+i*.1,6.0+i*.1));d.style.left=cx+'px';d.style.top=cy+'px';d.style.opacity=cl(P(t,5.6+i*.1,5.75+i*.1));d.style.transform=`scale(${q})`});
+ }
+ // end card
+ const e0=s.id==='s6'?s.a:99;
+ conv.forEach((d,i)=>{const ang=i/5*Math.PI*2-Math.PI/2,R=(V?.38:.30)*Math.min(W,H)*1.4;const q=eio(P(t,e0+.1,e0+1.1));const appear=eo(P(t,e0+.0+i*.05,e0+.3+i*.05));
+  const sx=W/2+Math.cos(ang)*R-60*u, sy=LY+LH/2+Math.sin(ang)*R-60*u, tx=LX+LH/2-60*u, ty=LY+LH/2-60*u;d.style.width=d.style.height=(120*u)+'px';
+  d.style.left=(sx+(tx-sx)*q)+'px';d.style.top=(sy+(ty-sy)*q)+'px';d.style.opacity=appear*(1-P(t,e0+1.05,e0+1.2));d.style.transform=`scale(${1-.3*q})`});
+ {const q=back(P(t,e0+1.05,e0+1.55));sym.style.opacity=cl(P(t,e0+1.05,e0+1.15));sym.style.transform=`scale(${q})`;sym.style.transformOrigin='50% 50%'}
+ lines.forEach((w,i)=>{const q=eo(P(t,e0+1.5+i*.16,e0+2.1+i*.16));w.style.opacity=q;w.firstChild.style.transform=`translateY(${(1-q)*LH*.35}px)`});
+ {const q=eo(P(t,e0+2.4,e0+3.0));master.style.opacity=q;master.style.transform=`translateY(${(1-q)*24*u}px)`}
+ {const q=eo(P(t,e0+3.1,e0+3.6));cta.style.opacity=q;cta.style.transform=`translateY(${(1-q)*30*u}px)`}
+ {const q=eo(P(t,e0+3.8,e0+4.4));endw.style.opacity=q}
+ if(MODE==='teaser')master.style.display='none';
+}
+window.render=render;window.DUR=DUR;render(0);
+</script></body></html>

@@ -1,5 +1,34 @@
 # NBC motion
 
+## Brand film (30 s): Apple-style, on the NBC brand system
+
+[![Brand film poster](NBC_Brand_Film_poster.png)](NBC_Brand_Film_16x9.mp4)
+
+**[NBC_Brand_Film_16x9.mp4](NBC_Brand_Film_16x9.mp4)** (1920 × 1080) · **[NBC_Brand_Film_9x16.mp4](NBC_Brand_Film_9x16.mp4)** (1080 × 1920) · 30 seconds · 30 fps · −20 LUFS
+
+**Design rules:**
+- one idea per shot;
+- full-bleed colour chapters in which each colour does its brand job;
+- Unbounded capitals, a few words per frame;
+- piece-shaped wipes between chapters;
+- cuts on a 96 BPM grid;
+- the last pieces become the logo.
+
+| Time | Colour | On screen |
+|---|---|---|
+| 0:00 | Ink | "AI makes answers cheap." |
+| 0:03 | Yellow (experience) | "Investigate." "Build." A ramp is built; the car stops short |
+| 0:09 | Orange (the child's action) | "Get it wrong." "Try again." One block higher; the car goes farther |
+| 0:14 | Blue (intelligence) | "Shared AI. You decide." A suggestion, confirmed by a tap |
+| 0:19 | Violet (evidence) | "Changed one thing." Predicted first · one change · explained why |
+| 0:21 | Green (capability) | "It holds." The same idea in a second world |
+| 0:23 | Ink | Five pieces become the symbol; the wordmark rises; "Partner with us."; "A venture by Algo Peers" |
+
+**Sound:** material sounds lead, with the score beneath:
+- **materials:** wood-block taps as the ramp is built, wheels rolling on wood, a clay-pot landing, a water-drop tap, and a filtered-air rush on each wipe;
+- **score:** kalimba and harp-lute ([`NBC_brand_scores.py`](NBC_brand_scores.py)), built on the shared [sound engine](NBC_sound_engine.py).
+
+
 ## NBC Story (first cut)
 
 [![NBC Story poster](NBC_Story_poster.png)](NBC_Story.mp4)
@@ -26,15 +55,14 @@ The elevator pitch, told in nine scenes in the [NBC brand](../NBC_Brand_Guide.pd
 - [`NBC_Story_source.html`](NBC_Story_source.html) is the animation source. Each frame is rendered at an exact time and encoded to MP4.
 - **Score:** see **Sound** below.
 
-## Teaser for WhatsApp and Instagram status
+## Teaser for WhatsApp and Instagram status (brand system)
 
-**[NBC_Teaser_1080x1920.mp4](NBC_Teaser_1080x1920.mp4)** · 11 seconds · 1080 × 1920 (9:16) · 30 fps · natural original sound · under 16 MB, so it fits WhatsApp's status limit
+**[NBC_Teaser_1080x1920.mp4](NBC_Teaser_1080x1920.mp4)** · 12 seconds · 1080 × 1920 (9:16) · under 1 MB · −20 LUFS
 
-Abstract by design, so it shares nothing about what NBC builds:
-- one piece appears, and eight more join in the brand colours;
-- the pieces become one, under the line "Something is taking shape.";
-- the last piece lands as the logo symbol, and the wordmark rises in line by line;
-- a row of the five brand colours, then "COMING SOON", then "A venture by Algo Peers" in the real Algo Peers wordmark.
+It is abstract by design and says nothing about what NBC builds:
+- one word per colour field, revealed by piece-shaped wipes: "Something" (ink), "is" (yellow), "taking" (orange), "shape." (blue);
+- five white pieces (violet);
+- the pieces become the logo, with "Coming soon." and "A venture by Algo Peers".
 
 ![Teaser poster](NBC_Teaser_poster.png)
 
