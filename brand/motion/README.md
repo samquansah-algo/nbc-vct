@@ -2,9 +2,11 @@
 
 ## Brand film (30 s): Apple-style, on the NBC brand system
 
-[![Brand film poster](NBC_Brand_Film_poster.png)](NBC_Brand_Film_16x9.mp4)
+[![Brand film poster](NBC_Brand_Film_poster.png)](NBC_Brand_Film_4K_16x9.mp4)
 
-**[NBC_Brand_Film_16x9.mp4](NBC_Brand_Film_16x9.mp4)** (1920 × 1080) · **[NBC_Brand_Film_9x16.mp4](NBC_Brand_Film_9x16.mp4)** (1080 × 1920) · 30 seconds · 30 fps · −20 LUFS
+**[NBC_Brand_Film_4K_16x9.mp4](NBC_Brand_Film_4K_16x9.mp4)** (3840 × 2160) · **[NBC_Brand_Film_4K_9x16.mp4](NBC_Brand_Film_4K_9x16.mp4)** (2160 × 3840) · 4K UHD · 60 fps · 30 seconds · −20 LUFS
+
+**How they are made:** rendered from lossless PNG frames at twice the pixel density, then encoded as H.264 High profile tuned for animation (CRF 12). Flat brand colour compresses very efficiently, so the files stay small without losing sharpness. Re-render with [`render_4k.js`](render_4k.js).
 
 **Design rules:**
 - one idea per shot;
@@ -57,7 +59,9 @@ The elevator pitch, told in nine scenes in the [NBC brand](../NBC_Brand_Guide.pd
 
 ## Teaser for WhatsApp and Instagram status (brand system)
 
-**[NBC_Teaser_1080x1920.mp4](NBC_Teaser_1080x1920.mp4)** · 12 seconds · 1080 × 1920 (9:16) · under 1 MB · −20 LUFS
+**[NBC_Teaser_4K_2160x3840.mp4](NBC_Teaser_4K_2160x3840.mp4)** (4K master, 60 fps) · **[NBC_Teaser_1080x1920.mp4](NBC_Teaser_1080x1920.mp4)** (1080p for WhatsApp, downscaled from 4K, 30 fps) · 12 seconds · −20 LUFS
+
+**Sharing:** WhatsApp re-compresses status videos, so post the 1080p file there, or send the 4K file as a document to keep it untouched. Instagram takes the 4K file directly.
 
 It is abstract by design and says nothing about what NBC builds:
 - one word per colour field, revealed by piece-shaped wipes: "Something" (ink), "is" (yellow), "taking" (orange), "shape." (blue);
