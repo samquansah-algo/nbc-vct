@@ -46,12 +46,13 @@ The elevator pitch, told in nine scenes in the [NBC brand](../NBC_Brand_Guide.pd
 
 ## Teaser for WhatsApp and Instagram status
 
-**[NBC_Teaser_1080x1920.mp4](NBC_Teaser_1080x1920.mp4)** · 9.5 seconds · 1080 × 1920 (9:16) · 30 fps · soft original sound · under 16 MB, so it fits WhatsApp's status limit
+**[NBC_Teaser_1080x1920.mp4](NBC_Teaser_1080x1920.mp4)** · 11 seconds · 1080 × 1920 (9:16) · 30 fps · natural original sound · under 16 MB, so it fits WhatsApp's status limit
 
 Abstract by design, so it shares nothing about what NBC builds:
 - one piece appears, and eight more join in the brand colours;
 - the pieces become one, under the line "Something is taking shape.";
-- the logo reveals, with "Coming soon." and "From Algo Peers".
+- the last piece lands as the logo symbol, and the wordmark rises in line by line;
+- a row of the five brand colours, then "COMING SOON", then "A venture by Algo Peers" in the real Algo Peers wordmark.
 
 ![Teaser poster](NBC_Teaser_poster.png)
 

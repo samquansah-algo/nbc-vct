@@ -55,19 +55,22 @@ def launch():
     return mx
 
 def teaser():
-    mx = Mix(9.5)
-    mx.add(air(9.5, 300, 2400, .10), 0, 1, 0, .6); mx.add(drone(36, 9.5, .14), 0, 1, 0, .3)
+    mx = Mix(11.0)
+    mx.add(air(11.0, 300, 2400, .10), 0, 1, 0, .6); mx.add(drone(36, 11.0, .14), 0, 1, 0, .3)
     order_t = [0.12] + [1.0+k*.2 for k in range(1, 9)]; notes = [72, 76, 79, 74, 81, 77, 84, 79, 88]
     for tt, m in zip(order_t, notes): mx.add(kalimba(m-12, .26, 2.6), tt, 1, (m % 5-2)*.22, .55)
     mx.add(drop(.14, 880), .14, 1, 0, .5)
-    mx.add(air(1.0, 800, 3500, .10, .6), 2.9, 1, .3, .3)                       # the turn
+    mx.add(air(1.0, 800, 3500, .10, .6), 2.9, 1, .3, .3)
     mx.add(swell([60, 64, 67, 72], 1.0, .18), 3.2, 1, 0, .6)
-    mx.add(pad([53, 57, 60, 64], 2.2, .12, 1000, .5), 4.2, 1, 0, .6)
-    mx.add(drop(.18, 760), 6.25, 1, 0, .5); mx.add(glass(84, .07, 3.5), 6.3, 1, .2, .8)
-    mx.add(claypot(.3, 68), 6.3, .5, 0, .4)
-    mx.add(pad([36, 48, 55, 60, 64, 67], 3.2, .14, 1100, .7), 6.3, 1, 0, .65)
-    for i, m in enumerate([60, 64, 67, 72]): mx.add(kalimba(m, .22, 3), 6.3+i*.13, 1, -.3+.2*i, .6)
-    mx.add(harplute(76, .2), 7.4, 1, .2, .7)
+    mx.add(pad([53, 57, 60, 64], 2.4, .12, 1000, .5), 4.2, 1, 0, .6)
+    mx.add(air(.8, 500, 2500, .08, .5), 5.6, 1, -.2, .4)                                   # the piece glides to the logo
+    for i, m in enumerate([67, 72, 76]): mx.add(kalimba(m, .24, 3.2), 6.35+i*.18, 1, -.2+.2*i, .6)   # three lines rise
+    mx.add(pad([36, 48, 55, 60, 64, 67], 4.6, .13, 1100, .9), 6.35, 1, 0, .65)
+    for i in range(5): mx.add(drop(.07, 900+i*90), 7.35+i*.09, 1, -.4+.2*i, .55)            # the colour row
+    mx.add(glass(84, .05, 4), 7.8, 1, .2, .85)                                                # coming soon
+    mx.add(claypot(.25, 66), 8.5, .45, 0, .45)                                                # a venture by Algo Peers
+    for i, m in enumerate([60, 64, 67, 72, 76]): mx.add(harplute(m, .2), 8.5+i*.12, 1, -.3+.15*i, .7)
+    mx.add(pad([48, 55, 60, 64, 72], 2.6, .10, 1000, .8), 8.5, 1, 0, .7)
     return mx
 
 def story():

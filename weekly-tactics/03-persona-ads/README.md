@@ -6,7 +6,7 @@
 
 | File | |
 |---|---|
-| [NBC_Persona_Ads_Tactic.pdf](NBC_Persona_Ads_Tactic.pdf) | **Upload this.** "Build it together": 44 slides that follow the template's order and cover every prompt, told as a brand story |
+| [NBC_Persona_Ads_Tactic.pdf](NBC_Persona_Ads_Tactic.pdf) | **Upload this.** "Build it together": 46 slides that follow the template's order and cover every prompt, told as a brand story |
 | [NBC_Persona_Ads_Tactic.pptx](NBC_Persona_Ads_Tactic.pptx) | The same slides as PowerPoint, with clickable link hotspots |
 | [CAMPAIGN_PLAN.md](CAMPAIGN_PLAN.md) | Partner personas, ads B1–B5, targeting, tracking, pass lines and the results log |
 | [ads/](ads/) | B1–B5 partner ads (1080 × 1080); A1–A5 are the earlier programme-owner ads |
@@ -17,14 +17,16 @@
 |---|---|
 | Title, Venture Intro, Experiment Outline | 1–3 |
 | Go-to-market: three things to win, the partnership map, the meetings, the sequence | 4–10 |
-| Personas | 11–12 |
-| Experiment Design | 13–15 |
-| Ads v1 (B1–B5) | 16–21 |
-| Landing Pages (five, full length) | 22–27 |
-| Ad Platform Setup | 28–31 |
-| Results v1, Ads v2, Results v2 | 32–35 |
-| Tactical Playbook | 36–38 |
-| Venture Updates | 39–43 |
+| Personas: the map with the learner at the centre, then all eight personas with age, gender, location, role, language, online channels, assumption and proof | 11–14 |
+| Experiment Design | 15–17 |
+| Ads v1 (B1–B5) | 18–23 |
+| Landing Pages (five, full length) | 24–29 |
+| Ad Platform Setup | 30–33 |
+| Results v1, Ads v2, Results v2 | 34–37 |
+| Tactical Playbook | 38–40 |
+| Venture Updates | 41–45 |
+
+**The learner** (aged about 9–12, Cape Coast) is the centre of every persona, but is **never targeted by ads**: platforms forbid it and our rules forbid collecting children’s data for marketing. Assumptions about learners are tested only in consented sessions.
 
 **Honest status:**
 - The ads have not run; the results slides are an empty scoreboard with launch dates.
