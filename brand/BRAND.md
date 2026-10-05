@@ -32,6 +32,22 @@ Each level has one job:
 
 **Supporting line:** "Programmable physical learning environments where children build, experiment and develop capabilities with shared AI."
 
+## Scope: global brand, local proof
+
+NBC is built for the next billion children everywhere. Ghana is our first chapter, not our boundary. Every piece of communication sits at one of three layers:
+
+| Layer | What it says | Where it appears | Example |
+|---|---|---|---|
+| **1 · Brand** (global, placeless) | Who we are and why we exist | Logo, master line, films, teaser, social bios, signatures, website headers | "Learning infrastructure for the next billion children." · "Every child. Everywhere." |
+| **2 · Origin and proof** | Where we started and what we know | Pitch, about pages, proof lines, investor materials | "Starting from five years of Algo Peers practice in Cape Coast, Ghana." |
+| **3 · Go-to-market** (local) | Who we are talking to right now | Pilot offers, ads, landing pages, partner briefs | "A pilot with GES Cape Coast." |
+
+**Rules:**
+1. Never put a country in the logo, master line, tagline or signature.
+2. When Ghana appears at layers 1 or 2, frame it as a beginning: "starting in", "first", "born in". Never "for Ghana" or "Ghana's".
+3. Go-to-market material (layer 3) can be fully local, because pilots need a place.
+4. Show the global scope instead of only stating it: many languages, contrasting rooms (low- and high-resource), and the same Learning World working in different places.
+
 ## Audiences and what each needs to hear
 
 | Audience | Message | Proof they need |
@@ -45,7 +61,7 @@ Each level has one job:
 
 ## Voice
 
-- **Inspirational but grounded:** name the place (Cape Coast, Ghana), use hard numbers, and make learners and educators the subject.
+- **Inspirational but grounded:** use hard numbers and make learners and educators the subject. Name the place (Cape Coast, Ghana) as where we *start*, never as the limit of who we serve.
 - **Evidence-honest:** label every claim as observed, provisional or proposed, and give the period and denominator for every figure.
 - **Vision apart from offer:** keep global vision language separate from what we sell today.
 - **No rankings:** never promise a score, rank or "employability".

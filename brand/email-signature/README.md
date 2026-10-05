@@ -25,5 +25,6 @@ Go to **Settings → Mail → Compose and reply → Email signature**, then past
 These follow the [brand guide](../NBC_Brand_Guide.pdf):
 - one colour for the NBC symbol, white on ink;
 - the master line, "Learning infrastructure for the next billion children";
-- name, role, Mandela Washington Fellow, and both work emails (samquansah@gse.harvard.edu, samquans@mit.edu);
+- name, role, Mandela Washington Fellow, "A venture by Algo Peers", and both work emails (samquansah@gse.harvard.edu, samquans@mit.edu);
+- no country in the signature: the brand is global (see the scope rule in BRAND.md);
 - no phone number or address in the public version.
