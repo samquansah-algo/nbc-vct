@@ -35,7 +35,7 @@ Full dated plan: [tactics-milestones/DEADLINES.md](tactics-milestones/DEADLINES.
 | Area | Start with | Also |
 |---|---|---|
 | **Weekly tactics** | [01 Market research tactic (PDF)](weekly-tactics/01-market-research/NBC_Market_Research_Tactic.pdf) | [PPTX](weekly-tactics/01-market-research/NBC_Market_Research_Tactic.pptx) · [what's done and not](weekly-tactics/01-market-research/README.md) |
-| | [02 Assets tactic (PDF)](weekly-tactics/02-assets/NBC_Assets_Tactic.pdf) | [PPTX](weekly-tactics/02-assets/NBC_Assets_Tactic.pptx) · [logos, website, graphics, social kit](weekly-tactics/02-assets/README.md) |
+| | [02 Assets tactic: An identity that sticks (PDF)](weekly-tactics/02-assets/NBC_Identity_Tactic.pdf) | [PPTX](weekly-tactics/02-assets/NBC_Identity_Tactic.pptx) · [logos, website, graphics, social kit](weekly-tactics/02-assets/README.md) |
 | **Thesis** | [v5 thesis and strategy](thesis/NBC_Thesis_and_Strategy_v5.md) | [lineage v1–v6](thesis/LINEAGE.md) |
 | **Strategy** | [v5 tactical playbook](strategy/NBC_Tactical_Playbook_v5.md) | [reconciliation of v5 with earlier work](strategy/RECONCILIATION.md) |
 | **Brand** | [Brand guide (PDF, 14 pages)](brand/NBC_Brand_Guide.pdf) | [brand strategy](brand/BRAND.md) · [logos](brand/logo/) · [tokens](brand/tokens/) · [email signature](brand/email-signature/) |

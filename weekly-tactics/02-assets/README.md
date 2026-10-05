@@ -6,27 +6,27 @@
 
 | File | |
 |---|---|
-| [NBC_Assets_Tactic.pdf](NBC_Assets_Tactic.pdf) | **Upload this.** 20 slides that follow the course template's sections, order and prompts, in the NBC brand; every slide links to its sources and to the brand guide |
-| [NBC_Assets_Tactic.pptx](NBC_Assets_Tactic.pptx) | The same slides as PowerPoint, with clickable link hotspots |
+| [NBC_Identity_Tactic.pdf](NBC_Identity_Tactic.pdf) | **Upload this.** "An identity that sticks": 51 slides that follow the course template's order and cover every prompt, told as a brand story rather than as questions. Every slide links to its sources and to the brand guide |
+| [NBC_Identity_Tactic.pptx](NBC_Identity_Tactic.pptx) | The same slides as PowerPoint, with clickable link hotspots |
 | [slides/](slides/) | Each slide as a PNG |
+| [NBC_Assets_Tactic_template_prompts.pdf](NBC_Assets_Tactic_template_prompts.pdf) | Alternate: the earlier 20-slide version that states the template prompts |
 
-## What the slides cover
+## How the story maps to the template
 
-| Template slide | Slides | Asset files |
-|---|---|---|
-| Title: team, names, date | 1 | |
-| Venture Intro (elevator pitch) | 2 | |
-| Experiment Outline (Parts 1–3) | 3 | |
-| Logo Design Concepts | 4–5 | [logo-concepts/](logo-concepts/): concept 1 (field mark, wordmark), concept 2 ("light up" lockup), alternatives A–E |
-| Logo Design v2, with callouts | 6 | [brand/logo/](../../brand/logo/) (the current NBC lockup and symbol) |
-| Graphic v1 | 7 | [assets/value-graphic-v1.png](assets/value-graphic-v1.png) |
-| Graphic v2, with callouts | 8 | [assets/value-graphic-v2.png](assets/value-graphic-v2.png) |
-| Website v1 (9 pages, desktop and phone) | 9–10 | [website-v1/](website-v1/) |
-| Website v2 (10 pages, desktop and phone, with callouts) | 11–13 | [website-v2/](website-v2/) · [site file](https://github.com/samquansah-algo/nbc-tnt/blob/main/site/index.html) |
-| Social Profiles | 14 | [assets/social/](assets/social/) |
-| Email Signature | 15 | [brand/email-signature/](../../brand/email-signature/) |
-| Tactical Playbook | 16 | |
-| Venture Updates | 17–20 | |
+| Template prompt | Chapter and slides |
+|---|---|
+| Title: team, names, date | 1 · "An identity that sticks." |
+| Venture Intro (elevator pitch) | 2 · "Answers are cheap. Trying again is not." |
+| Experiment Outline (goal, hypothesis, experiment) | 3 · "Understood in five seconds. Trusted enough to call." |
+| Logo Design Concepts | 01 The mark · 5–7: concept 1, concept 2, alternatives A–E ([logo-concepts/](logo-concepts/)) |
+| Logo Design v2, with callouts | 8–13: the v2 mark, what changed, the symbol, colour, type, voice ([brand/logo/](../../brand/logo/)) |
+| Graphic v1 and v2, with callouts | 02 The story · 15–16 ([assets/](assets/)) |
+| Website v1 (every page, full length, plus phone) | 03 The website · 18–27 ([website-v1/](website-v1/)) |
+| Website v2 (every page, full length, plus phone, with callouts) | 28–39 ([website-v2/](website-v2/) · [site file](https://github.com/samquansah-algo/nbc-tnt/blob/main/site/index.html)) |
+| Social Profiles | 04 The presence · 41 ([assets/social/](assets/social/)) |
+| Email Signature | 42 ([brand/email-signature/](../../brand/email-signature/)) |
+| Tactical Playbook | 05 The playbook · 44–45 |
+| Venture Updates | 06 Meanwhile · 47–50 |
 
 ## Honest status
 
