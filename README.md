@@ -35,9 +35,10 @@ Full dated plan: [tactics-milestones/DEADLINES.md](tactics-milestones/DEADLINES.
 | Area | Start with | Also |
 |---|---|---|
 | **Weekly tactics** | [01 Market research tactic (PDF)](weekly-tactics/01-market-research/NBC_Market_Research_Tactic.pdf) | [PPTX](weekly-tactics/01-market-research/NBC_Market_Research_Tactic.pptx) · [what's done and not](weekly-tactics/01-market-research/README.md) |
+| | [02 Assets tactic (PDF)](weekly-tactics/02-assets/NBC_Assets_Tactic.pdf) | [PPTX](weekly-tactics/02-assets/NBC_Assets_Tactic.pptx) · [logos, website, graphics, social kit](weekly-tactics/02-assets/README.md) |
 | **Thesis** | [v5 thesis and strategy](thesis/NBC_Thesis_and_Strategy_v5.md) | [lineage v1–v6](thesis/LINEAGE.md) |
 | **Strategy** | [v5 tactical playbook](strategy/NBC_Tactical_Playbook_v5.md) | [reconciliation of v5 with earlier work](strategy/RECONCILIATION.md) |
-| **Brand** | [Brand guide (PDF, 14 pages)](brand/NBC_Brand_Guide.pdf) | [brand strategy](brand/BRAND.md) · [logos](brand/logo/) · [tokens](brand/tokens/) |
+| **Brand** | [Brand guide (PDF, 14 pages)](brand/NBC_Brand_Guide.pdf) | [brand strategy](brand/BRAND.md) · [logos](brand/logo/) · [tokens](brand/tokens/) · [email signature](brand/email-signature/) |
 | **CRM** | [Live PMR CRM (Google Sheets)](https://docs.google.com/spreadsheets/d/11LfHholpkKC0vhpQ7z_DvRme57lPln2jZR7Nm4EMrjg/edit) | [Guide and setup script](marketing/crm/README.md): sales funnel (prospecting, leads, BANT qualification, opportunities), accounts, people profiles, tasks, linked resources, roles, and a notification center (email off until an Admin confirms recipients) |
 | **Marketing** | [Marketing strategy](marketing/MARKETING_STRATEGY.md) | [watering holes](marketing/watering_holes_v5.md) · [interview script](marketing/INTERVIEW_SCRIPT.md) · [outreach v1/v2](marketing/OUTREACH_MESSAGES.md) · [tracker and insights grid](marketing/INTERVIEW_TRACKER.md) · [funnel model](marketing/funnel_results.md) |
 | **Research** | [Simulated rehearsal (not evidence)](research/simulated/README.md) | |

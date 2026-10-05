@@ -1,6 +1,6 @@
 # Brand strategy
 
-**Visual brand guide:** [brand/NBC_Brand_Guide.pdf](../brand/NBC_Brand_Guide.pdf), covering logo use and misuse, colour, type, voice, graphics, icons, applications, and rules for children and evidence.
+**Visual brand guide:** [brand/NBC_Brand_Guide.pdf](../brand/NBC_Brand_Guide.pdf) · **Assets tactic:** [logos, website, value graphic, social kit](../weekly-tactics/02-assets/README.md) · **Email signature:** [brand/email-signature/](email-signature/). The guide covers logo use and misuse, colour, type, voice, graphics, icons, applications, and rules for children and evidence.
 
 NBC's brand sits inside the **Algo Peers family**. It uses the Algo Peers brand system unchanged, and gives each colour a job taken from the NBC thesis. *This is a proposal: it has not yet been tested with children, families, facilitators or buyers.*
 
