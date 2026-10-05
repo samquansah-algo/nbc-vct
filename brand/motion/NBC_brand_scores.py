@@ -26,12 +26,12 @@ def bed(mx, t0, t1, base, vel=.13, step=.3125):
     ostinato(mx, t0, t1, base=base, vel=vel, step=step, pulse_every=4)
 
 def film():
-    mx = Mix(30.0)
-    mx.add(drone(36, 30, .12), 0, 1, 0, .3); mx.add(air(30, 250, 2000, .07), 0, 1, 0, .6)
+    mx = Mix(33.4)
+    mx.add(drone(36, 33.4, .12), 0, 1, 0, .3); mx.add(air(33.4, 250, 2000, .07), 0, 1, 0, .6)
     # cold open, ink: three words, three tines
     for i, m in enumerate([64, 67, 72]): mx.add(kalimba(m, .32, 3), .25+i*.32, 1, -.3+.3*i, .5)
     mx.add(pad([48, 55, 60, 64], 3.0, .09, 700, .4), 0, 1, 0, .5)
-    for b in [3.1, 9.0, 14.0, 19.0, 21.4, 23.4]: mx.add(whoosh(), b-.45, 1, 0, .3)
+    for b in [3.1, 9.0, 14.0, 19.0, 21.4, 23.4, 26.8]: mx.add(whoosh(), b-.45, 1, 0, .3)
     # yellow · investigate, build: the ramp is built, the car rolls and stops short
     bed(mx, 3.1, 9.0, PENTA)
     for i in range(3): mx.add(wood(.35), 3.2+i*.18, 1, .2, .3)
@@ -52,8 +52,11 @@ def film():
     # green · it holds: two worlds, one idea
     mx.add(kalimba(79, .28), 22.0, 1, -.3, .55); mx.add(kalimba(84, .28), 22.4, 1, .3, .55)
     mx.add(pad([48, 55, 60, 67], 2.0, .09, 1000), 21.4, 1, 0, .5)
+    # global beat · 'try again' in six languages, then 'every child, everywhere'
+    for k, m in enumerate([72, 74, 76, 79, 81, 84]): mx.add(kalimba(m, .26, 1.6), 23.4+k*.32, 1, -.5+.2*k, .5); mx.add(wood(.12, 560+k*40), 23.4+k*.32, 1, .3, .3)
+    mx.add(pad([48, 55, 60, 64, 67], 1.6, .12, 1200, .4), 25.35, 1, 0, .6); mx.add(claypot(.3, 72), 25.35, .5, 0, .4); mx.add(glass(88, .05, 2), 25.6, 1, .2, .7)
     # ink · the end card: converge, symbol, wordmark, line, ask, endorsement
-    e0 = 23.4
+    e0 = 26.8
     for i in range(5): mx.add(wood(.16, 520+i*60), e0+i*.06, 1, -.4+.2*i, .4)
     mx.add(swell([60, 64, 67, 72], .9, .16), e0+.25, 1, 0, .6)
     mx.add(claypot(.35, 66), e0+1.1, .55, 0, .4)

@@ -4,7 +4,7 @@
 
 [![Brand film poster](NBC_Brand_Film_poster.png)](NBC_Brand_Film_4K_16x9.mp4)
 
-**[NBC_Brand_Film_4K_16x9.mp4](NBC_Brand_Film_4K_16x9.mp4)** (3840 × 2160) · **[NBC_Brand_Film_4K_9x16.mp4](NBC_Brand_Film_4K_9x16.mp4)** (2160 × 3840) · 4K UHD · 60 fps · 30 seconds · −20 LUFS
+**[NBC_Brand_Film_4K_16x9.mp4](NBC_Brand_Film_4K_16x9.mp4)** (3840 × 2160) · **[NBC_Brand_Film_4K_9x16.mp4](NBC_Brand_Film_4K_9x16.mp4)** (2160 × 3840) · 4K UHD · 60 fps · 33 seconds · −20 LUFS
 
 **How they are made:** rendered from lossless PNG frames at twice the pixel density, then encoded as H.264 High profile tuned for animation (CRF 12). Flat brand colour compresses very efficiently, so the files stay small without losing sharpness. Re-render with [`render_4k.js`](render_4k.js).
 
@@ -24,7 +24,8 @@
 | 0:14 | Blue (intelligence) | "Shared AI. You decide." A suggestion, confirmed by a tap |
 | 0:19 | Violet (evidence) | "Changed one thing." Predicted first · one change · explained why |
 | 0:21 | Green (capability) | "It holds." The same idea in a second world |
-| 0:23 | Ink | Five pieces become the symbol; the wordmark rises; "Partner with us."; "A venture by Algo Peers" |
+| 0:23 | Every colour | "Try again." in English, French, Spanish, Portuguese, Kiswahili and German, then "Every child. Everywhere." |
+| 0:27 | Ink | Five pieces become the symbol; the wordmark rises; "Partner with us."; "A venture by Algo Peers" |
 
 **Sound:** material sounds lead, with the score beneath:
 - **materials:** wood-block taps as the ramp is built, wheels rolling on wood, a clay-pot landing, a water-drop tap, and a filtered-air rush on each wipe;

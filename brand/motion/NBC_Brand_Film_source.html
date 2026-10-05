@@ -18,7 +18,7 @@ function el(html){const d=document.createElement('div');d.innerHTML=html;const e
 // ---------- scenes ----------
 const SC = MODE==='film' ? [
  {id:'s0',a:0,b:3.1,bg:C.ink},{id:'s1',a:3.1,b:9.0,bg:C.y},{id:'s2',a:9.0,b:14.0,bg:C.o},{id:'s3',a:14.0,b:19.0,bg:C.b},
- {id:'s4',a:19.0,b:21.4,bg:C.v},{id:'s5',a:21.4,b:23.4,bg:C.g},{id:'s6',a:23.4,b:30.0,bg:C.ink}]
+ {id:'s4',a:19.0,b:21.4,bg:C.v},{id:'s5',a:21.4,b:23.4,bg:C.g},{id:'sw',a:23.4,b:26.8,bg:C.y},{id:'s6',a:26.8,b:33.4,bg:C.ink}]
  : [{id:'t0',a:0,b:1.9,bg:C.ink},{id:'t1',a:1.9,b:3.1,bg:C.y},{id:'t2',a:3.1,b:4.3,bg:C.o},{id:'t3',a:4.3,b:5.5,bg:C.b},{id:'t4',a:5.5,b:6.7,bg:C.v},{id:'s6',a:6.7,b:12.0,bg:C.ink}];
 const DUR=SC[SC.length-1].b, WIPE=.45;
 const grp={};SC.forEach(s=>{grp[s.id]=el(`<div class="abs" style="inset:0;display:none"></div>`)});
@@ -48,6 +48,15 @@ if(MODE==='film'){
  sug=ph.querySelector('#sug');tap=ph.querySelector('#tap');done=ph.querySelector('#done');
  chips=['Predicted first','One change','Explained why'].map((c,i)=>add('s4',`<div class="abs" style="left:${TX}px;top:${(V?.56:.60)*H+i*(V?100:92)*u}px;display:flex;align-items:center;gap:${18*u}px;font-size:${(V?48:46)*u}px;font-weight:700;color:#fff"><span class="pc" style="position:relative;width:${40*u}px;height:${40*u}px;background:#fff;display:inline-block"></span>${c}</div>`));
  icons=add('s5',`<svg class="abs" style="left:0;top:0" width="${W}" height="${H}"></svg>`);
+}
+// ----- global beat -----
+const GL=[['Try again.','English',C.y,C.ink],['Réessaie.','Français',C.o,C.white],['Inténtalo otra vez.','Español',C.b,C.white],['Tente de novo.','Português',C.v,C.white],['Jaribu tena.','Kiswahili',C.g,C.ink],['Versuch es noch mal.','Deutsch',C.y,C.ink]];
+let gWord,gLang,gEnd1,gEnd2;
+if(MODE==='film'){
+ gWord=add('sw',`<div class="U abs" style="left:${M}px;right:${M}px;top:${V?.40*H:.36*H}px;font-size:${V?110*u:150*u}px;line-height:1"></div>`);
+ gLang=add('sw',`<div class="abs" style="left:${M}px;top:${V?.40*H-70*u:.36*H-70*u}px;font-size:${(V?30:28)*u}px;font-weight:800;letter-spacing:${6*u}px;text-transform:uppercase"></div>`);
+ gEnd1=add('sw',`<div class="U abs" style="left:${M}px;right:${M}px;top:${V?.36*H:.30*H}px;font-size:${V?86*u:160*u}px;color:#181818;opacity:0">Every child.</div>`);
+ gEnd2=add('sw',`<div class="U abs" style="left:${M}px;right:${M}px;top:${V?.36*H+100*u:.30*H+170*u}px;font-size:${V?86*u:160*u}px;color:#181818;opacity:0">Everywhere.</div>`);
 }
 // ----- teaser words -----
 let T0,T1,T2,T3,T4;
@@ -84,6 +93,7 @@ function render(t){
  bg.style.background=s.bg;Object.keys(grp).forEach(k=>grp[k].style.display=k===s.id?'block':'none');
  const nx=SC[cur+1];if(nx&&t>s.b-WIPE){const q=ei(P(t,s.b-WIPE,s.b));const D=1.75*Math.hypot(W,H)*q;wipe.style.display='block';wipe.style.background=nx.bg;wipe.style.width=wipe.style.height=D+'px';wipe.style.left=(W/2-D/2)+'px';wipe.style.top=(H/2-D/2)+'px'}else wipe.style.display='none';
  if(MODE==='film'){
+  if(s.id==='sw'){const k=Math.floor((t-23.4)/.32);if(k<GL.length){const [w,l,bgc,fg]=GL[k];bg.style.background=bgc;gWord.textContent=w;gWord.style.color=fg;gLang.textContent=l;gLang.style.color=fg;const q=eo(P(t,23.4+k*.32,23.4+k*.32+.18));gWord.style.opacity=q;gWord.style.transform=`translateY(${(1-q)*30*u}px)`;gLang.style.opacity=q*.8;gEnd1.style.opacity=0;gEnd2.style.opacity=0}else{bg.style.background=C.white;gWord.style.opacity=0;gLang.style.opacity=0;const a=eo(P(t,25.35,25.8)),b=eo(P(t,25.6,26.05));gEnd1.style.opacity=a;gEnd1.style.transform=`translateY(${(1-a)*50*u}px)`;gEnd2.style.opacity=b;gEnd2.style.transform=`translateY(${(1-b)*50*u}px)`}}
   words(W0,t,.25,.32,80);
   words(W1a,t,3.12,.1);gone(W1a,t,5.4);words(W1b,t,5.55,.1);
   ramp(svg1,t,{h0:.40,h1:.40,hT:99,carC:C.o,roll1:[7.0,8.3],stop1:.74,stop2:.74,lineC:C.ink,blockT:3.2});
