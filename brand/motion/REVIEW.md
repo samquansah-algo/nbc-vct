@@ -2,7 +2,7 @@
 
 The panel's lenses: brand strategist, ad and attention psychologist, sales lead, an Apple/Anthropic-style motion director, and a sound engineer and scientist. The verdict is followed by what was changed.
 
-## Launch film: "Introducing Learning Worlds" (86 s)
+## Launch film: "Introducing Learning Worlds" (86 s), withdrawn 5 Oct 2026
 
 | Lens | Finding | Change |
 |---|---|---|

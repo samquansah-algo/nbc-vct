@@ -1,23 +1,5 @@
 # NBC motion
 
-## Launch film: "Introducing Learning Worlds"
-
-[![Launch film poster](NBC_Launch_Film_poster.png)](NBC_Launch_Film.mp4)
-
-**[NBC_Launch_Film.mp4](NBC_Launch_Film.mp4)** · 86 seconds · 1920 × 1080 · 30 fps · original score, mastered softly to −20 LUFS
-
-The calm, product-launch style of an AI-lab release film: a warm paper canvas, sentence-case type, slow camera push-ins, soft focus pulls and light film grain.
-
-1. "Answers have never been easier to get." · "But learning isn’t the answer. It’s everything that happens before it."
-2. A line-drawn ramp: investigate, build, get it wrong, try again.
-3. "For most children, the chance to do this is still rare, and still costly."
-4. **Introducing Learning Worlds:** the kit, the facilitator card, the assistant and the evidence summary.
-5. A phone close-up: the assistant suggests, and the facilitator confirms. "AI that suggests. People who decide."
-6. An evidence card: "No scores. Just what they did, and how much help they had."
-7. "Built with educators in Cape Coast, Ghana." · "For the next billion." · the logo.
-
-See **Sound** below for the score.
-
 ## NBC Story (first cut)
 
 [![NBC Story poster](NBC_Story_poster.png)](NBC_Story.mp4)
