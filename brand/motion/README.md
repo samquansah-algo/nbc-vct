@@ -2,7 +2,7 @@
 
 [![NBC Story poster](NBC_Story_poster.png)](NBC_Story.mp4)
 
-**[NBC_Story.mp4](NBC_Story.mp4)** · 62 seconds · 1920 × 1080 · 30 fps · no audio
+**[NBC_Story.mp4](NBC_Story.mp4)** · 62 seconds · 1920 × 1080 · 30 fps · original score, stereo AAC, mastered to −16 LUFS
 
 The elevator pitch, told in nine scenes in the [NBC brand](../NBC_Brand_Guide.pdf):
 
@@ -22,4 +22,6 @@ The elevator pitch, told in nine scenes in the [NBC brand](../NBC_Brand_Guide.pd
 - The ramp distances (142 cm and 187 cm) are illustrative.
 - The 5 years and 1,000+ children are Algo Peers figures.
 - [`NBC_Story_source.html`](NBC_Story_source.html) is the animation source. Each frame is rendered at an exact time and encoded to MP4.
-- To add music, pick a licensed track in your video editor; no audio is included.
+- **Score:** original, composed in code for this film ([`NBC_Story_score.py`](NBC_Story_score.py)); no samples or licensed audio, so NBC owns it outright.
+  - **Key and tempo:** A minor, 96 BPM, resolving to C major on the logo.
+  - **Synced hits:** a soft pad and a landing thump as the piece drops; ticks as answers flood in; a marimba note for each of the four words, with a detuned wobble on "get it wrong"; a groove that starts with the ramp, a rolling swoosh for the car and a rising tone as the ramp goes up; a sparkling arpeggio as the grid lights; three chord hits that resolve on "Capability"; a swell for "the next billion"; and a full C major chord as the logo appears.
