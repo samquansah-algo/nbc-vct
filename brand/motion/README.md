@@ -16,7 +16,7 @@ The calm, product-launch style of an AI-lab release film: a warm paper canvas, s
 6. An evidence card: "No scores. Just what they did, and how much help they had."
 7. "Built with educators in Cape Coast, Ghana." · "For the next billion." · the logo.
 
-The score is felt piano and warm pads, synthesised in code ([`NBC_Launch_Film_score.py`](NBC_Launch_Film_score.py)), with rounded attacks and no sharp transients.
+See **Sound** below for the score.
 
 ## NBC Story (first cut)
 
@@ -42,9 +42,7 @@ The elevator pitch, told in nine scenes in the [NBC brand](../NBC_Brand_Guide.pd
 - The ramp distances (142 cm and 187 cm) are illustrative.
 - The 5 years and 1,000+ children are Algo Peers figures.
 - [`NBC_Story_source.html`](NBC_Story_source.html) is the animation source. Each frame is rendered at an exact time and encoded to MP4.
-- **Score:** original, composed in code for this film ([`NBC_Story_score.py`](NBC_Story_score.py)); no samples or licensed audio, so NBC owns it outright.
-  - **Key and tempo:** A minor, 96 BPM, resolving to C major on the logo.
-  - **Synced hits:** a soft pad and a landing thump as the piece drops; ticks as answers flood in; a marimba note for each of the four words, with a detuned wobble on "get it wrong"; a groove that starts with the ramp, a rolling swoosh for the car and a rising tone as the ramp goes up; a sparkling arpeggio as the grid lights; three chord hits that resolve on "Capability"; a swell for "the next billion"; and a full C major chord as the logo appears.
+- **Score:** see **Sound** below.
 
 ## Teaser for WhatsApp and Instagram status
 
@@ -56,3 +54,24 @@ Abstract by design, so it shares nothing about what NBC builds:
 - the logo reveals, with "Coming soon." and "From Algo Peers".
 
 ![Teaser poster](NBC_Teaser_poster.png)
+
+## Sound
+
+All three films share one original sound world: natural, hypnotic and quietly futuristic. It is built entirely from physical models in code ([`NBC_sound_engine.py`](NBC_sound_engine.py), cue sheets in [`NBC_scores.py`](NBC_scores.py)). There are no samples and no licensed audio, so NBC owns it outright.
+
+| Element | How it is made | Its role |
+|---|---|---|
+| Kalimba tines | Modal synthesis (a fundamental plus fast-fading inharmonic overtones), tuned pentatonic | The voice: a quiet nod to West African thumb pianos |
+| Harp-lute strings | Karplus-Strong plucked string, in the spirit of Ghana's seperewa | Reflective phrases; a muted string on "get it wrong" |
+| Clay-pot drum | A low resonant body with a soft pitch bend | Pulse without a click |
+| Water drops | Bubble model (a sine whose pitch rises as it resonates) | Interface taps, landing cards, the "next billion" sparkle |
+| Air | Filtered pink noise through a slowly moving band | Breath, space, the car rolling |
+| Drone | Detuned waves, a sine sub and a slow-moving low-pass, breathing at about 0.12 Hz | The hypnotic bed |
+| Glass | Soft FM shimmer, used sparingly | The future, very quietly |
+
+- **Hypnotic structure:** a three-note kalimba cell against a clay-pot pulse every four steps (3 against 4), over the breathing drone.
+- **Space:** a convolution reverb whose highs decay faster than its lows, like a real room.
+- **Mastering:**
+  - gentle tape warmth, controlled stereo width, and a soft top end, with almost no energy in the harsh 2–5 kHz band;
+  - −20 LUFS integrated, peaks around −9 dBFS;
+  - mono-safe for phone speakers (left/right correlation 0.8–0.9, under 0.5 dB lost when summed to mono).
