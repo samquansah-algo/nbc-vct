@@ -1,0 +1,171 @@
+<!doctype html><html><head><meta charset="utf-8"><title>NBC Story</title>
+<link rel="stylesheet" href="local.css"><link rel="stylesheet" href="noto_local.css">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1920px;height:1080px;overflow:hidden;background:#181818}
+#stage{position:relative;width:1920px;height:1080px;overflow:hidden;font-family:'Noto Sans',Arial,sans-serif;color:#181818}
+.sc{position:absolute;inset:0;opacity:0}
+.U{font-family:'Unbounded',Arial,sans-serif;font-weight:800;text-transform:uppercase;letter-spacing:-0.035em;line-height:.98}
+.abs{position:absolute}
+.pc{position:absolute;border-radius:0 0 50% 0}
+.eb{font-size:24px;font-weight:800;letter-spacing:5px;text-transform:uppercase}
+.w{display:inline-block;will-change:transform,opacity}
+.pill{position:absolute;padding:14px 24px;border-radius:999px;background:#2A2A2E;color:#E4E4E7;font-size:26px;font-weight:600;white-space:nowrap}
+.card{position:absolute;width:390px;height:300px;border-radius:28px;background:#fff;padding:34px;display:flex;flex-direction:column;gap:18px}
+.card .t{font-size:30px;font-weight:800;line-height:1.2}
+.card .d{font-size:22px;line-height:1.4;color:#3F3F46}
+.tile{position:absolute;height:200px;border-radius:28px;display:grid;place-items:center;font-family:'Unbounded',Arial;font-weight:800;text-transform:uppercase;font-size:34px;letter-spacing:-0.02em}
+</style></head><body><div id="stage">
+
+<!-- S1 -->
+<div class="sc" id="s1" style="background:#181818;color:#fff">
+  <div class="pc" id="s1p" style="width:150px;height:150px;background:#FFBE00;left:885px"></div>
+  <div class="U abs" id="s1t" style="left:0;right:0;top:640px;text-align:center;font-size:96px"></div>
+</div>
+<!-- S2 -->
+<div class="sc" id="s2" style="background:#181818;color:#fff"><div id="s2pills"></div>
+  <div class="U abs" id="s2a" style="left:0;right:0;top:440px;text-align:center;font-size:110px">Answers are everywhere.</div>
+</div>
+<!-- S3 -->
+<div class="sc" id="s3" style="background:#fff">
+  <div class="eb abs" id="s3e" style="left:220px;top:150px;color:#C2410C">For children, the chance to</div>
+  <div id="s3rows"></div>
+  <div class="U abs" id="s3b" style="left:220px;top:880px;font-size:64px;color:#181818">is still costly.</div>
+</div>
+<!-- S4 -->
+<div class="sc" id="s4" style="background:#FFBE00">
+  <div class="U abs" id="s4t" style="left:120px;top:110px;font-size:110px">Change one thing.</div>
+  <div class="U abs" id="s4t2" style="left:120px;top:240px;font-size:56px">Then explain why.</div>
+  <svg class="abs" id="s4svg" style="left:0;top:0" width="1920" height="1080"></svg>
+</div>
+<!-- S5 -->
+<div class="sc" id="s5" style="background:#181818;color:#fff">
+  <div class="eb abs" id="s5e" style="left:120px;top:250px;color:#FFBE00">NBC builds</div>
+  <div class="U abs" id="s5t" style="left:120px;top:300px;font-size:76px;width:860px">Programmable physical learning environments</div>
+  <div class="abs" id="s5s" style="left:120px;top:690px;font-size:34px;width:800px;line-height:1.45;color:#E4E4E7">where children build, experiment and develop capabilities with shared AI.</div>
+  <div id="s5grid"></div>
+</div>
+<!-- S6 -->
+<div class="sc" id="s6" style="background:#fff">
+  <div class="eb abs" id="s6e" style="left:0;right:0;text-align:center;top:250px;color:#C2410C">The idea</div>
+  <div class="tile" id="t1" style="left:120px;top:440px;width:330px;background:#FFBE00">Experience</div>
+  <div class="U abs" id="op1" style="left:470px;top:490px;font-size:90px">+</div>
+  <div class="tile" id="t2" style="left:540px;top:440px;width:360px;background:#006EFB;color:#fff">Intelligence</div>
+  <div class="U abs" id="op2" style="left:920px;top:490px;font-size:90px">+</div>
+  <div class="tile" id="t3" style="left:990px;top:440px;width:300px;background:#6833D9;color:#fff">Evidence</div>
+  <div class="U abs" id="op3" style="left:1310px;top:490px;font-size:90px">→</div>
+  <div class="tile" id="t4" style="left:1420px;top:440px;width:380px;background:#01C778">Capability</div>
+  <div class="U abs" id="s6t" style="left:0;right:0;top:760px;text-align:center;font-size:76px">Turn intelligence into capability.</div>
+</div>
+<!-- S7 -->
+<div class="sc" id="s7" style="background:#006EFB;color:#fff">
+  <div class="eb abs" id="s7e" style="left:120px;top:120px">For the people who run the room</div>
+  <div class="U abs" id="s7t" style="left:120px;top:170px;font-size:92px;width:1700px">Hands-on learning, ready to run.</div>
+  <div id="s7cards"></div>
+  <div class="U abs" id="s7b" style="left:120px;top:900px;font-size:56px">Evidence you can show.</div>
+</div>
+<!-- S8 -->
+<div class="sc" id="s8" style="background:#181818;color:#fff"><div id="s8dots"></div>
+  <div class="pc" id="s8c" style="width:56px;height:56px;background:#FFBE00;left:932px;top:512px"></div>
+  <div class="eb abs" id="s8l" style="left:0;right:0;top:600px;text-align:center;color:#FFBE00">Cape Coast, Ghana</div>
+  <div class="abs" id="s8n1" style="left:260px;top:380px;text-align:center;width:420px"><div class="U" style="font-size:150px" id="s8y">0</div><div class="eb" style="margin-top:12px">years of practice</div></div>
+  <div class="abs" id="s8n2" style="left:1240px;top:380px;text-align:center;width:460px"><div class="U" style="font-size:150px" id="s8k">0</div><div class="eb" style="margin-top:12px">children reached</div></div>
+  <div class="abs" id="s8s" style="left:0;right:0;top:820px;text-align:center;font-size:30px;color:#E4E4E7">with Algo Peers. Starting here.</div>
+  <div class="U abs" id="s8t" style="left:0;right:0;top:470px;text-align:center;font-size:120px">For the next billion.</div>
+</div>
+<!-- S9 -->
+<div class="sc" id="s9" style="background:#181818;color:#fff">
+  <div class="pc" id="s9p" style="background:#fff"></div>
+  <div class="abs" id="s9lockwrap" style="left:460px;top:330px;width:1000px;height:269px;overflow:hidden"><img src="nbc-v3-lockup-white.svg" id="s9lock" style="width:1000px;display:block"></div>
+  <div class="U abs" id="s9t" style="left:0;right:0;top:720px;text-align:center;font-size:54px;color:#FFBE00">Learning infrastructure for the next billion children.</div>
+  <div class="abs" id="s9c" style="left:0;right:0;top:880px;text-align:center;font-size:28px;color:#B5B5BA;line-height:1.6">samquansah@gse.harvard.edu &nbsp;·&nbsp; samquans@mit.edu<br>github.com/samquansah-algo/nbc-vct</div>
+</div>
+<div id="fade" class="abs" style="inset:0;background:#000;opacity:0;pointer-events:none"></div>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+const cl=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+const P=(t,a,b)=>cl((t-a)/(b-a));
+const eo=x=>1-Math.pow(1-x,3), eio=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2, ex=x=>x===1?1:1-Math.pow(2,-10*x);
+const back=x=>{const c1=1.70158,c3=c1+1;return 1+c3*Math.pow(x-1,3)+c1*Math.pow(x-1,2)};
+const bounce=x=>{const n=7.5625,d=2.75;if(x<1/d)return n*x*x;if(x<2/d)return n*(x-=1.5/d)*x+.75;if(x<2.5/d)return n*(x-=2.25/d)*x+.9375;return n*(x-=2.625/d)*x+.984375};
+let seed=7;const rnd=()=>(seed=(seed*16807)%2147483647)/2147483647;
+const SC=[['s1',0,4.6],['s2',4.6,9.2],['s3',9.2,16.2],['s4',16.2,24.4],['s5',24.4,31.4],['s6',31.4,37.8],['s7',37.8,44.6],['s8',44.6,51.4],['s9',51.4,62]];
+const XF=.45;
+// build words
+function words(el,text){el.innerHTML=text.split(' ').map(w=>`<span class="w">${w}</span>`).join(' ');return [...el.querySelectorAll('.w')]}
+const s1w=words($('s1t'),'AI makes answers cheap.');
+const PW=['Answer.','Done.','Summary','Explained.','Here is the solution','Step 1','Solved','Translated','Essay, finished','The answer is 42','Checked','Rewritten','Formula','Quick fix','Instant result','Copy and paste','Generated','Correct!','All done','Full marks'];
+const pills=[];for(let i=0;i<34;i++){const d=document.createElement('div');d.className='pill';d.textContent=PW[i%PW.length];let x,y;do{x=80+rnd()*1600;y=60+rnd()*940}while(y>380&&y<640&&x>200&&x<1500);d.style.left=x+'px';d.style.top=y+'px';d.dataset.t=(4.8+rnd()*1.8).toFixed(2);$('s2pills').appendChild(d);pills.push(d)}
+const ROWS=[['Investigate','#FFBE00'],['Build','#F2643E'],['Get it wrong','#6833D9'],['Try again','#01C778']];
+const rows=ROWS.map(([w,c],i)=>{const r=document.createElement('div');r.className='abs';r.style.cssText=`left:220px;top:${220+i*160}px;height:140px;display:flex;align-items:center;gap:40px`;r.innerHTML=`<div class="pc" style="position:relative;width:110px;height:110px;background:${c}"></div><div class="U" style="font-size:120px">${w}</div>`;$('s3rows').appendChild(r);return r});
+// grid
+const G=[];const cols=['#FFBE00','#F2643E','#006EFB','#6833D9','#01C778'];
+for(let r=0;r<6;r++)for(let c=0;c<8;c++){const d=document.createElement('div');d.className='pc';d.style.cssText=`width:86px;height:86px;border:4px solid #fff`;const tx=1060+c*100,ty=230+r*100;d.dataset.tx=tx;d.dataset.ty=ty;d.dataset.sx=tx+(rnd()-.5)*900;d.dataset.sy=ty+(rnd()-.5)*900;d.dataset.d=(rnd()*.9).toFixed(2);d.dataset.col=cols[(r*3+c)%5];d.dataset.k=(c+r)*.12;$('s5grid').appendChild(d);G.push(d)}
+// cards
+const CARDS=[['A Learning World kit','Reusable, low-cost materials for up to six children.','#FFBE00'],['A facilitator card','Each 45-minute session on one printed card.','#F2643E'],['An assistant that checks with you','It prepares and suggests. You confirm.','#181818'],['A short evidence summary','What each child tried, and how much help they had.','#6833D9']];
+const cards=CARDS.map(([t,d,c],i)=>{const e=document.createElement('div');e.className='card';e.style.left=(120+i*428)+'px';e.style.top='430px';e.style.color='#181818';e.innerHTML=`<div class="pc" style="position:relative;width:60px;height:60px;background:${c}"></div><div class="t">${t}</div><div class="d">${d}</div>`;$('s7cards').appendChild(e);return e});
+// dots
+const D=[];for(let i=0;i<260;i++){const a=rnd()*Math.PI*2,r=120+Math.pow(rnd(),.7)*1100;const d=document.createElement('div');d.className='pc';const s=10+rnd()*16;d.style.cssText=`width:${s}px;height:${s}px;background:${cols[i%5]}`;d.dataset.x=960+Math.cos(a)*r*1.25;d.dataset.y=540+Math.sin(a)*r*.75;d.dataset.r=r;d.dataset.s=s;$('s8dots').appendChild(d);D.push(d)}
+const svg=$('s4svg');
+function scAlpha(t,a,b,first,last){const i=first?1:P(t,a,a+XF),o=last?1:1-P(t,b-XF,b);return Math.min(i,o)}
+function render(t){
+ SC.forEach(([id,a,b],k)=>{const el=$(id);const on=t>=a-0.001&&t<b;el.style.opacity=on?scAlpha(t,a,b,k===0,k===SC.length-1):0;el.style.display=on?'block':'none'});
+ // S1
+ {const p=bounce(P(t,.2,1.5));$('s1p').style.top=(-200+p*(400+200))+'px';
+  s1w.forEach((w,i)=>{const q=eo(P(t,1.5+i*.22,2.1+i*.22));w.style.opacity=q;w.style.transform=`translateY(${(1-q)*60}px)`});}
+ // S2
+ {pills.forEach(p=>{const s=+p.dataset.t;const q=back(P(t,s,s+.35));const g=P(t,7.0,7.8);p.style.opacity=cl(P(t,s,s+.2))*(1-g*.75);p.style.transform=`scale(${q*(1-g*.15)})`;p.style.filter=`grayscale(${g})`});
+  const a=eo(P(t,6.3,7.0));$('s2a').style.opacity=a;$('s2a').style.transform=`translateY(${(1-a)*50}px)`;}
+ // S3
+ {const e=eo(P(t,9.5,10));$('s3e').style.opacity=e;
+  rows.forEach((r,i)=>{const q=eo(P(t,10+i*.7,10.6+i*.7));r.style.opacity=q;r.style.transform=`translateX(${(1-q)*-80}px)`;
+   const pc=r.firstChild;if(i===2){const w=P(t,11.9,12.5);const back2=P(t,13.4,13.9);pc.style.transform=`rotate(${(Math.sin(w*Math.PI*3)*12+w*24)*(1-back2)}deg) translateY(${w*18*(1-back2)}px)`}
+   if(i===3){const s=back(P(t,12.1,12.6));pc.style.transform=`scale(${.6+.4*s})`}});
+  const b=eo(P(t,13.6,14.2));$('s3b').style.opacity=b;$('s3b').style.transform=`translateY(${(1-b)*40}px)`;}
+ // S4 ramp
+ {const h1=170,h2=290;const hp=eio(P(t,19.3,20.1));const h=h1+(h2-h1)*hp;const gy=860,rx=180,rw=420;
+  const start=rx+40,end1=rx+rw+560-48,end2=rx+rw+1080-48;
+  let carShown,carOp=1;
+  if(t<19.0){carShown=start+eio(P(t,16.9,18.4))*(end1-start)}
+  else if(t<20.5){const f=P(t,19.0,19.3),g=P(t,20.2,20.5);carShown=t<19.75?end1:start;carOp=t<19.75?1-f:g}
+  else{carShown=start+eio(P(t,20.6,22.4))*(end2-start)}
+  let carYoff=0;if(carShown+40<rx+rw){const f=(carShown+40-rx)/rw;carYoff=-(1-f)*h}
+  const m1=`<g opacity="${P(t,18.4,18.8)}"><line x1="${rx+rw+560+40}" y1="${gy+20}" x2="${rx+rw+560+40}" y2="${gy+70}" stroke="#181818" stroke-width="4"/><text x="${rx+rw+560+40}" y="${gy+110}" font-family="Unbounded" font-weight="800" font-size="34" text-anchor="middle" fill="#181818">142 CM</text></g>`;
+  const m2=`<g opacity="${P(t,22.3,22.7)}"><line x1="${rx+rw+1080+40}" y1="${gy+20}" x2="${rx+rw+1080+40}" y2="${gy+70}" stroke="#F2643E" stroke-width="5"/><text x="${rx+rw+1080+40}" y="${gy+110}" font-family="Unbounded" font-weight="800" font-size="34" text-anchor="middle" fill="#F2643E">187 CM</text></g>`;
+  const lab=hp<.5?'1 BLOCK':'2 BLOCKS';const bl=`<text x="${rx}" y="${gy-h-26}" font-family="Unbounded" font-weight="800" font-size="30" fill="#181818" opacity="${P(t,17.0,17.4)}">RAMP: ${lab}</text>`;
+  svg.innerHTML=`<line x1="80" y1="${gy}" x2="1840" y2="${gy}" stroke="#181818" stroke-width="6" stroke-linecap="round"/>
+   <polygon points="${rx},${gy-h} ${rx+rw},${gy} ${rx},${gy}" fill="#181818"/>${bl}
+   <g opacity="${carOp}" transform="translate(${carShown},${gy+carYoff})"><rect x="-10" y="-58" width="96" height="44" rx="12" fill="#F2643E"/><circle cx="12" cy="-10" r="12" fill="#181818"/><circle cx="66" cy="-10" r="12" fill="#181818"/></g>${m1}${m2}`;
+  const a=eo(P(t,18.6,19.2));$('s4t').style.opacity=a;$('s4t').style.transform=`translateY(${(1-a)*40}px)`;
+  const b=eo(P(t,22.7,23.2));$('s4t2').style.opacity=b;}
+ // S5
+ {const e=eo(P(t,25.2,25.8));$('s5e').style.opacity=e;const a=eo(P(t,25.5,26.3));$('s5t').style.opacity=a;$('s5t').style.transform=`translateY(${(1-a)*40}px)`;
+  const s=eo(P(t,27.4,28.0));$('s5s').style.opacity=s;
+  G.forEach(d=>{const q=ex(P(t,24.6+ +d.dataset.d,25.8+ +d.dataset.d));d.style.left=(+d.dataset.sx+(d.dataset.tx-d.dataset.sx)*q)+'px';d.style.top=(+d.dataset.sy+(d.dataset.ty-d.dataset.sy)*q)+'px';d.style.opacity=q;
+   const L=P(t,27.6+ +d.dataset.k,28.0+ +d.dataset.k);d.style.background=L>0?d.dataset.col:'transparent';d.style.borderColor=L>0?d.dataset.col:'#fff';d.style.transform=`scale(${1-.12*Math.sin(L*Math.PI)})`});}
+ // S6
+ {$('s6e').style.opacity=eo(P(t,31.6,32));
+  [['t1',31.8],['op1',32.3],['t2',32.5],['op2',33.0],['t3',33.2],['op3',33.8]].forEach(([id,s])=>{const q=back(P(t,s,s+.5));$(id).style.opacity=cl(P(t,s,s+.25));$(id).style.transform=`translateY(${(1-q)*60}px)`});
+  const q=back(P(t,34.1,34.7));$('t4').style.opacity=cl(P(t,34.1,34.3));$('t4').style.transform=`scale(${.6+.4*q})`;
+  const a=eo(P(t,35.0,35.6));$('s6t').style.opacity=a;$('s6t').style.transform=`translateY(${(1-a)*40}px)`;}
+ // S7
+ {$('s7e').style.opacity=eo(P(t,38.1,38.5));const a=eo(P(t,38.3,39));$('s7t').style.opacity=a;$('s7t').style.transform=`translateY(${(1-a)*40}px)`;
+  cards.forEach((c,i)=>{const q=eo(P(t,39.2+i*.35,39.9+i*.35));c.style.opacity=q;c.style.transform=`translateY(${(1-q)*120}px)`});
+  const b=eo(P(t,41.6,42.2));$('s7b').style.opacity=b;}
+ // S8
+ {const c=back(P(t,44.9,45.4));$('s8c').style.transform=`scale(${c})`;$('s8l').style.opacity=eo(P(t,45.2,45.6))*(1-P(t,48.0,48.4));
+  const n=eo(P(t,45.6,47.0));$('s8y').textContent=Math.round(5*n);$('s8k').textContent=(Math.round(1000*n)).toLocaleString('en-US')+(n>=1?'+':'');
+  const nv=eo(P(t,45.5,45.9))*(1-P(t,47.9,48.3));$('s8n1').style.opacity=nv;$('s8n2').style.opacity=nv;$('s8s').style.opacity=eo(P(t,46.4,46.8))*(1-P(t,47.9,48.3));
+  D.forEach(d=>{const r=+d.dataset.r;const s=48.2+r/1100*1.6;const q=back(P(t,s,s+.4));d.style.left=(+d.dataset.x)+'px';d.style.top=(+d.dataset.y)+'px';d.style.transform=`scale(${q})`;d.style.opacity=cl(P(t,s,s+.2))});
+  const tt=eo(P(t,49.4,50.0));$('s8t').style.opacity=tt;$('s8t').style.transform=`translateY(${(1-tt)*40}px)`;}
+ // S9
+ {const sz0=1400,sz1=269;const m=eio(P(t,51.5,52.8));const sz=sz0+(sz1-sz0)*m;const cx=960+(460+134.5-960)*eio(P(t,52.5,53.4));const cy=465;
+  const p=$('s9p');p.style.width=sz+'px';p.style.height=sz+'px';p.style.left=(cx-sz/2)+'px';p.style.top=(cy-sz/2)+'px';const lockOn=P(t,53.4,53.45);p.style.opacity=1-lockOn;
+  const r=eio(P(t,53.4,54.4));$('s9lockwrap').style.opacity=lockOn;$('s9lockwrap').style.clipPath=`inset(0 ${(1-r)*73}% 0 0)`;
+  const a=eo(P(t,54.6,55.3));$('s9t').style.opacity=a;$('s9t').style.transform=`translateY(${(1-a)*30}px)`;
+  $('s9c').style.opacity=eo(P(t,56.2,56.9));}
+ $('fade').style.opacity=P(t,61.2,62);
+}
+window.render=render;window.DUR=62;render(0);
+</script></body></html>
