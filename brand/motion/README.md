@@ -1,8 +1,28 @@
-# NBC Story: motion design
+# NBC motion
+
+## Launch film: "Introducing Learning Worlds"
+
+[![Launch film poster](NBC_Launch_Film_poster.png)](NBC_Launch_Film.mp4)
+
+**[NBC_Launch_Film.mp4](NBC_Launch_Film.mp4)** · 86 seconds · 1920 × 1080 · 30 fps · original score, mastered softly to −20 LUFS
+
+The calm, product-launch style of an AI-lab release film: a warm paper canvas, sentence-case type, slow camera push-ins, soft focus pulls and light film grain.
+
+1. "Answers have never been easier to get." · "But learning isn’t the answer. It’s everything that happens before it."
+2. A line-drawn ramp: investigate, build, get it wrong, try again.
+3. "For most children, the chance to do this is still rare, and still costly."
+4. **Introducing Learning Worlds:** the kit, the facilitator card, the assistant and the evidence summary.
+5. A phone close-up: the assistant suggests, and the facilitator confirms. "AI that suggests. People who decide."
+6. An evidence card: "No scores. Just what they did, and how much help they had."
+7. "Built with educators in Cape Coast, Ghana." · "For the next billion." · the logo.
+
+The score is felt piano and warm pads, synthesised in code ([`NBC_Launch_Film_score.py`](NBC_Launch_Film_score.py)), with rounded attacks and no sharp transients.
+
+## NBC Story (first cut)
 
 [![NBC Story poster](NBC_Story_poster.png)](NBC_Story.mp4)
 
-**[NBC_Story.mp4](NBC_Story.mp4)** · 62 seconds · 1920 × 1080 · 30 fps · original score, stereo AAC, mastered to −16 LUFS
+**[NBC_Story.mp4](NBC_Story.mp4)** · 62 seconds · 1920 × 1080 · 30 fps · original score, softened and remastered to −21 LUFS
 
 The elevator pitch, told in nine scenes in the [NBC brand](../NBC_Brand_Guide.pdf):
 
@@ -28,11 +48,11 @@ The elevator pitch, told in nine scenes in the [NBC brand](../NBC_Brand_Guide.pd
 
 ## Teaser for WhatsApp and Instagram status
 
-**[NBC_Teaser_1080x1920.mp4](NBC_Teaser_1080x1920.mp4)** · 9 seconds · 1080 × 1920 (9:16) · 30 fps · original sound · under 16 MB, so it fits WhatsApp's status limit
+**[NBC_Teaser_1080x1920.mp4](NBC_Teaser_1080x1920.mp4)** · 9.5 seconds · 1080 × 1920 (9:16) · 30 fps · soft original sound · under 16 MB, so it fits WhatsApp's status limit
 
 Abstract by design, so it shares nothing about what NBC builds:
 - one piece appears, and eight more join in the brand colours;
 - the pieces become one, under the line "Something is taking shape.";
-- the logo reveals, with "Coming soon."
+- the logo reveals, with "Coming soon." and "From Algo Peers".
 
 ![Teaser poster](NBC_Teaser_poster.png)
