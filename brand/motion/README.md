@@ -25,3 +25,14 @@ The elevator pitch, told in nine scenes in the [NBC brand](../NBC_Brand_Guide.pd
 - **Score:** original, composed in code for this film ([`NBC_Story_score.py`](NBC_Story_score.py)); no samples or licensed audio, so NBC owns it outright.
   - **Key and tempo:** A minor, 96 BPM, resolving to C major on the logo.
   - **Synced hits:** a soft pad and a landing thump as the piece drops; ticks as answers flood in; a marimba note for each of the four words, with a detuned wobble on "get it wrong"; a groove that starts with the ramp, a rolling swoosh for the car and a rising tone as the ramp goes up; a sparkling arpeggio as the grid lights; three chord hits that resolve on "Capability"; a swell for "the next billion"; and a full C major chord as the logo appears.
+
+## Teaser for WhatsApp and Instagram status
+
+**[NBC_Teaser_1080x1920.mp4](NBC_Teaser_1080x1920.mp4)** · 9 seconds · 1080 × 1920 (9:16) · 30 fps · original sound · under 16 MB, so it fits WhatsApp's status limit
+
+Abstract by design, so it shares nothing about what NBC builds:
+- one piece appears, and eight more join in the brand colours;
+- the pieces become one, under the line "Something is taking shape.";
+- the logo reveals, with "Coming soon."
+
+![Teaser poster](NBC_Teaser_poster.png)
