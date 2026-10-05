@@ -1,58 +1,59 @@
-# Persona ad campaign plan (v1)
+# Partner ad campaign plan (v1): MOU, pilot and public-private financing
 
-**Status: designed, not yet live.** Round 1 runs Wed 14 – Tue 20 Oct 2026 and round 2 runs Wed 21 – Tue 27 Oct. Total budget: $200 or less, in USD.
+**Status: designed, not yet live.** Round 1 runs Wed 14 – Tue 20 Oct 2026 and round 2 runs Wed 21 – Tue 27 Oct. Total budget: $300 or less, in USD.
 
-## Personas and the assumption each tests
+**The first-stage go-to-market, in order:**
+1. **MOU:** a pilot framework with GES Cape Coast, so educators co-build the first version.
+2. **Pilot:** run with selected teachers and programmes.
+3. **Money:** a public-private partnership of public partners, co-funders, investors, accelerators, fellowships and diaspora sponsors.
+
+**The meetings and their jobs:**
+- **Jeff D. Davis (Utah MBC Global, Tue 6 Oct):** creative and offer review before launch.
+- **Dr Ekwow Spio-Garbrah (being set):** the path to an MOU, and diaspora introductions.
+- **GES Cape Coast (MOU explored):** co-design teachers. The educator ad is shared with GES first.
+- **Minister of Communication and Digital Innovation (met):** national alignment.
+- **Navab Social Innovation Fellowship (interview):** non-dilutive support and a network.
+- **TNT (decision pending):** investor proof.
+
+## Personas
 
 | Persona | We assume | Proved if |
 |---|---|---|
-| Programme owner (buyer) | Owners respond more to "ready to run" (A1) than to "evidence you can show" (A2) | They book pilot conversations, and one message clearly wins |
-| Educator (user, co-designer) | Educators will give time to co-design the first version (A3) | They join the co-design group |
-| Parent (payer, influencer) | Parents value trying again over scores (A4) | They ask for a programme near them |
-| Diaspora sponsor (funder) | Ghanaians abroad will sponsor a learning room at home (A5) | They register interest |
+| Public partner (education official) | Says yes to a pilot built with Ghana’s educators and careful with data | Requests the pilot brief (B1) |
+| Educator (co-designer) | Gives time to co-design when it is practical and credited | Joins the co-design group (B2) |
+| Co-funder (CSR or foundation) | Funds a public pilot with the education service over a donation | Requests the partnership brief (B3) |
+| Investor, accelerator or fellowship | Leans in to a Ghana-first venture with public partners | Requests the investor memo (B4) |
+| Diaspora sponsor | Sponsors a learning room at home with honest reporting | Registers interest (B5) |
 
 ## Ads
 
-| Ad | Ad set and platform | Message | Landing page | Budget |
+| Ad | Platform | Message | Landing page | Budget |
 |---|---|---|---|---|
-| [A1](ads/A1.png) | Programme owners · Meta | Ease: "Hands-on learning, ready to run." | [programmes](landing-pages/programmes.html) | $20 |
-| [A2](ads/A2.png) | Programme owners · Meta | Evidence: "Show funders what children can really do." | [programmes](landing-pages/programmes.html) | $20 |
-| [A3](ads/A3.png) | Educators · Meta | Co-creation: "Build the first version with us." | [educators](landing-pages/educators.html) | $20 |
-| [A4](ads/A4.png) | Parents · Meta | Agency: "Let them get it wrong. Then try again." | [families](landing-pages/families.html) | $20 |
-| [A5](ads/A5.png) | Diaspora · LinkedIn | Belonging: "Sponsor a learning room in Cape Coast." | [sponsors](landing-pages/sponsors.html) | $40 |
+| [B1](ads/B1.png) | LinkedIn · Ghana | "Built with Ghana’s educators. Ready to pilot." | [government](landing-pages/government.html) | $40 |
+| [B2](ads/B2.png) | Meta · Central Region and Greater Accra | "Build the first version with us." | [educators](landing-pages/educators.html) | $20 |
+| [B3](ads/B3.png) | LinkedIn · Ghana | "Co-fund a public learning pilot." | [partners](landing-pages/partners.html) | $40 |
+| [B4](ads/B4.png) | LinkedIn · Ghana, US, UK | "Learning infrastructure, starting in Ghana." | [investors](landing-pages/investors.html) | $40 |
+| [B5](ads/B5.png) | LinkedIn · US, UK, Canada | "Sponsor a learning room at home." | [sponsors](landing-pages/sponsors.html) | $40 |
 
-## Targeting (planned; not yet built in Ads Manager)
+## Targeting (planned; not yet built)
 
-- **Programme owners:** Cape Coast + 40 km and Accra + 25 km; ages 25–60; education, STEM education, child development, small business owners.
-- **Educators:** Central Region and Greater Accra; ages 22–55; teaching, science education, computer science, robotics, micro:bit. We share this ad with GES Cape Coast before it runs.
-- **Parents:** Cape Coast + 30 km; ages 25–50; parents with preteens (8–12).
-- **Diaspora:** LinkedIn; United States, United Kingdom and Canada; Ghanaian alumni and professional groups; manager seniority and above.
+- **Public partners:** government administration and education management in Ghana; job titles such as director of education, education officer, district director and policy officer.
+- **Educators:** ages 22–55; teaching, science education, computer science, robotics and micro:bit.
+- **Co-funders:** CSR, sustainability, corporate affairs and foundation programme roles in Ghana; telecoms, banking, mining, energy and consumer goods.
+- **Investors:** partners, investment managers and accelerator or fellowship programme directors; impact investing, education technology and venture capital.
+- **Diaspora:** Ghanaian alumni and professional groups; manager seniority and above.
 
-## Tracking and care
+## Tracking, care and pass lines
 
-- **UTM tags:** every link carries `utm_source` (meta or linkedin), `utm_campaign=nbc-persona-v1` and `utm_content` (a1–a5).
-- **Leads:** sign-ups are logged as leads in the PMR CRM, with the ad that brought them.
-- **Qualified:** the person matches the persona on a short follow-up call.
-- **Adults only:** no ad is shown to anyone under 22, and no page asks for information about a child.
-- **No pixels** on the families page.
-- **No learning results** are claimed.
-
-## Pass lines
-
-These are set in advance and are our own, not industry benchmarks:
-- link click rate of 1% or more on Meta, and 0.5% or more on LinkedIn;
-- 5% or more of landing-page visitors sign up;
-- $10 or less per qualified sign-up.
-
-## Round two rules
-
-| If | Then |
-|---|---|
-| A persona misses every pass line | Drop it and move its budget to the leader |
-| Clicks are high but sign-ups are low | Rewrite the page; keep the ad |
-| Clicks are low but sign-ups are high | Test a sharper image and first line |
-| A1 and A2 differ by 2× or more | Keep the winning message; test two new versions of it |
-| Educators sign up fast | Cap at 20 co-designers; agree the first session with GES Cape Coast |
+- **Tracking:** UTM tags with `utm_campaign=nbc-partners-v1` and `utm_content` b1–b5. Requests are logged as leads in the CRM; qualified = matches the persona on a follow-up call.
+- **Care:**
+  - adults only, and no page asks about a child;
+  - the educator ad is shared with GES first;
+  - no learning results are claimed.
+- **Pass lines** (ours, not industry benchmarks):
+  - click rate of 0.5% or more on LinkedIn and 1% or more on Meta;
+  - 3% or more of page visitors request a brief or memo;
+  - $40 or less per qualified request.
 
 ## Results
 
@@ -61,4 +62,6 @@ These are set in advance and are our own, not industry benchmarks:
 | v1 | Wed 14 – Tue 20 Oct | Not run yet |
 | v2 | Wed 21 – Tue 27 Oct | Not run yet |
 
-**Decision on Tue 27 Oct:** which persona and message lead the pilot offer, our next meetings and the GES proposal.
+**Decision on Tue 27 Oct:** which partners lead the MOU proposal, the co-funding ask and the pre-seed round.
+
+*The earlier programme-owner plan is kept in [CAMPAIGN_PLAN_programme_owners.md](CAMPAIGN_PLAN_programme_owners.md).*
