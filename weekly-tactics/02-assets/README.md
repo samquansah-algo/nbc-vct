@@ -6,7 +6,7 @@
 
 | File | |
 |---|---|
-| [NBC_Identity_Tactic.pdf](NBC_Identity_Tactic.pdf) | **Upload this.** "An identity that sticks": 51 slides that follow the course template's order and cover every prompt, told as a brand story rather than as questions. Every slide links to its sources and to the brand guide |
+| [NBC_Identity_Tactic.pdf](NBC_Identity_Tactic.pdf) | **Upload this.** "An identity that sticks": 53 slides that follow the course template's order and cover every prompt, told as a brand story rather than as questions. Every slide links to its sources and to the brand guide |
 | [NBC_Identity_Tactic.pptx](NBC_Identity_Tactic.pptx) | The same slides as PowerPoint, with clickable link hotspots |
 | [slides/](slides/) | Each slide as a PNG |
 | [NBC_Assets_Tactic_template_prompts.pdf](NBC_Assets_Tactic_template_prompts.pdf) | Alternate: the earlier 20-slide version that states the template prompts |
@@ -26,7 +26,7 @@
 | Social Profiles | 04 The presence · 41 ([assets/social/](assets/social/)) |
 | Email Signature | 42 ([brand/email-signature/](../../brand/email-signature/)) |
 | Tactical Playbook | 05 The playbook · 44–45 |
-| Venture Updates | 06 Meanwhile · 47–50 |
+| Venture Updates | 06 Meanwhile · 47–52 (research, protection, government, educators, fellowships and funding, next four weeks) |
 
 ## Honest status
 

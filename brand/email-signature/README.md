@@ -25,4 +25,5 @@ Go to **Settings → Mail → Compose and reply → Email signature**, then past
 These follow the [brand guide](../NBC_Brand_Guide.pdf):
 - one colour for the NBC symbol, white on ink;
 - the master line, "Learning infrastructure for the next billion children";
-- no phone number or address in the public version. Add contact details in your own email client if needed.
+- name, role, Mandela Washington Fellow, and both work emails (samquansah@gse.harvard.edu, samquans@mit.edu);
+- no phone number or address in the public version.
