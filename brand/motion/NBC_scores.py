@@ -8,8 +8,8 @@ def launch():
     for t0, t1, r in [(0, 26, 36), (26, 40, 33), (40, 59, 36), (59, 77, 29), (77, 86, 36)]:
         mx.add(drone(r, t1-t0+3, .16), t0, 1, 0, .3)
     # 1 · stillness: a single tine and a drop as the piece appears
-    mx.add(kalimba(76, .35, 4), .6, 1, .1, .55); mx.add(drop(.18, 900), .65, 1, .2, .5)
-    for i, m in enumerate([67, 72, 76]): mx.add(kalimba(m, .28, 3), 2.4+i*.42, 1, -.3+.3*i, .55)
+    mx.add(kalimba(76, .35, 4), .1, 1, .1, .55); mx.add(drop(.18, 900), .12, 1, .2, .5)
+    for i, m in enumerate([67, 72, 76]): mx.add(kalimba(m, .28, 3), .6+i*.42, 1, -.3+.3*i, .55)
     mx.add(pad([48, 55, 62, 64], 7.5, .10, 700), 0, 1, 0, .5)
     # 2 · "learning isn't the answer"
     mx.add(pad([45, 52, 59, 64], 7.5, .10, 700), 7, 1, 0, .5)
@@ -51,15 +51,15 @@ def launch():
     mx.add(claypot(.35, 65), 78.0, .6, 0, .4)
     mx.add(pad([36, 48, 55, 60, 64, 67, 72], 8, .16, 1200, 1.5), 78, 1, 0, .65)
     for i, m in enumerate([60, 64, 67, 72, 76]): mx.add(kalimba(m, .25, 4.5), 78+i*.14, 1, -.4+.2*i, .65)
-    mx.add(glass(84, .06, 6), 80.0, 1, .2, .85); mx.add(harplute(72, .22), 81.6, 1, -.2, .7)
+    mx.add(glass(84, .06, 6), 79.6, 1, .2, .85); mx.add(harplute(72, .24), 80.6, 1, -.2, .7); mx.add(harplute(76, .2), 82.3, 1, .2, .7)
     return mx
 
 def teaser():
     mx = Mix(9.5)
     mx.add(air(9.5, 300, 2400, .10), 0, 1, 0, .6); mx.add(drone(36, 9.5, .14), 0, 1, 0, .3)
-    order_t = [0.4] + [1.3+k*.18 for k in range(1, 9)]; notes = [72, 76, 79, 74, 81, 77, 84, 79, 88]
+    order_t = [0.12] + [1.0+k*.2 for k in range(1, 9)]; notes = [72, 76, 79, 74, 81, 77, 84, 79, 88]
     for tt, m in zip(order_t, notes): mx.add(kalimba(m-12, .26, 2.6), tt, 1, (m % 5-2)*.22, .55)
-    mx.add(drop(.14, 880), .42, 1, 0, .5)
+    mx.add(drop(.14, 880), .14, 1, 0, .5)
     mx.add(air(1.0, 800, 3500, .10, .6), 2.9, 1, .3, .3)                       # the turn
     mx.add(swell([60, 64, 67, 72], 1.0, .18), 3.2, 1, 0, .6)
     mx.add(pad([53, 57, 60, 64], 2.2, .12, 1000, .5), 4.2, 1, 0, .6)
