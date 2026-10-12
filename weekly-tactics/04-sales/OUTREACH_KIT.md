@@ -32,8 +32,8 @@ Use [lead_list_template.csv](lead_list_template.csv). Record the source for ever
 > Would you be open to a 20-minute call next week to see if a pilot fits [program name]?
 > Sam Quansah · Founder, Algo Peers
 
-**2 · School leader (LinkedIn).** *Your micro:bits, working every week*
-> Hi [first name], many schools we work with have computing kits that sit unused because lessons take hours to prepare. NBC turns kits like micro:bits into ready-to-teach Learning Worlds, with a short record of what each pupil demonstrated, for parents and inspectors. We are opening a few pilot classrooms this term. Could I send you a one-page outline? Sam, Algo Peers
+**2 · School leader (LinkedIn).** *When pupils build it, they understand it*
+> Hi [first name], most pupils learn science and computing from the board. Few get to build something, watch it fail and try again. NBC gives your teachers ready-to-run Learning Worlds: hands-on challenges where pupils build and test real things, with a shared AI that helps the teacher prepare. Each pupil gets a short record of what they demonstrated, for parents. We are opening a few pilot classrooms this term. Could I send you a one-page outline? Sam, Algo Peers
 
 **3 · Sponsor (email).** Subject: *Hands-on learning you can report on*
 > Dear [first name],
