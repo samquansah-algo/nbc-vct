@@ -8,7 +8,7 @@ NBC's brand sits inside the **Algo Peers family**. It uses the Algo Peers brand 
 
 - **For:** programme owners, schools and the families they serve. Later, for education systems and research partners.
 - **Who:** want children to build real capability, not just get answers from AI.
-- **NBC is:** learning infrastructure. It provides programmable physical learning environments where children build, experiment and develop capabilities with shared AI.
+- **NBC is:** learning infrastructure. It builds Physical AI for learning: programmable physical environments where children build, experiment and develop capabilities with shared AI.
 - **Unlike:** screen-first apps, costly kits or tests of recall, NBC shows what a child can do when the task changes, and keeps that record with the family.
 
 ## Brand architecture
@@ -30,7 +30,11 @@ Each level has one job:
 3. **Offer:** "Change one thing." This is the line for the first Learning World family. It never stands in for NBC as a whole.
 4. **Proof:** "What we know. What we're testing. What isn't shown."
 
-**Supporting line:** "Programmable physical learning environments where children build, experiment and develop capabilities with shared AI."
+**Supporting line:** "Physical AI for learning: programmable physical environments where children build, experiment and develop capabilities with shared AI."
+
+**Elevator pitch (verbatim, since 12 Oct 2026):** "AI makes answers cheap, but the chance for children to investigate, build, get it wrong and try again is still costly. NBC builds Physical AI for learning: programmable physical environments where children build, experiment and develop capabilities with shared AI, starting from five years of Algo Peers practice in Cape Coast, Ghana."
+
+Physical AI here means AI working with children and real materials in a real room, not on a screen per child. It does not mean making boards such as the micro:bit "intelligent"; boards are one material among many.
 
 ## Scope: global brand, local proof
 

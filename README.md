@@ -4,7 +4,7 @@
 
 **Everything we use to build NBC this term: thesis, brand, marketing, research, forecasts, tactics, milestones and deadlines.**
 
-Algo Peers is building NBC: **programmable physical learning environments where children build, experiment and develop capabilities with shared AI.** Founder: Sam Quansah. Base: Cape Coast, Ghana. Term: Fall 2026.
+Algo Peers is building NBC: **Physical AI for learning: programmable physical environments where children build, experiment and develop capabilities with shared AI.** Founder: Sam Quansah. Base: Cape Coast, Ghana. Term: Fall 2026.
 
 **Our first customers are programme owners:** the people who run after-school clubs, holiday camps and learning centres for children aged about 9–12, starting in Cape Coast.
 
