@@ -4,25 +4,21 @@
 
 | File | |
 |---|---|
-| [NBC_Sales_Tactic.pdf](NBC_Sales_Tactic.pdf) | **Upload this.** 19 slides that follow the template strictly, slide for slide |
-| [NBC_Sales_Tactic.pptx](NBC_Sales_Tactic.pptx) | The same slides as PowerPoint, with link hotspots |
-| [OUTREACH_KIT.md](OUTREACH_KIT.md) | Profiles, pass lines, sources, the three messages, the sequence |
-| [lead_list_template.csv](lead_list_template.csv) | Columns for the 50+ leads per profile |
+| [NBC_Sales_Tactic.pdf](NBC_Sales_Tactic.pdf) | **Upload this.** "Earn the first yes": 36 slides covering every template prompt, in order |
+| [NBC_Sales_Tactic.pptx](NBC_Sales_Tactic.pptx) | The same slides as PowerPoint, with clickable links |
+| [OUTREACH_KIT.md](OUTREACH_KIT.md) | Profiles, reply targets, sources, the three messages, the follow-ups |
+| [lead_list_template.csv](lead_list_template.csv) | Columns for contact details, kept in our private CRM |
 
-| Template slide | Slides |
+| Template prompt | Slides |
 |---|---|
-| Title | 1 |
-| Venture Intro | 2 |
-| Experiment Outline (parts 1–3) | 3 |
-| Targets - Companies (B2B) | 4 |
-| Targets - Profiles | 5 |
-| Lead List for Profiles 1, 2, 3 | 6–8 |
-| Compelling Content | 9–11 |
-| Sequence | 12 |
-| Messages | 13 |
-| Responses | 14 |
-| Results | 15 |
-| Tactical Playbook | 16 |
-| Venture Updates | 17–19 |
+| Title, venture intro, brief | 1–3 |
+| Experiment outline (parts 1–3) | 4–7 |
+| Targets: companies (B2B) and three profiles | 8–12 |
+| Lead lists: 54 program owners, 53 school leaders, 51 sponsors | 13–19 |
+| Compelling content and sequence | 20–24 |
+| Messages, responses, results | 25–28 |
+| Tactical playbook | 29–31 |
+| Venture updates | 32–35 |
+| Contact | 36 |
 
-Lead lists, sent messages, responses and results are **placeholders until the team runs the outreach**. They are filled only with real data; nothing is estimated. Contact details stay in the private CRM.
+The lead lists show organisations, each checked in a web search on 12 Oct 2026 or marked "Confirm". Contact names and emails stay in our private CRM. Sent messages, responses and results are **placeholders until the team sends the messages**. They are filled only with real data; nothing is estimated. Contact details stay in the private CRM.
