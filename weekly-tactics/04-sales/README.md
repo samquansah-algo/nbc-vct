@@ -21,4 +21,4 @@
 | Venture updates | 32–35 |
 | Contact | 36 |
 
-The lead lists show organisations, each checked in a web search on 12 Oct 2026 or marked "Confirm". Contact names and emails stay in our private CRM. Sent messages, responses and results are **placeholders until the team sends the messages**. They are filled only with real data; nothing is estimated. Contact details stay in the private CRM.
+The lead lists show organisations researched in October 2026. Contacts are managed in our CRM. Sent messages, responses and results are **placeholders until the team sends the messages**. They are filled only with real data; nothing is estimated. Contact details stay in the private CRM.
